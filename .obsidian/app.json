@@ -1,0 +1,7 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachment",
+  "newFileFolderPath": "note",
+  "promptDelete": false
+}

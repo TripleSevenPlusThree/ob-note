@@ -1,0 +1,11 @@
+{
+  "new-note-template": "template/未命名.md",
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after"
+    }
+  ]
+}
