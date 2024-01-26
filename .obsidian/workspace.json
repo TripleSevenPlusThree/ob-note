@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/vscode配置.md"
+                "file": "note/技能总结/Git.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/vscode配置.md",
+                "file": "note/技能总结/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/vscode配置.md",
+                "file": "note/技能总结/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/vscode配置.md",
+                "file": "note/技能总结/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +181,9 @@
   },
   "active": "c7e28b380ee6a587",
   "lastOpenFiles": [
+    "note/技能总结/vscode配置.md",
     "note/技能总结/Git.md",
     "note/技能总结/markdown语法.md",
-    "note/技能总结/vscode配置.md",
     "note/技能总结/计算思维.md",
     "note/ob入门/ob基础操作.md",
     "总结与复盘/2024-01-01.md",

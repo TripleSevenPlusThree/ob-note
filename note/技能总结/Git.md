@@ -8,7 +8,7 @@ git是一种分布式版本控制系统。
 应用于多人协同开发场景
 ## .gitignore 文件的相关说明
 忽略文件内相关文件的版本更新内容
-
+使用：1. 直接在根目录下创建文本文档，并改名为 .gitignore；2. 将要忽略的文件名写入，每一个文件占一行。
 ## git的常用命令（链接的笔记中）
 [git常用命令1](https://www.xiaohongshu.com/explore/63dcf770000000001d010de9)
 [git常用命令2](https://www.xiaohongshu.com/explore/659baad0000000001802950e)
