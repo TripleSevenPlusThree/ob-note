@@ -6,7 +6,7 @@
       {
         "id": "f7db2d8b18d5bb29",
         "type": "tabs",
-        "dimension": 24.47289156626506,
+        "dimension": 23.927765237020317,
         "children": [
           {
             "id": "df2864be095a4b39",
@@ -23,7 +23,7 @@
       {
         "id": "04ba217b9304fd4f",
         "type": "tabs",
-        "dimension": 75.52710843373494,
+        "dimension": 76.07223476297969,
         "children": [
           {
             "id": "c7e28b380ee6a587",
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 200
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +182,15 @@
   },
   "active": "c7e28b380ee6a587",
   "lastOpenFiles": [
+    "数据库-MySQL/基础/SQL/DML.md",
+    "数据库-MySQL/基础/SQL/DDL.md",
+    "数据库-MySQL/基础/SQL/DCL.md",
+    "数据库-MySQL/基础/未命名.md",
+    "数据库-MySQL/基础/函数",
+    "attachment/20240128_140708.png",
+    "attachment/20240128_140205.png",
+    "attachment/20240128_140034.png",
+    "数据库-MySQL/基础/SQL/DQL.md",
     "attachment/20240128_120356.png",
     "attachment/20240128_120201.png",
     "attachment/20240128_115245.png",
@@ -189,21 +198,13 @@
     "attachment/20240128_114728.png",
     "attachment/20240128_114716.png",
     "attachment/20240128_114706.png",
-    "attachment/20240128_114056.png",
-    "attachment/20240128_113951.png",
-    "attachment/20240128_113400.png",
     "C++/STL初识/仿函数.md",
     "C++/STL初识/stl 中常用算法.md",
     "C++/STL初识/演讲比赛系统知识点总结.md",
     "C++/数据类型.md",
-    "数据库-MySQL/基础/SQL/DML.md",
-    "数据库-MySQL/基础/SQL/DQL.md",
-    "数据库-MySQL/基础/SQL/DDL.md",
     "数据库-MySQL/数据库基础概念.md",
-    "attachment/20240127_215532.png",
     "C++/文件操作.md",
     "数据库-MySQL/基础/SQL",
-    "数据库-MySQL/基础/未命名.md",
     "2024-W01.md",
     "note/技能总结/Git.md",
     "数据库-MySQL/运维",
@@ -224,12 +225,10 @@
     "总结与翻盘",
     "总结与复盘/2023-12-13.md",
     "总结与复盘/2023-12-17.md",
-    "总结与复盘/2024-01-19.md",
     "attachment/类和对象.pdf",
     "attachment/STL初识.pdf",
     "未命名.canvas",
     "未命名 2.canvas",
-    "未命名 1.canvas",
-    "attachment/运算符.pdf"
+    "未命名 1.canvas"
   ]
 }
