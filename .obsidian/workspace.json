@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/基础/SQL/DQL.md"
+                "file": "数据库-MySQL/基础/函数.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/基础/SQL/DQL.md",
+                "file": "数据库-MySQL/基础/函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/基础/SQL/DQL.md",
+                "file": "数据库-MySQL/基础/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/基础/SQL/DQL.md",
+                "file": "数据库-MySQL/基础/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,15 +182,16 @@
   },
   "active": "c7e28b380ee6a587",
   "lastOpenFiles": [
+    "数据库-MySQL/基础/约束.md",
+    "数据库-MySQL/基础/函数.md",
+    "数据库-MySQL/基础/SQL/DQL.md",
     "数据库-MySQL/基础/SQL/DML.md",
     "数据库-MySQL/基础/SQL/DDL.md",
     "数据库-MySQL/基础/SQL/DCL.md",
-    "数据库-MySQL/基础/未命名.md",
     "数据库-MySQL/基础/函数",
     "attachment/20240128_140708.png",
     "attachment/20240128_140205.png",
     "attachment/20240128_140034.png",
-    "数据库-MySQL/基础/SQL/DQL.md",
     "attachment/20240128_120356.png",
     "attachment/20240128_120201.png",
     "attachment/20240128_115245.png",
