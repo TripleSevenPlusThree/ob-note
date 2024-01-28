@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Excel.md"
+                "file": "数据库-MySQL/基础/函数.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "数据库-MySQL/基础/函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "数据库-MySQL/基础/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "数据库-MySQL/基础/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,6 +183,7 @@
   "active": "c7e28b380ee6a587",
   "lastOpenFiles": [
     "数据库-MySQL/基础/约束.md",
+    "note/技能总结/Excel.md",
     "attachment/20240128_155040.png",
     "attachment/20240128_152333.png",
     "attachment/20240128_152030.png",
