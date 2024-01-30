@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/基础/多表查询.md"
+                "file": "attachment/20240128_212800.png"
               }
             }
           }
@@ -29,11 +29,9 @@
             "id": "c7e28b380ee6a587",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "数据库-MySQL/基础/多表查询.md",
-                "mode": "source",
-                "source": false
+                "file": "attachment/20240128_212800.png"
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/基础/多表查询.md",
+                "file": "attachment/20240128_212800.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/基础/多表查询.md",
+                "file": "attachment/20240128_212800.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +180,10 @@
   },
   "active": "c7e28b380ee6a587",
   "lastOpenFiles": [
-    "数据库-MySQL/数据库基础概念.md",
     "数据库-MySQL/基础/多表查询.md",
+    "note/技能总结/vscode配置.md",
+    "note/技能总结/Git.md",
+    "数据库-MySQL/数据库基础概念.md",
     "attachment/20240128_212800.png",
     "attachment/20240128_212539.png",
     "attachment/20240128_211911 1.png",
@@ -194,7 +194,6 @@
     "attachment/20240128_211251.png",
     "attachment/20240128_210403.png",
     "attachment/20240128_205831.png",
-    "note/技能总结/Git.md",
     "数据库-MySQL/基础/约束.md",
     "数据库-MySQL/基础/函数.md",
     "note/技能总结/Excel.md",
@@ -215,7 +214,6 @@
     "数据库-MySQL/基础",
     "数据库-MySQL",
     "新建 文本文档.txt",
-    "note/技能总结/vscode配置.md",
     "note/技能总结/markdown语法.md",
     "note/技能总结/计算思维.md",
     "note/ob入门/ob基础操作.md",
