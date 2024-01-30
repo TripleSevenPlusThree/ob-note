@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachment/20240128_212800.png"
+                "file": "数据库-MySQL/基础/多表查询.md"
               }
             }
           }
@@ -29,9 +29,11 @@
             "id": "c7e28b380ee6a587",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachment/20240128_212800.png"
+                "file": "数据库-MySQL/基础/多表查询.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachment/20240128_212800.png",
+                "file": "数据库-MySQL/基础/多表查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachment/20240128_212800.png",
+                "file": "数据库-MySQL/基础/多表查询.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,20 +182,21 @@
   },
   "active": "c7e28b380ee6a587",
   "lastOpenFiles": [
+    "数据库-MySQL/基础/事务.md",
+    "attachment/20240130_221032.png",
+    "attachment/20240130_220945.png",
+    "attachment/20240130_215513.png",
     "数据库-MySQL/基础/多表查询.md",
+    "attachment/20240130_214238.png",
+    "attachment/20240130_213156.png",
+    "attachment/20240130_213543.png",
+    "attachment/20240130_212937.png",
+    "attachment/20240130_212916.png",
+    "attachment/20240130_212633.png",
+    "attachment/20240130_212335.png",
     "note/技能总结/vscode配置.md",
     "note/技能总结/Git.md",
     "数据库-MySQL/数据库基础概念.md",
-    "attachment/20240128_212800.png",
-    "attachment/20240128_212539.png",
-    "attachment/20240128_211911 1.png",
-    "attachment/20240128_212806.png",
-    "attachment/20240128_211911.png",
-    "attachment/20240128_211832.png",
-    "attachment/20240128_211301.png",
-    "attachment/20240128_211251.png",
-    "attachment/20240128_210403.png",
-    "attachment/20240128_205831.png",
     "数据库-MySQL/基础/约束.md",
     "数据库-MySQL/基础/函数.md",
     "note/技能总结/Excel.md",
@@ -221,7 +224,6 @@
     "总结与复盘/2023-12-28.md",
     "总结与复盘/2023-12-20.md",
     "总结与复盘/2024-01-18.md",
-    "note/技能总结/2024-01-18^771bbb.md",
     "总结与翻盘",
     "attachment/类和对象.pdf",
     "attachment/STL初识.pdf",
