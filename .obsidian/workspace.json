@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/基础/事务.md"
+                "file": "数据库-MySQL/数据库基础概念.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/基础/事务.md",
+                "file": "数据库-MySQL/数据库基础概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/基础/事务.md",
+                "file": "数据库-MySQL/数据库基础概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/基础/事务.md",
+                "file": "数据库-MySQL/数据库基础概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +182,12 @@
   },
   "active": "c7e28b380ee6a587",
   "lastOpenFiles": [
+    "数据库-MySQL/基础/事务.md",
+    "attachment/20240202_210825.png",
+    "attachment/20240202_204644.png",
+    "attachment/20240202_204047.png",
     "数据库-MySQL/基础/约束.md",
     "数据库-MySQL/基础/多表查询.md",
-    "数据库-MySQL/基础/事务.md",
     "attachment/20240130_221032.png",
     "attachment/20240130_220945.png",
     "attachment/20240130_215513.png",
@@ -192,9 +195,6 @@
     "attachment/20240130_213156.png",
     "attachment/20240130_213543.png",
     "attachment/20240130_212937.png",
-    "attachment/20240130_212916.png",
-    "attachment/20240130_212633.png",
-    "attachment/20240130_212335.png",
     "note/技能总结/vscode配置.md",
     "note/技能总结/Git.md",
     "数据库-MySQL/数据库基础概念.md",
