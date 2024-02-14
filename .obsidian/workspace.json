@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "f7db2d8b18d5bb29",
+        "id": "4e1f280103a69aa9",
         "type": "tabs",
-        "dimension": 23.927765237020317,
+        "dimension": 20.05856515373353,
         "children": [
           {
             "id": "df2864be095a4b39",
@@ -14,24 +14,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/索引.md"
+                "file": "数据库-MySQL/基础/SQL/DML.md"
               }
             }
           }
         ]
       },
       {
-        "id": "04ba217b9304fd4f",
+        "id": "90ae353b1c40e442",
         "type": "tabs",
-        "dimension": 76.07223476297969,
+        "dimension": 79.94143484626647,
         "children": [
           {
-            "id": "c7e28b380ee6a587",
+            "id": "695e95671224de71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/索引.md",
+                "file": "数据库-MySQL/基础/SQL/DML.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/索引.md",
+                "file": "数据库-MySQL/基础/SQL/DML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/索引.md",
+                "file": "数据库-MySQL/基础/SQL/DML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,10 +180,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c7e28b380ee6a587",
+  "active": "695e95671224de71",
   "lastOpenFiles": [
-    "note/技能总结/Git.md",
+    "数据库-MySQL/进阶/SQL优化.md",
+    "数据库-MySQL/基础/SQL/DQL.md",
+    "数据库-MySQL/基础/SQL/DML.md",
+    "数据库-MySQL/基础/SQL/DCL.md",
+    "数据库-MySQL/基础/多表查询.md",
     "数据库-MySQL/进阶/索引.md",
+    "数据库-MySQL/基础/事务.md",
+    "数据库-MySQL/基础/约束.md",
+    "note/技能总结/Git.md",
     "attachment/20240208_220216 1.png",
     "attachment/20240208_215404.png",
     "attachment/20240208_212638 1.png",
@@ -195,13 +202,7 @@
     "attachment/20240208_210114.png",
     "attachment/20240208_205920.png",
     "数据库-MySQL/进阶/存储引擎.md",
-    "数据库-MySQL/基础/事务.md",
-    "数据库-MySQL/基础/SQL/DQL.md",
-    "数据库-MySQL/基础/SQL/DCL.md",
-    "数据库-MySQL/基础/SQL/DML.md",
     "数据库-MySQL/基础/SQL/DDL.md",
-    "数据库-MySQL/基础/多表查询.md",
-    "数据库-MySQL/基础/约束.md",
     "总结与复盘/2024-02-05.md",
     "C++/STL初识/演讲比赛系统知识点总结.md",
     "C++/STL初识/stl常用算法.md",
