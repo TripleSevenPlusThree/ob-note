@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md"
+                "file": "总结与复盘/2024-02-15.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "总结与复盘/2024-02-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "总结与复盘/2024-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "总结与复盘/2024-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +182,8 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "数据库-MySQL/进阶/SQL优化.md",
+    "总结与复盘/2024-02-15.md",
     "attachment/20240214_215452.png",
     "attachment/20240214_215311.png",
     "attachment/20240214_214525.png",
@@ -192,10 +194,8 @@
     "attachment/20240214_212127.png",
     "attachment/20240214_211604.png",
     "attachment/20240214_211114.png",
-    "attachment/20240214_210851.png",
     "数据库-MySQL/进阶/索引.md",
     "数据库-MySQL/基础/SQL/DML.md",
-    "数据库-MySQL/进阶/SQL优化.md",
     "数据库-MySQL/基础/SQL/DQL.md",
     "数据库-MySQL/基础/SQL/DCL.md",
     "数据库-MySQL/基础/多表查询.md",
