@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/触发器.md"
+                "file": "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/触发器.md",
+                "file": "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/触发器.md",
+                "file": "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/触发器.md",
+                "file": "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,24 +180,25 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a1b0273dc607066a",
+  "active": "695e95671224de71",
   "lastOpenFiles": [
+    "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
+    "attachment/20240216_221010.png",
+    "attachment/20240216_220524.png",
+    "attachment/20240216_215800.png",
+    "attachment/20240216_215919.png",
+    "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
+    "attachment/20240216_221554.png",
     "数据库-MySQL/进阶/视图、存储过程，触发器",
     "attachment/20240216_221142 1.png",
     "attachment/20240216_221142.png",
     "attachment/20240216_214312.png",
     "attachment/20240216_214120.png",
     "数据库-MySQL/进阶/锁.md",
-    "数据库-MySQL/进阶/触发器.md",
-    "数据库-MySQL/进阶/存储过程.md",
+    "数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
     "attachment/20240216_164125 2.png",
-    "attachment/20240216_164125 1.png",
-    "attachment/20240216_164050.png",
-    "attachment/20240216_163843.png",
-    "attachment/20240216_163957.png",
-    "attachment/20240216_163728.png",
     "数据库-MySQL/基础/函数.md",
-    "数据库-MySQL/进阶/视图.md",
+    "数据库-MySQL/进阶/视图、存储过程，触发器/视图.md",
     "数据库-MySQL/进阶/SQL优化.md",
     "总结与复盘/2024-02-16.md",
     "总结与复盘/2024-02-15.md",
@@ -217,7 +218,6 @@
     "C++/STL初识/机房预约系统.md",
     "数据库-MySQL/数据库基础概念.md",
     "note/技能总结/vscode配置.md",
-    "note/技能总结/Excel.md",
     "数据库-MySQL/基础/函数",
     "数据库-MySQL/基础/SQL",
     "数据库-MySQL/运维",
@@ -227,7 +227,6 @@
     "新建 文本文档.txt",
     "总结与翻盘",
     "attachment/类和对象.pdf",
-    "attachment/STL初识.pdf",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
