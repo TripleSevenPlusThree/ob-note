@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md"
+                "file": "数据库-MySQL/进阶/锁.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
+                "file": "数据库-MySQL/进阶/锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
+                "file": "数据库-MySQL/进阶/锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
+                "file": "数据库-MySQL/进阶/锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +182,10 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
-    "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
+    "attachment/20240216_221851.png",
+    "attachment/20240216_221822.png",
     "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
+    "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
     "attachment/20240216_221010.png",
     "attachment/20240216_220524.png",
     "attachment/20240216_215800.png",
@@ -196,7 +198,6 @@
     "attachment/20240216_214120.png",
     "数据库-MySQL/进阶/锁.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
-    "attachment/20240216_164125 2.png",
     "数据库-MySQL/基础/函数.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/视图.md",
     "数据库-MySQL/进阶/SQL优化.md",
