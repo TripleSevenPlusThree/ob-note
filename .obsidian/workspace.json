@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md"
+                "file": "数据库-MySQL/进阶/视图.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "数据库-MySQL/进阶/视图.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "数据库-MySQL/进阶/视图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "数据库-MySQL/进阶/视图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +182,10 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "数据库-MySQL/进阶/SQL优化.md",
+    "数据库-MySQL/进阶/视图.md",
     "总结与复盘/2024-02-16.md",
     "总结与复盘/2024-02-15.md",
-    "数据库-MySQL/进阶/SQL优化.md",
     "attachment/20240214_215452.png",
     "attachment/20240214_215311.png",
     "attachment/20240214_214525.png",
@@ -219,7 +220,6 @@
     "C++/数据类型.md",
     "C++/文件操作.md",
     "数据库-MySQL/基础/SQL",
-    "2024-W01.md",
     "数据库-MySQL/运维",
     "数据库-MySQL/进阶",
     "数据库-MySQL/基础",
