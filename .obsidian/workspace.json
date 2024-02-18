@@ -182,8 +182,9 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
-    "数据库-MySQL/进阶/innodb引擎.md",
+    "note/技能总结/markdown语法.md",
     "数据库-MySQL/进阶/MySQL管理.md",
+    "数据库-MySQL/进阶/innodb引擎.md",
     "attachment/20240218_201450.png",
     "attachment/20240218_202038.png",
     "attachment/20240218_201347.png",
@@ -218,7 +219,6 @@
     "C++/STL初识/演讲比赛系统知识点总结.md",
     "C++/STL初识/stl常用算法.md",
     "C++/STL初识/机房预约系统.md",
-    "数据库-MySQL/数据库基础概念.md",
     "数据库-MySQL/基础/函数",
     "数据库-MySQL/基础/SQL",
     "数据库-MySQL/运维",
