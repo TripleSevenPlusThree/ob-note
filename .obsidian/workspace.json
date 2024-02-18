@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/锁.md"
+                "file": "数据库-MySQL/进阶/innodb引擎.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/锁.md",
+                "file": "数据库-MySQL/进阶/innodb引擎.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/锁.md",
+                "file": "数据库-MySQL/进阶/innodb引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/锁.md",
+                "file": "数据库-MySQL/进阶/innodb引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,18 +182,20 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
-    "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
+    "attachment/20240218_111226.png",
+    "attachment/20240218_110702.png",
+    "attachment/20240218_110355.png",
+    "attachment/20240218_110315 1.png",
+    "attachment/20240218_110315.png",
+    "attachment/20240218_105707.png",
+    "attachment/20240218_105145.png",
+    "attachment/20240218_104920.png",
+    "attachment/20240218_104245.png",
+    "attachment/20240218_104113.png",
+    "attachment/20240218_103835.png",
     "数据库-MySQL/进阶/锁.md",
-    "attachment/20240218_095001.png",
-    "attachment/20240218_094618.png",
-    "attachment/20240218_093715.png",
-    "attachment/20240218_093505.png",
-    "attachment/20240218_093317.png",
-    "attachment/20240218_092011 1.png",
-    "attachment/20240218_092011.png",
-    "attachment/20240218_091921.png",
-    "attachment/20240218_091748.png",
-    "attachment/20240217_100816.png",
+    "数据库-MySQL/进阶/innodb引擎.md",
+    "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
     "总结与复盘/2024-02-15.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
@@ -217,7 +219,6 @@
     "C++/STL初识/stl常用算法.md",
     "C++/STL初识/机房预约系统.md",
     "数据库-MySQL/数据库基础概念.md",
-    "note/技能总结/vscode配置.md",
     "数据库-MySQL/基础/函数",
     "数据库-MySQL/基础/SQL",
     "数据库-MySQL/运维",
