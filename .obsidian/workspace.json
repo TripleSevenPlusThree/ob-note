@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/MySQL管理.md"
+                "file": "数据库-MySQL/运维/日志/错误日志.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/MySQL管理.md",
+                "file": "数据库-MySQL/运维/日志/错误日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/MySQL管理.md",
+                "file": "数据库-MySQL/运维/日志/错误日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/MySQL管理.md",
+                "file": "数据库-MySQL/运维/日志/错误日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,19 +182,22 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
-    "note/技能总结/markdown语法.md",
     "数据库-MySQL/进阶/MySQL管理.md",
+    "数据库-MySQL/运维/日志/错误日志.md",
+    "数据库-MySQL/运维/未命名.md",
+    "数据库-MySQL/运维/日志",
+    "attachment/20240218_210240.png",
+    "attachment/20240218_205255.png",
+    "attachment/20240218_204818.png",
+    "attachment/20240218_204237.png",
+    "attachment/20240218_203811.png",
+    "attachment/20240218_203720.png",
+    "attachment/20240218_203131.png",
+    "attachment/20240218_203125.png",
+    "attachment/20240218_202805.png",
     "数据库-MySQL/进阶/innodb引擎.md",
-    "attachment/20240218_201450.png",
-    "attachment/20240218_202038.png",
-    "attachment/20240218_201347.png",
-    "attachment/20240218_201204.png",
-    "attachment/20240218_200726.png",
-    "attachment/20240218_200420.png",
-    "attachment/20240218_200151.png",
-    "attachment/20240218_111226.png",
-    "attachment/20240218_110702.png",
-    "attachment/20240218_110355.png",
+    "attachment/20240218_200151 1.png",
+    "note/技能总结/markdown语法.md",
     "数据库-MySQL/进阶/锁.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
@@ -217,8 +220,6 @@
     "数据库-MySQL/基础/SQL/DDL.md",
     "总结与复盘/2024-02-05.md",
     "C++/STL初识/演讲比赛系统知识点总结.md",
-    "C++/STL初识/stl常用算法.md",
-    "C++/STL初识/机房预约系统.md",
     "数据库-MySQL/基础/函数",
     "数据库-MySQL/基础/SQL",
     "数据库-MySQL/运维",
@@ -227,7 +228,6 @@
     "数据库-MySQL",
     "新建 文本文档.txt",
     "总结与翻盘",
-    "attachment/类和对象.pdf",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
