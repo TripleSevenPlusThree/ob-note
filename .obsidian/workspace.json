@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/运维/主从复制.md"
+                "file": "数据库-MySQL/数据库基础概念.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/运维/主从复制.md",
+                "file": "数据库-MySQL/数据库基础概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/运维/主从复制.md",
+                "file": "数据库-MySQL/数据库基础概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/运维/主从复制.md",
+                "file": "数据库-MySQL/数据库基础概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,19 +182,20 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
-    "attachment/20240219_112956.png",
-    "attachment/20240219_112721.png",
-    "attachment/20240219_112317.png",
-    "attachment/20240219_111837.png",
-    "attachment/20240219_111441.png",
-    "attachment/20240219_111352.png",
-    "attachment/20240219_111103.png",
-    "attachment/20240219_110830.png",
-    "attachment/20240219_110532.png",
-    "attachment/20240219_110140.png",
-    "数据库-MySQL/运维/日志.md",
-    "attachment/20240219_110118.png",
+    "数据库-MySQL/运维/读写分离.md",
+    "数据库-MySQL/运维/分库分表.md",
+    "attachment/20240219_154203.png",
+    "attachment/20240219_153701 1.png",
+    "attachment/20240219_153701.png",
+    "attachment/20240219_145924.png",
+    "attachment/20240219_145735.png",
+    "attachment/20240219_145426.png",
+    "attachment/20240219_145148.png",
+    "attachment/20240219_144854.png",
+    "attachment/20240219_144707.png",
+    "attachment/20240219_144557.png",
     "数据库-MySQL/运维/主从复制.md",
+    "数据库-MySQL/运维/日志.md",
     "总结与复盘/2024-02-19.md",
     "数据库-MySQL/进阶/innodb引擎.md",
     "总结与复盘/2024-02-17.md",
@@ -218,8 +219,6 @@
     "数据库-MySQL/基础/SQL/DCL.md",
     "数据库-MySQL/基础/多表查询.md",
     "数据库-MySQL/基础/事务.md",
-    "数据库-MySQL/基础/约束.md",
-    "note/技能总结/Git.md",
     "数据库-MySQL/基础/函数",
     "数据库-MySQL/基础/SQL",
     "数据库-MySQL/运维",
