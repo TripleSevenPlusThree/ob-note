@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-02-19.md"
+                "file": "数据库-MySQL/运维/日志.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-02-19.md",
+                "file": "数据库-MySQL/运维/日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-02-19.md",
+                "file": "数据库-MySQL/运维/日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-02-19.md",
+                "file": "数据库-MySQL/运维/日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,14 +180,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "695e95671224de71",
+  "active": "a1b0273dc607066a",
   "lastOpenFiles": [
-    "数据库-MySQL/进阶/innodb引擎.md",
     "总结与复盘/2024-02-19.md",
+    "数据库-MySQL/进阶/innodb引擎.md",
     "总结与复盘/2024-02-17.md",
     "数据库-MySQL/进阶/MySQL管理.md",
     "C++/其他补充/字符处理函数.md",
-    "数据库-MySQL/运维/日志/错误日志.md",
+    "数据库-MySQL/运维/日志.md",
     "数据库-MySQL/运维/未命名.md",
     "数据库-MySQL/运维/日志",
     "attachment/20240218_210240.png",
