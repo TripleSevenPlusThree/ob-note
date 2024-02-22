@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/测试.md"
+                "file": "note/python/选择多文件操作.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/测试.md",
+                "file": "note/python/选择多文件操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/测试.md",
+                "file": "note/python/选择多文件操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/测试.md",
+                "file": "note/python/选择多文件操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,10 +182,14 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "attachment/20240222_221414.png",
+    "attachment/20240222_221408.png",
+    "attachment/20240222_220057.png",
+    "note/测试.md",
+    "note/python/选择多文件操作.md",
     "数据库-MySQL/基础/SQL/DQL.md",
     "C++/其他补充/枚举.md",
     "C++/其他补充/递归函数.md",
-    "note/测试.md",
     "attachment/20240221_214126.png",
     "数据库-MySQL/数据库基础概念.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/视图.md",
@@ -207,8 +211,6 @@
     "总结与复盘/2023-11-10.md",
     "总结与复盘/2023-10-15.md",
     "总结与复盘/2023-10-13.md",
-    "数据库-MySQL/进阶/MySQL管理.md",
-    "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
     "attachment/20240219_163516.png",
     "attachment/20240219_154203.png",
     "attachment/20240219_153701 1.png",
@@ -216,8 +218,6 @@
     "attachment/20240219_145924.png",
     "attachment/20240219_145735.png",
     "attachment/20240219_145426.png",
-    "attachment/20240219_145148.png",
-    "attachment/20240219_144854.png",
     "数据库-MySQL/运维/日志",
     "数据库-MySQL/进阶/视图、存储过程，触发器",
     "数据库-MySQL/基础/函数",
