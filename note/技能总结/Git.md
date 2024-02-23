@@ -26,6 +26,9 @@ git是一种分布式版本控制系统。
 ## 习惯养成
 1. 项目分类的习惯；开发前确定好总体框架（架构设计），以及文件的架构。
 2. 进行版本控制：方便管理和协同开发。
+3. 在使用 git remote add origin  url  连接远程仓库时 ，一定要先将远程仓库与本地一致，及先 git pull origin 分支（main） 在执行 git add  . 等一系列操作，不然本地与远程main分支会不一致，导致冲突
+		若出现  error: failed to push some refs to 'github.com:cyyf1314/modifySizeOfPhotoInmd.git'  错误
+		 使用  git pull --rebase origin master 命令即可解决冲突
 
 ## ssh相关问题
 1. 使用git关联github远程仓库时要关掉加速器，不然端口会冲突导致ssh不能使用
