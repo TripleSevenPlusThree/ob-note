@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/索引.md"
+                "file": "note/python/测试.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/索引.md",
+                "file": "note/python/测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/索引.md",
+                "file": "note/python/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/索引.md",
+                "file": "note/python/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +182,11 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "attachment/20240223_205359.png",
+    "数据库-MySQL/进阶/索引.md",
+    "note/python/测试.md",
     "数据库-MySQL/进阶/MySQL管理.md",
     "数据库-MySQL/进阶/锁.md",
-    "数据库-MySQL/进阶/索引.md",
     "数据库-MySQL/进阶/存储引擎.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/视图.md",
@@ -216,8 +218,6 @@
     "数据库-MySQL/基础/SQL/DQL.md",
     "C++/其他补充/枚举.md",
     "C++/其他补充/递归函数.md",
-    "数据库-MySQL/数据库基础概念.md",
-    "总结与复盘/2024-02-15.md",
     "数据库-MySQL/运维/日志",
     "数据库-MySQL/进阶/视图、存储过程，触发器",
     "数据库-MySQL/基础/函数",
