@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md"
+                "file": "数据库-MySQL/进阶/索引.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/进阶/SQL优化.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,16 +182,16 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
-    "数据库-MySQL/进阶/存储引擎.md",
-    "数据库-MySQL/进阶/SQL优化.md",
-    "数据库-MySQL/进阶/锁.md",
-    "数据库-MySQL/进阶/innodb引擎.md",
     "数据库-MySQL/进阶/MySQL管理.md",
-    "数据库-MySQL/进阶/视图、存储过程，触发器/视图.md",
+    "数据库-MySQL/进阶/锁.md",
+    "数据库-MySQL/进阶/索引.md",
+    "数据库-MySQL/进阶/存储引擎.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
+    "数据库-MySQL/进阶/视图、存储过程，触发器/视图.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
-    "数据库-MySQL/进阶/索引.md",
+    "数据库-MySQL/进阶/SQL优化.md",
+    "数据库-MySQL/进阶/innodb引擎.md",
     "数据库-MySQL/运维/主从复制.md",
     "数据库-MySQL/运维/日志.md",
     "数据库-MySQL/运维/分库分表.md",
