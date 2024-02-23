@@ -29,7 +29,8 @@ git是一种分布式版本控制系统。
 3. 在使用 git remote add origin  url  连接远程仓库时 ，一定要先将远程仓库与本地一致，及先 git pull origin 分支（main） 在执行 git add  . 等一系列操作，不然本地与远程main分支会不一致，导致冲突
 		若出现  error: failed to push some refs to 'github.com:cyyf1314/modifySizeOfPhotoInmd.git'  错误
 		 使用  git pull --rebase origin master 命令即可解决冲突
-
+4. 要开发一个项目时，先在远程创建一个仓库，再克隆到本地，然后再将本地仓库添加到编辑器工作区。这是保持两端同步最方便的方法
+5. 第二次以后的更改同样需要 git add 文件名 、git commit -m " "，此时只需要git push即可，因为第一次提交以指定了分支（前提是在主分支中），次分支需要合并到主分支再提交，或直接提交到远程的对应的次分支
 ## ssh相关问题
 1. 使用git关联github远程仓库时要关掉加速器，不然端口会冲突导致ssh不能使用
 2. ssh端口冲突的解决方案：
