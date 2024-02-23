@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/python/测试2.md"
+                "file": "数据库-MySQL/进阶/索引.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/python/测试2.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/python/测试2.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/python/测试2.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +182,13 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "数据库-MySQL/运维/读写分离.md",
+    "数据库-MySQL/运维/分库分表.md",
+    "数据库-MySQL/运维/主从复制.md",
+    "数据库-MySQL/进阶/存储引擎.md",
+    "数据库-MySQL/进阶/SQL优化.md",
+    "数据库-MySQL/进阶/索引.md",
+    "数据库-MySQL/基础/SQL/DDL.md",
     "note/python/测试.md",
     "note/python/测试2.md",
     "note/python/选择多文件操作.md",
@@ -211,11 +218,6 @@
     "总结与复盘/2024-02-16.md",
     "总结与复盘/2023-12-13.md",
     "总结与复盘/2023-12-06.md",
-    "总结与复盘/2024-01-18.md",
-    "总结与复盘/2024-01-01.md",
-    "总结与复盘/2023-12-28.md",
-    "总结与复盘/2023-12-17.md",
-    "总结与复盘/2023-12-04.md",
     "数据库-MySQL/运维/日志",
     "数据库-MySQL/进阶/视图、存储过程，触发器",
     "数据库-MySQL/基础/函数",
