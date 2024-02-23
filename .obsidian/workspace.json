@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/python/选择多文件操作.md"
+                "file": "note/python/测试.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/python/选择多文件操作.md",
+                "file": "note/python/测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/python/选择多文件操作.md",
+                "file": "note/python/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/python/选择多文件操作.md",
+                "file": "note/python/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,21 +182,21 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "note/python/测试2.md",
+    "note/python/测试.md",
+    "attachment/20240222_224642 1.png",
+    "attachment/20240222_221359 1.png",
+    "attachment/20240222_221408 2.png",
+    "attachment/20240222_224700 1.png",
+    "attachment/20240222_224919 1.png",
+    "attachment/20240221_214126 2.png",
+    "note/python/选择多文件操作.md",
+    "note/python/基础知识.md",
     "attachment/20240222_224906.png",
     "attachment/20240222_224919.png",
     "attachment/20240222_224700.png",
     "attachment/20240222_224642.png",
-    "attachment/20240222_223805.png",
-    "attachment/20240222_223515.png",
-    "attachment/20240222_221408 1.png",
-    "attachment/20240222_221359.png",
     "note/python/测试1.md",
-    "note/python/测试2.md",
-    "note/python/选择多文件操作.md",
-    "note/python/基础知识.md",
-    "attachment/20240222_213114.png",
-    "attachment/20240221_214126 1.png",
-    "attachment/20240222_221414.png",
     "note/测试.md",
     "数据库-MySQL/基础/SQL/DQL.md",
     "C++/其他补充/枚举.md",
@@ -216,8 +216,6 @@
     "总结与复盘/2023-12-28.md",
     "总结与复盘/2023-12-17.md",
     "总结与复盘/2023-12-04.md",
-    "总结与复盘/2023-11-25.md",
-    "总结与复盘/2023-11-28.md",
     "数据库-MySQL/运维/日志",
     "数据库-MySQL/进阶/视图、存储过程，触发器",
     "数据库-MySQL/基础/函数",
