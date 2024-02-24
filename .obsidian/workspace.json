@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/python/测试.md"
+                "file": "总结与复盘/2024-02-24.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/python/测试.md",
+                "file": "总结与复盘/2024-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/python/测试.md",
+                "file": "总结与复盘/2024-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/python/测试.md",
+                "file": "总结与复盘/2024-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +182,9 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
-    "note/技能总结/Git.md",
     "note/python/测试.md",
+    "总结与复盘/2024-02-24.md",
+    "note/技能总结/Git.md",
     "attachment/20240223_205359.png",
     "数据库-MySQL/进阶/索引.md",
     "数据库-MySQL/进阶/MySQL管理.md",
