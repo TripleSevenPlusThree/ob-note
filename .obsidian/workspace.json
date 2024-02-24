@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/看板/未命名看板.md"
+                "file": "总结与复盘/看板/测试.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "总结与复盘/看板/未命名看板.md"
+                "file": "总结与复盘/看板/测试.md"
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/看板/未命名看板.md",
+                "file": "总结与复盘/看板/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/看板/未命名看板.md",
+                "file": "总结与复盘/看板/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
   "active": "695e95671224de71",
   "lastOpenFiles": [
     "总结与复盘/2024-02-24.md",
-    "总结与复盘/看板/未命名看板.md",
+    "总结与复盘/看板/测试.md",
     "总结与复盘/看板",
     "note/ob入门/ob基础操作.md",
     "未命名.canvas",
