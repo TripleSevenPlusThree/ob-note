@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/基础/多表查询.md"
+                "file": "数据库-MySQL/进阶/存储引擎.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/基础/多表查询.md",
+                "file": "数据库-MySQL/进阶/存储引擎.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/基础/多表查询.md",
+                "file": "数据库-MySQL/进阶/存储引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/基础/多表查询.md",
+                "file": "数据库-MySQL/进阶/存储引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,21 +183,23 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "数据库-MySQL/进阶/索引.md",
+    "数据库-MySQL/进阶/SQL优化.md",
+    "数据库-MySQL/进阶/innodb引擎.md",
+    "数据库-MySQL/进阶/MySQL管理.md",
     "数据库-MySQL/基础/SQL/DDL.md",
+    "数据库-MySQL/基础/多表查询.md",
     "数据库-MySQL/基础/SQL/DCL.md",
     "数据库-MySQL/基础/SQL/DQL.md",
     "数据库-MySQL/基础/SQL/DML.md",
     "总结与复盘/2024-02-24.md",
     "数据库-MySQL/基础/事务.md",
-    "数据库-MySQL/基础/多表查询.md",
     "数据库-MySQL/基础/约束.md",
     "数据库-MySQL/基础/函数.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/视图.md",
     "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
     "数据库-MySQL/进阶/锁.md",
-    "数据库-MySQL/进阶/MySQL管理.md",
-    "数据库-MySQL/进阶/索引.md",
     "数据库-MySQL/进阶/存储引擎.md",
     "数据库-MySQL/数据库基础概念.md",
     "总结与复盘/2024-02-15.md",
@@ -209,8 +211,6 @@
     "note/技能总结/Git.md",
     "attachment/20240223_205359.png",
     "数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
-    "数据库-MySQL/进阶/SQL优化.md",
-    "数据库-MySQL/进阶/innodb引擎.md",
     "数据库-MySQL/运维/主从复制.md",
     "attachment/20240222_220057 1.png",
     "attachment/20240222_221359 2.png",
