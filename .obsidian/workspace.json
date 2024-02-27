@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#计算思维/复盘总结",
+                "query": "tag:#summary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "695e95671224de71",
+  "active": "815ec1ebb4b1cbff",
   "lastOpenFiles": [
+    "attachment/20240227_070150.png",
     "总结与复盘/2024-02-27.md",
     "note/网站开发.md",
     "note/技能总结/vscode配置.md",
@@ -208,7 +210,6 @@
     "数据库-MySQL/基础/SQL/DCL.md",
     "数据库-MySQL/基础/SQL/DQL.md",
     "数据库-MySQL/基础/SQL/DML.md",
-    "总结与复盘/2024-02-24.md",
     "总结与复盘/看板",
     "未命名.canvas",
     "attachment/20240223_205359.png",
