@@ -6,7 +6,7 @@
       {
         "id": "4e1f280103a69aa9",
         "type": "tabs",
-        "dimension": 20.05856515373353,
+        "dimension": 13.24582338902148,
         "children": [
           {
             "id": "df2864be095a4b39",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/类和对象.md"
+                "file": "note/技能总结/vscode配置.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "90ae353b1c40e442",
         "type": "tabs",
-        "dimension": 79.94143484626647,
+        "dimension": 86.75417661097852,
         "children": [
           {
             "id": "695e95671224de71",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/类和对象.md",
+                "file": "note/技能总结/vscode配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/类和对象.md",
+                "file": "note/技能总结/vscode配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/类和对象.md",
+                "file": "note/技能总结/vscode配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +183,17 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "C++/其他补充/补充.md",
+    "C++/其他补充/字符处理函数.md",
+    "C++/其他补充/函数指针.md",
+    "C++/其他补充/练习.md",
+    "note/技能总结/markdown语法.md",
+    "note/技能总结/vscode配置.md",
+    "note/技能总结/Git.md",
+    "C++/其他补充/智能指针.md",
+    "C++/类和对象.md",
     "C++/函数.md",
     "C++/文件操作.md",
-    "C++/类和对象.md",
     "数据库-MySQL/数据库基础概念.md",
     "数据库-MySQL/基础/约束.md",
     "数据库-MySQL/基础/SQL/DDL.md",
@@ -202,14 +210,6 @@
     "总结与复盘/2024-02-24.md",
     "数据库-MySQL/基础/事务.md",
     "数据库-MySQL/基础/函数.md",
-    "数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
-    "数据库-MySQL/进阶/视图、存储过程，触发器/视图.md",
-    "数据库-MySQL/进阶/视图、存储过程，触发器/触发器.md",
-    "数据库-MySQL/进阶/锁.md",
-    "总结与复盘/2024-02-15.md",
-    "总结与复盘/看板/测试.md",
-    "note/ob入门/ob基础操作.md",
-    "note/python/测试.md",
     "总结与复盘/看板",
     "未命名.canvas",
     "attachment/20240223_205359.png",
