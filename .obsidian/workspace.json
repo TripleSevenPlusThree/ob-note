@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/网站开发.md"
+                "file": "总结与复盘/2024-02-27.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/网站开发.md",
+                "file": "总结与复盘/2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/网站开发.md",
+                "file": "总结与复盘/2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/网站开发.md",
+                "file": "总结与复盘/2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +182,9 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
-    "note/技能总结/vscode配置.md",
+    "总结与复盘/2024-02-27.md",
     "note/网站开发.md",
+    "note/技能总结/vscode配置.md",
     "C++/其他补充/补充.md",
     "C++/其他补充/字符处理函数.md",
     "C++/其他补充/函数指针.md",
@@ -209,7 +209,6 @@
     "数据库-MySQL/基础/SQL/DQL.md",
     "数据库-MySQL/基础/SQL/DML.md",
     "总结与复盘/2024-02-24.md",
-    "数据库-MySQL/基础/事务.md",
     "总结与复盘/看板",
     "未命名.canvas",
     "attachment/20240223_205359.png",
