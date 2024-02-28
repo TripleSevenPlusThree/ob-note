@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,10 +180,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "815ec1ebb4b1cbff",
+  "active": "0f0c4e1f78c9f617",
   "lastOpenFiles": [
-    "attachment/20240227_070150.png",
+    "数据库-MySQL/基础/SQL/DDL.md",
+    "数据库-MySQL/数据库基础概念.md",
     "总结与复盘/2024-02-27.md",
+    "attachment/20240227_070150.png",
     "note/网站开发.md",
     "note/技能总结/vscode配置.md",
     "C++/其他补充/补充.md",
@@ -197,9 +198,7 @@
     "C++/类和对象.md",
     "C++/函数.md",
     "C++/文件操作.md",
-    "数据库-MySQL/数据库基础概念.md",
     "数据库-MySQL/基础/约束.md",
-    "数据库-MySQL/基础/SQL/DDL.md",
     "数据库-MySQL/进阶/SQL优化.md",
     "数据库-MySQL/未命名",
     "数据库-MySQL/进阶/存储引擎.md",
@@ -221,7 +220,6 @@
     "attachment/20240222_224700 1.png",
     "attachment/20240222_224919 1.png",
     "attachment/20240221_214126 2.png",
-    "attachment/20240222_224906.png",
     "数据库-MySQL/运维/日志",
     "数据库-MySQL/进阶/视图、存储过程，触发器",
     "数据库-MySQL/基础/函数",
