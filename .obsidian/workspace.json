@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据库-MySQL/基础/事务.md"
+                "file": "数据库-MySQL/进阶/索引.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库-MySQL/基础/事务.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库-MySQL/基础/事务.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据库-MySQL/基础/事务.md",
+                "file": "数据库-MySQL/进阶/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +182,13 @@
   },
   "active": "695e95671224de71",
   "lastOpenFiles": [
+    "attachment/20240302_202502.png",
+    "数据库-MySQL/基础/约束.md",
+    "数据库-MySQL/基础/多表查询.md",
+    "数据库-MySQL/基础/SQL/DQL.md",
+    "数据库-MySQL/基础/SQL/DDL.md",
+    "数据库-MySQL/基础/SQL/DML.md",
+    "数据库-MySQL/基础/事务.md",
     "总结与复盘/2024-03-02.md",
     "总结与复盘/2024-03-01.md",
     "C++/其他补充/c++分目录编写.md",
@@ -207,14 +214,7 @@
     "总结与复盘/2023-12-17.md",
     "总结与复盘/2024-02-19.md",
     "总结与复盘/2024-01-18.md",
-    "数据库-MySQL/基础/SQL/DDL.md",
-    "数据库-MySQL/数据库基础概念.md",
     "attachment/20240227_070150.png",
-    "note/网站开发.md",
-    "note/技能总结/vscode配置.md",
-    "C++/其他补充/补充.md",
-    "C++/其他补充/字符处理函数.md",
-    "C++/其他补充/函数指针.md",
     "数据库-MySQL/未命名",
     "总结与复盘/看板",
     "未命名.canvas",
