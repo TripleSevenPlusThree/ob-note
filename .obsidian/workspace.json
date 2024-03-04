@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Excel.md"
+                "file": "总结与复盘/2024-03-04.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +200,9 @@
       "obsidian-custom-frames:Open 秘塔ai": false
     }
   },
-  "active": "c751d1d40f5d0ebd",
+  "active": "f06189ba4877ebff",
   "lastOpenFiles": [
+    "note/技能总结/Excel.md",
     "总结与复盘/2024-03-04.md",
     "总结与复盘/2024-03-02.md",
     "文章",
