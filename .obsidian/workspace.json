@@ -121,9 +121,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "9fc905c7d6702f0e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-文心一言",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "3dcdf3b36befa157",
@@ -157,7 +165,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "df2864be095a4b39",
+  "active": "9fc905c7d6702f0e",
   "lastOpenFiles": [
     "总结与复盘/2024-03-04.md",
     "总结与复盘/2024-03-02.md",
