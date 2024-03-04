@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -97,7 +96,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 61.143410852713174,
+        "dimension": 53.19767441860465,
         "children": [
           {
             "id": "ee1c35000e2fb358",
@@ -129,14 +128,6 @@
             }
           },
           {
-            "id": "0f0c4e1f78c9f617",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "dd6dcde933859b7a",
             "type": "leaf",
             "state": {
@@ -145,6 +136,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "0f0c4e1f78c9f617",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -164,12 +163,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "3dcdf3b36befa157",
         "type": "tabs",
-        "dimension": 38.856589147286826,
+        "dimension": 46.80232558139535,
         "children": [
           {
             "id": "24a4069f61b1c74a",
@@ -183,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +200,7 @@
   },
   "active": "f06189ba4877ebff",
   "lastOpenFiles": [
+    "attachment/02AB5C7D.png",
     "note/技能总结/Excel.md",
     "总结与复盘/2024-03-04.md",
     "总结与复盘/2024-03-02.md",
@@ -235,7 +234,6 @@
     "attachment/类和对象.pdf",
     "C++/类和对象.md",
     "C++/STL初识/仿函数.md",
-    "C++/STL初识/stl 中常用算法.md",
     "attachment/20240227_070150.png",
     "数据库-MySQL/未命名",
     "总结与复盘/看板",
