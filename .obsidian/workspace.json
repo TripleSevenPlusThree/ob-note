@@ -96,7 +96,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 31.492248062015506,
+        "dimension": 32.55813953488372,
         "children": [
           {
             "id": "ee1c35000e2fb358",
@@ -152,7 +152,7 @@
       {
         "id": "3dcdf3b36befa157",
         "type": "tabs",
-        "dimension": 68.5077519379845,
+        "dimension": 67.44186046511628,
         "children": [
           {
             "id": "24a4069f61b1c74a",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +180,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a1b0273dc607066a",
+  "active": "695e95671224de71",
   "lastOpenFiles": [
+    "总结与复盘/2024-03-02.md",
+    "总结与复盘/2024-03-04.md",
     "文章",
     "note/读书笔记/批判性思维与创造性思维.md",
-    "总结与复盘/2024-03-04.md",
-    "总结与复盘/2024-03-02.md",
     "总结与复盘/2024-03-01.md",
     "总结与复盘/2024-02-19.md",
     "总结与复盘/2024-02-24.md",
@@ -228,7 +228,6 @@
     "数据库-MySQL/基础/函数",
     "数据库-MySQL/基础/SQL",
     "数据库-MySQL/运维",
-    "数据库-MySQL/进阶",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
