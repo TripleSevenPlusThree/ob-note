@@ -6,35 +6,13 @@
       {
         "id": "4e1f280103a69aa9",
         "type": "tabs",
-        "dimension": 14.903129657228016,
         "children": [
           {
             "id": "df2864be095a4b39",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "总结与复盘/2024-03-04.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "90ae353b1c40e442",
-        "type": "tabs",
-        "dimension": 85.09687034277198,
-        "children": [
-          {
-            "id": "695e95671224de71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总结与复盘/2024-03-04.md",
-                "mode": "source",
-                "source": false
-              }
+              "state": {}
             }
           }
         ]
@@ -104,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open 文心一言": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -180,10 +157,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0f0c4e1f78c9f617",
+  "active": "df2864be095a4b39",
   "lastOpenFiles": [
-    "总结与复盘/2024-03-02.md",
     "总结与复盘/2024-03-04.md",
+    "总结与复盘/2024-03-02.md",
     "文章",
     "note/读书笔记/批判性思维与创造性思维.md",
     "总结与复盘/2024-03-01.md",
