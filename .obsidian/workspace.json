@@ -6,7 +6,7 @@
       {
         "id": "4e1f280103a69aa9",
         "type": "tabs",
-        "dimension": 13.24582338902148,
+        "dimension": 14.903129657228016,
         "children": [
           {
             "id": "df2864be095a4b39",
@@ -23,7 +23,7 @@
       {
         "id": "90ae353b1c40e442",
         "type": "tabs",
-        "dimension": 86.75417661097852,
+        "dimension": 85.09687034277198,
         "children": [
           {
             "id": "695e95671224de71",
@@ -180,7 +180,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "695e95671224de71",
+  "active": "df2864be095a4b39",
   "lastOpenFiles": [
     "总结与复盘/2024-03-02.md",
     "总结与复盘/2024-03-04.md",
