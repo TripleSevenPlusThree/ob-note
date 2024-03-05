@@ -106,8 +106,17 @@
               "type": "custom-frames-秘塔ai",
               "state": {}
             }
+          },
+          {
+            "id": "ab2202394af511b9",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-dpl",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -203,10 +212,11 @@
       "templater-obsidian:Templater": false,
       "workspaces:管理工作区布局": false,
       "obsidian-custom-frames:Open 文心一言": false,
-      "obsidian-custom-frames:Open 秘塔ai": false
+      "obsidian-custom-frames:Open 秘塔ai": false,
+      "obsidian-custom-frames:Open DPL": false
     }
   },
-  "active": "f06189ba4877ebff",
+  "active": "ab2202394af511b9",
   "lastOpenFiles": [
     "attachment/02AB5C7D.png",
     "note/技能总结/Excel.md",
