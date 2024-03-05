@@ -48,6 +48,15 @@
         "Mod",
         "Shift"
       ],
+      "key": "Q"
+    }
+  ],
+  "deepl:deepl-translate-selection-to": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
       "key": "S"
     }
   ]
