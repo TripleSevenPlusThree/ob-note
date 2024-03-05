@@ -6,7 +6,7 @@
       {
         "id": "73038356524a0123",
         "type": "tabs",
-        "dimension": 14.947683109118085,
+        "dimension": 16.168148746968473,
         "children": [
           {
             "id": "df2864be095a4b39",
@@ -23,7 +23,7 @@
       {
         "id": "4e1f280103a69aa9",
         "type": "tabs",
-        "dimension": 85.05231689088191,
+        "dimension": 83.83185125303153,
         "children": [
           {
             "id": "f06189ba4877ebff",
@@ -49,6 +49,7 @@
       {
         "id": "38180af5ff201fb7",
         "type": "tabs",
+        "dimension": 39.34108527131783,
         "children": [
           {
             "id": "a1b0273dc607066a",
@@ -84,10 +85,33 @@
             }
           }
         ]
+      },
+      {
+        "id": "1c02be069f0c51a5",
+        "type": "tabs",
+        "dimension": 60.65891472868216,
+        "children": [
+          {
+            "id": "9fc905c7d6702f0e",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-文心一言",
+              "state": {}
+            }
+          },
+          {
+            "id": "c751d1d40f5d0ebd",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-秘塔ai",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -96,7 +120,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 53.19767441860465,
+        "dimension": 32.55813953488372,
         "children": [
           {
             "id": "ee1c35000e2fb358",
@@ -145,30 +169,14 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "9fc905c7d6702f0e",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-文心一言",
-              "state": {}
-            }
-          },
-          {
-            "id": "c751d1d40f5d0ebd",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-秘塔ai",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
       },
       {
-        "id": "3dcdf3b36befa157",
+        "id": "d83e1afff7b2ad42",
         "type": "tabs",
-        "dimension": 46.80232558139535,
+        "dimension": 67.44186046511628,
         "children": [
           {
             "id": "24a4069f61b1c74a",
@@ -182,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
