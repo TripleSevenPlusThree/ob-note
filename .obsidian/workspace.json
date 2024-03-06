@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +216,7 @@
       "obsidian-custom-frames:Open DPL": false
     }
   },
-  "active": "f06189ba4877ebff",
+  "active": "0f0c4e1f78c9f617",
   "lastOpenFiles": [
     "总结与复盘/2024-03-04.md",
     "总结与复盘/2024-03-05.md",
