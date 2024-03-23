@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-03-19.md"
+                "file": "note/技能总结/Adobe illustrator.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-03-19.md",
+                "file": "note/技能总结/Adobe illustrator.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 302.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-03-19.md",
+                "file": "note/技能总结/Adobe illustrator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-03-19.md",
+                "file": "note/技能总结/Adobe illustrator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +227,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dacf3bb31c475695",
+  "active": "a1b0273dc607066a",
   "lastOpenFiles": [
+    "总结与复盘/2024-03-19.md",
     "Excalidraw/练习.md",
     "Excalidraw/Drawing 2024-03-23 10.48.23.excalidraw.md",
     "Excalidraw/未命名看板.md",
@@ -235,7 +237,6 @@
     "Excalidraw/未命名.md",
     "note/技能总结/Adobe illustrator.md",
     "Excalidraw",
-    "总结与复盘/2024-03-19.md",
     "总结与复盘/2024-02-24.md",
     "总结与复盘/2024-03-18.md",
     "总结与复盘/2024-03-17.md",
