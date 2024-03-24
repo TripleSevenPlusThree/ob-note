@@ -6,7 +6,7 @@
       {
         "id": "7d3b4a1a58c6cbe9",
         "type": "tabs",
-        "dimension": 12.714558169103622,
+        "dimension": 15.735641227380015,
         "children": [
           {
             "id": "df2864be095a4b39",
@@ -23,7 +23,7 @@
       {
         "id": "73038356524a0123",
         "type": "tabs",
-        "dimension": 87.28544183089637,
+        "dimension": 84.26435877261999,
         "children": [
           {
             "id": "dacf3bb31c475695",
@@ -226,7 +226,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dacf3bb31c475695",
+  "active": "df2864be095a4b39",
   "lastOpenFiles": [
     "note/技能总结/Adobe illustrator.md",
     "总结与复盘/2024-03-24.md",
