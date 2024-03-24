@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Adobe illustrator.md"
+                "file": "总结与复盘/2024-03-24.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Adobe illustrator.md",
+                "file": "总结与复盘/2024-03-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Adobe illustrator.md",
+                "file": "总结与复盘/2024-03-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Adobe illustrator.md",
+                "file": "总结与复盘/2024-03-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +228,8 @@
   },
   "active": "dacf3bb31c475695",
   "lastOpenFiles": [
-    "总结与复盘/2024-03-24.md",
     "note/技能总结/Adobe illustrator.md",
+    "总结与复盘/2024-03-24.md",
     "attachment/20240324_091448.png",
     "总结与复盘/2024-03-23.md",
     "attachment/20240323_113955.png",
