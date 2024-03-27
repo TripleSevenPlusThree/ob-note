@@ -6,7 +6,7 @@
       {
         "id": "7d3b4a1a58c6cbe9",
         "type": "tabs",
-        "dimension": 16.01281024819856,
+        "dimension": 12.89490651192779,
         "children": [
           {
             "id": "df2864be095a4b39",
@@ -23,7 +23,7 @@
       {
         "id": "73038356524a0123",
         "type": "tabs",
-        "dimension": 83.98718975180144,
+        "dimension": 87.10509348807221,
         "children": [
           {
             "id": "dacf3bb31c475695",
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -229,6 +228,9 @@
   },
   "active": "dacf3bb31c475695",
   "lastOpenFiles": [
+    "attachment/微信图片_20240327193452.jpg",
+    "attachment/微信图片_202403271935131.jpg",
+    "attachment/微信图片_20240327193513.jpg",
     "note/技能总结/Adobe illustrator.md",
     "总结与复盘/2024-03-27.md",
     "总结与复盘/2024-03-26.md",
@@ -261,13 +263,10 @@
     "总结与复盘/2024-03-01.md",
     "C++/STL初识/演讲比赛系统知识点总结.md",
     "总结与复盘/2024-02-27.md",
-    "总结与复盘/2024-03-07.md",
     "attachment/02AB5C7D.png",
     "文章",
     "attachment/20240302_202502.png",
     "attachment/20240228_164820.png",
-    "attachment/20240301_194106.png",
-    "attachment/20240223_205359 1.png",
     "attachment/STL初识.pdf",
     "attachment/类和对象.pdf",
     "数据库-MySQL/未命名",
