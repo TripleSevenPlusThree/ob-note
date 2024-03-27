@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/练习.md"
+                "file": "总结与复盘/2024-03-27.md"
               }
             }
           }
@@ -29,9 +29,11 @@
             "id": "dacf3bb31c475695",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/练习.md"
+                "file": "总结与复盘/2024-03-27.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -143,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/练习.md",
+                "file": "总结与复盘/2024-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/练习.md",
+                "file": "总结与复盘/2024-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,6 +228,8 @@
   },
   "active": "dacf3bb31c475695",
   "lastOpenFiles": [
+    "Excalidraw/练习.png",
+    "Excalidraw/练习.md",
     "总结与复盘/2024-03-27.md",
     "attachment/微信图片_20240327193452.jpg",
     "attachment/微信图片_202403271935131.jpg",
@@ -243,7 +247,6 @@
     "attachment/20240324_091448.png",
     "attachment/20240323_113955.png",
     "总结与复盘/2024-03-19.md",
-    "Excalidraw/练习.md",
     "Excalidraw/Drawing 2024-03-23 10.48.23.excalidraw.md",
     "Excalidraw/未命名看板.md",
     "Excalidraw/未命名.canvas",
@@ -263,7 +266,6 @@
     "总结与复盘/2024-02-27.md",
     "attachment/02AB5C7D.png",
     "文章",
-    "attachment/20240302_202502.png",
     "attachment/STL初识.pdf",
     "attachment/类和对象.pdf",
     "数据库-MySQL/未命名",
