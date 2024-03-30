@@ -6,7 +6,7 @@
       {
         "id": "7d3b4a1a58c6cbe9",
         "type": "tabs",
-        "dimension": 12.894906511927791,
+        "dimension": 15.987210231814547,
         "children": [
           {
             "id": "df2864be095a4b39",
@@ -23,7 +23,7 @@
       {
         "id": "73038356524a0123",
         "type": "tabs",
-        "dimension": 87.10509348807221,
+        "dimension": 84.01278976818544,
         "children": [
           {
             "id": "dacf3bb31c475695",
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -230,6 +229,16 @@
   },
   "active": "dacf3bb31c475695",
   "lastOpenFiles": [
+    "attachment/20240330_201724.png",
+    "attachment/20240330_200737.png",
+    "attachment/20240330_200314.png",
+    "attachment/20240330_195832.png",
+    "attachment/20240330_195546.png",
+    "attachment/20240330_195414.png",
+    "attachment/20240330_194609.png",
+    "attachment/20240330_194533.png",
+    "attachment/20240330_184854.png",
+    "attachment/20240330_184635.png",
     "note/技能总结/Adobe illustrator.md",
     "Excalidraw/练习.png",
     "note/技能总结/Git.md",
@@ -243,17 +252,9 @@
     "总结与复盘/2024-03-26.md",
     "总结与复盘/2024-02-24.md",
     "Excalidraw/练习.md",
-    "attachment/微信图片_20240327193452.jpg",
-    "attachment/微信图片_202403271935131.jpg",
-    "attachment/微信图片_20240327193513.jpg",
     "总结与复盘/2024-03-24.md",
-    "attachment/20240326_080308.png",
-    "attachment/20240326_080348.png",
-    "attachment/20240326_080157.png",
     "总结与复盘/2024-03-04.md",
     "总结与复盘/2024-03-23.md",
-    "attachment/20240324_091448.png",
-    "attachment/20240323_113955.png",
     "总结与复盘/2024-03-19.md",
     "Excalidraw/Drawing 2024-03-23 10.48.23.excalidraw.md",
     "Excalidraw/未命名看板.md",
@@ -266,7 +267,6 @@
     "总结与复盘/2024-03-13.md",
     "总结与复盘/2024-03-14.md",
     "总结与复盘/2024-03-11.md",
-    "attachment/02AB5C7D.png",
     "文章",
     "attachment/STL初识.pdf",
     "attachment/类和对象.pdf",
