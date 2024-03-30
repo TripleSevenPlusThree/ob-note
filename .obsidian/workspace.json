@@ -207,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +228,7 @@
   },
   "active": "dacf3bb31c475695",
   "lastOpenFiles": [
+    "attachment/20240330_204134.png",
     "attachment/20240330_201724.png",
     "attachment/20240330_200737.png",
     "attachment/20240330_200314.png",
@@ -240,7 +240,6 @@
     "attachment/20240330_184854.png",
     "attachment/20240330_184635.png",
     "note/技能总结/Adobe illustrator.md",
-    "Excalidraw/练习.png",
     "note/技能总结/Git.md",
     "note/技能总结/vscode配置.md",
     "note/技能总结/markdown语法.md",
