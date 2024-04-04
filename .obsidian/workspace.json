@@ -4,8 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "80a8e924036b8539",
+        "type": "tabs",
+        "dimension": 16.10305958132045,
+        "children": [
+          {
+            "id": "cc3b256e7c3d5230",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目(project)/c++线程池/c++线程库的基本使用.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "5c2a02e11a6e524e",
         "type": "tabs",
+        "dimension": 83.89694041867955,
         "children": [
           {
             "id": "c6035c8ad8375635",
@@ -189,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +228,10 @@
   },
   "active": "c6035c8ad8375635",
   "lastOpenFiles": [
-    "总结与复盘/2024-04-04.md",
+    "attachment/20240404_095611.png",
+    "数据库-MySQL/基础/SQL/DDL.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
+    "总结与复盘/2024-04-04.md",
     "attachment/20240403_222642.png",
     "attachment/20240403_222625.png",
     "attachment/20240403_222326.png",
@@ -247,8 +267,6 @@
     "总结与复盘/2024-03-02.md",
     "总结与复盘/2024-03-01.md",
     "note/技能总结/Adobe illustrator.md",
-    "note/技能总结/Git.md",
-    "note/技能总结/vscode配置.md",
     "Excalidraw/未命名.canvas",
     "Excalidraw",
     "文章",
