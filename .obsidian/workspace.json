@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目(project)/c++线程池/c++线程库的基本使用.md"
+                "file": "总结与复盘/2024-04-04.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目(project)/c++线程池/c++线程库的基本使用.md",
+                "file": "总结与复盘/2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目(project)/c++线程池/c++线程库的基本使用.md",
+                "file": "总结与复盘/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目(project)/c++线程池/c++线程库的基本使用.md",
+                "file": "总结与复盘/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +228,9 @@
   },
   "active": "c6035c8ad8375635",
   "lastOpenFiles": [
-    "C++/类和对象.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
+    "note/技能总结/vscode配置.md",
+    "C++/类和对象.md",
     "C++/其他补充/lambda表达式.md",
     "C++/其他补充/函数指针.md",
     "总结与复盘/2024-04-04.md",
@@ -266,7 +267,6 @@
     "总结与复盘/2024-03-07.md",
     "总结与复盘/2024-03-05.md",
     "总结与复盘/2024-03-04.md",
-    "总结与复盘/2024-03-02.md",
     "Excalidraw/未命名.canvas",
     "Excalidraw",
     "文章",
