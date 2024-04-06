@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/cmake.md"
+                "file": "note/技能总结/计算思维.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "note/技能总结/计算思维.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "note/技能总结/计算思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "note/技能总结/计算思维.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,6 +228,7 @@
   },
   "active": "c6035c8ad8375635",
   "lastOpenFiles": [
+    "note/技能总结/cmake.md",
     "attachment/PixPin_2024-04-05_22-16-18.png",
     "attachment/PixPin_2024-04-06_10-43-00.png",
     "attachment/PixPin_2024-04-06_10-40-51.png",
@@ -238,7 +239,6 @@
     "C++/STL初识/演讲比赛系统知识点总结.md",
     "C++/类和对象.md",
     "总结与复盘/2024-04-04.md",
-    "note/技能总结/cmake.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
     "attachment/PixPin_2024-04-05_17-15-55.png",
     "attachment/PixPin_2024-04-05_17-17-20.png",
@@ -246,7 +246,6 @@
     "attachment/PixPin_2024-04-05_17-19-21.png",
     "attachment/PixPin_2024-04-05_17-15-26.png",
     "attachment/PixPin_2024-04-05_16-59-06.png",
-    "attachment/PixPin_2024-04-05_16-49-50.png",
     "note/技能总结/vscode配置.md",
     "C++/其他补充/lambda表达式.md",
     "C++/其他补充/函数指针.md",
