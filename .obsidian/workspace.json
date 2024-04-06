@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/cmake.md"
+                "file": "总结与复盘/2024-04-04.md"
               }
             }
           }
@@ -31,24 +31,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "总结与复盘/2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4406059880299d41",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -156,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "总结与复盘/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "总结与复盘/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,10 +228,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4406059880299d41",
+  "active": "a1b0273dc607066a",
   "lastOpenFiles": [
-    "总结与复盘/2024-04-04.md",
     "note/技能总结/cmake.md",
+    "总结与复盘/2024-04-04.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
     "attachment/PixPin_2024-04-05_17-15-55.png",
     "attachment/PixPin_2024-04-05_17-17-20.png",
