@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-04-04.md"
+                "file": "note/技能总结/cmake.md"
               }
             }
           }
@@ -31,13 +31,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-04-04.md",
+                "file": "note/技能总结/cmake.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4406059880299d41",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-04-04.md",
+                "file": "note/技能总结/cmake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-04-04.md",
+                "file": "note/技能总结/cmake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +237,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c6035c8ad8375635",
+  "active": "4406059880299d41",
   "lastOpenFiles": [
+    "总结与复盘/2024-04-04.md",
+    "note/技能总结/cmake.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
     "attachment/PixPin_2024-04-05_17-15-55.png",
     "attachment/PixPin_2024-04-05_17-17-20.png",
@@ -238,7 +251,6 @@
     "attachment/PixPin_2024-04-05_16-49-50.png",
     "attachment/PixPin_2024-04-04_16-50-21 1.png",
     "attachment/PixPin_2024-04-04_16-49-43 1.png",
-    "总结与复盘/2024-04-04.md",
     "note/技能总结/vscode配置.md",
     "C++/类和对象.md",
     "C++/其他补充/lambda表达式.md",
