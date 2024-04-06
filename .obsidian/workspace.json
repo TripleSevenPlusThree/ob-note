@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-04-04.md"
+                "file": "note/技能总结/cmake.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-04-04.md",
+                "file": "note/技能总结/cmake.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-04-04.md",
+                "file": "note/技能总结/cmake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-04-04.md",
+                "file": "note/技能总结/cmake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +226,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a1b0273dc607066a",
+  "active": "c6035c8ad8375635",
   "lastOpenFiles": [
-    "note/技能总结/cmake.md",
+    "attachment/PixPin_2024-04-05_22-16-18.png",
+    "attachment/PixPin_2024-04-06_10-43-00.png",
+    "attachment/PixPin_2024-04-06_10-40-51.png",
+    "attachment/PixPin_2024-04-05_17-19-21 1.png",
+    "attachment/STL初识.pdf",
+    "C++/STL初识/STL set容器之前的容器.md",
+    "C++/STL初识/仿函数.md",
+    "C++/STL初识/演讲比赛系统知识点总结.md",
+    "C++/类和对象.md",
     "总结与复盘/2024-04-04.md",
+    "note/技能总结/cmake.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
     "attachment/PixPin_2024-04-05_17-15-55.png",
     "attachment/PixPin_2024-04-05_17-17-20.png",
@@ -240,14 +247,10 @@
     "attachment/PixPin_2024-04-05_17-15-26.png",
     "attachment/PixPin_2024-04-05_16-59-06.png",
     "attachment/PixPin_2024-04-05_16-49-50.png",
-    "attachment/PixPin_2024-04-04_16-50-21 1.png",
-    "attachment/PixPin_2024-04-04_16-49-43 1.png",
     "note/技能总结/vscode配置.md",
-    "C++/类和对象.md",
     "C++/其他补充/lambda表达式.md",
     "C++/其他补充/函数指针.md",
     "总结与复盘/2024-04-02.md",
-    "attachment/PixPin_2024-04-04_16-50-21.png",
     "数据库-MySQL/基础/SQL/DDL.md",
     "C++/其他补充/智能指针.md",
     "总结与复盘/2024-04-01.md",
@@ -265,14 +268,9 @@
     "总结与复盘/2024-03-17.md",
     "总结与复盘/2024-03-14.md",
     "总结与复盘/2024-03-13.md",
-    "总结与复盘/2024-03-12.md",
-    "总结与复盘/2024-03-09.md",
-    "总结与复盘/2024-03-07.md",
-    "总结与复盘/2024-03-05.md",
     "Excalidraw/未命名.canvas",
     "Excalidraw",
     "文章",
-    "attachment/STL初识.pdf",
     "attachment/类和对象.pdf",
     "数据库-MySQL/未命名",
     "总结与复盘/看板",
