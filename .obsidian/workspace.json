@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Excel.md"
+                "file": "总结与复盘/2024-04-11.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +228,10 @@
   },
   "active": "82214a33264ce3c0",
   "lastOpenFiles": [
-    "note/技能总结/cmake.md",
     "总结与复盘/2024-04-10.md",
+    "总结与复盘/2024-04-11.md",
+    "note/技能总结/Excel.md",
+    "note/技能总结/cmake.md",
     "总结与复盘/2024-04-07.md",
     "总结与复盘/2024-04-04.md",
     "总结与复盘/2024-04-09.md",
@@ -266,8 +268,6 @@
     "总结与复盘/2024-03-11.md",
     "总结与复盘/2024-03-29.md",
     "总结与复盘/2024-03-27.md",
-    "总结与复盘/2024-03-26.md",
-    "总结与复盘/2024-03-25.md",
     "Excalidraw/未命名.canvas",
     "Excalidraw",
     "文章",
