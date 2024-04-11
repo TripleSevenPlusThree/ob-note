@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-04-10.md"
+                "file": "note/技能总结/Excel.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-04-10.md",
+                "file": "note/技能总结/Excel.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-04-10.md",
+                "file": "note/技能总结/Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-04-10.md",
+                "file": "note/技能总结/Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,16 +228,16 @@
   },
   "active": "82214a33264ce3c0",
   "lastOpenFiles": [
+    "note/技能总结/cmake.md",
+    "总结与复盘/2024-04-10.md",
     "总结与复盘/2024-04-07.md",
     "总结与复盘/2024-04-04.md",
-    "总结与复盘/2024-04-10.md",
     "总结与复盘/2024-04-09.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
     "总结与复盘/2024-04-08.md",
     "note/python/选择多文件操作.md",
     "note/python/基础知识.md",
     "note/技能总结/计算思维.md",
-    "note/技能总结/cmake.md",
     "attachment/PixPin_2024-04-05_22-16-18.png",
     "attachment/PixPin_2024-04-06_10-43-00.png",
     "attachment/PixPin_2024-04-06_10-40-51.png",
