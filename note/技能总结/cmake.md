@@ -7,3 +7,4 @@
 
 ## ctest
 - 根节点文件：
+- test文件夹：此目录中包含测试文件，以及CMakeLists.txt.
