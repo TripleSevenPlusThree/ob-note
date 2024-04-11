@@ -6,5 +6,6 @@
 - cmake测试：可以指定某一些文件进行编译调试，进行测试。需要使用时再学习即可，因为需要添加特定的cmake命令。
 
 ## ctest
-- 根节点文件：
-- test文件夹：此目录中包含测试文件，以及CMakeLists.txt.
+- 根节点文件：添加命令 enable_testing()   ; 以及添加test文件夹中的子节点文件  add_subdirectory( 文件夹名)
+- test文件夹：此目录中包含测试文件，以及CMakeLists.txt. 举例如下：
+		
