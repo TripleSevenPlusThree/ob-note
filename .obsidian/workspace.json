@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/cmake.md"
+                "file": "总结与复盘/2024-04-11.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "总结与复盘/2024-04-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "总结与复盘/2024-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/cmake.md",
+                "file": "总结与复盘/2024-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,6 +228,7 @@
   },
   "active": "82214a33264ce3c0",
   "lastOpenFiles": [
+    "总结与复盘/2024-04-12.md",
     "总结与复盘/2024-04-11.md",
     "note/技能总结/cmake.md",
     "attachment/PixPin_2024-04-11_13-14-10.png",
