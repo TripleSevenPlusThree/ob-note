@@ -6,7 +6,6 @@
       {
         "id": "61582c1ce7f7da6c",
         "type": "tabs",
-        "dimension": 16.10305958132045,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
@@ -14,26 +13,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-04-14.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "80a8e924036b8539",
-        "type": "tabs",
-        "dimension": 83.89694041867955,
-        "children": [
-          {
-            "id": "82214a33264ce3c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总结与复盘/2024-04-14.md",
-                "mode": "source",
-                "source": false
+                "file": "总结与复盘/2024-04-15.md"
               }
             }
           }
@@ -84,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1c02be069f0c51a5",
@@ -146,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-04-14.md",
+                "file": "总结与复盘/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-04-14.md",
+                "file": "总结与复盘/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,10 +206,48 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
+  "floating": {
+    "id": "380d74731542e2d0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f8c88fe920344369",
+        "type": "window",
+        "children": [
+          {
+            "id": "76b913682edd1308",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82214a33264ce3c0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "总结与复盘/2024-04-15.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1565,
+        "y": 0,
+        "width": 355,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "82214a33264ce3c0",
   "lastOpenFiles": [
-    "总结与复盘/2024-04-01.md",
     "总结与复盘/2024-04-14.md",
+    "总结与复盘/2024-04-15.md",
+    "总结与复盘/2024-04-01.md",
     "总结与复盘/2024-03-11.md",
     "总结与复盘/2024-04-02.md",
     "总结与复盘/2024-04-12.md",
@@ -265,7 +282,6 @@
     "attachment/PixPin_2024-04-05_17-15-26.png",
     "C++/其他补充/lambda表达式.md",
     "C++/其他补充/函数指针.md",
-    "数据库-MySQL/基础/SQL/DDL.md",
     "项目(project)/个人logo",
     "项目(project)/c++线程池",
     "项目(project)",
