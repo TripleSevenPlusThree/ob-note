@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-04-16.md"
+                "file": "template/未命名.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-04-16.md",
+                "file": "template/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-04-16.md",
+                "file": "template/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-04-16.md",
+                "file": "template/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,16 +228,23 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "note/技能总结/word排版模板.md",
+    "template/未命名.md",
+    "template/复盘模板.md",
+    "template/待办事项模板.md",
+    "template/kanban模板.md",
+    "template/说明文思路模板.md",
+    "总结与复盘/2024-04-16.md",
+    "总结与复盘/2024-04-12.md",
+    "attachment/PixPin_2024-04-16_18-24-45.png",
     "attachment/test.drawio",
     "attachment/输入输出.png",
     "总结与复盘/2024-04-14.md",
-    "总结与复盘/2024-04-16.md",
     "note/技能总结/Excel.md",
     "总结与复盘/2024-04-15.md",
     "总结与复盘/2024-04-01.md",
     "总结与复盘/2024-03-11.md",
     "总结与复盘/2024-04-02.md",
-    "总结与复盘/2024-04-12.md",
     "总结与复盘/2024-04-11.md",
     "总结与复盘/2024-04-10.md",
     "总结与复盘/2024-04-09.md",
@@ -251,20 +258,14 @@
     "attachment/PixPin_2024-04-11_13-14-10.png",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
     "note/python/选择多文件操作.md",
-    "note/python/基础知识.md",
-    "note/技能总结/计算思维.md",
     "attachment/PixPin_2024-04-05_22-16-18.png",
     "attachment/PixPin_2024-04-06_10-43-00.png",
     "attachment/PixPin_2024-04-06_10-40-51.png",
     "attachment/PixPin_2024-04-05_17-19-21 1.png",
     "attachment/STL初识.pdf",
-    "C++/STL初识/STL set容器之前的容器.md",
-    "C++/STL初识/仿函数.md",
-    "C++/STL初识/演讲比赛系统知识点总结.md",
     "attachment/PixPin_2024-04-05_17-15-55.png",
     "attachment/PixPin_2024-04-05_17-17-20.png",
     "attachment/PixPin_2024-04-05_17-15-26 1.png",
-    "attachment/PixPin_2024-04-05_17-19-21.png",
     "项目(project)/个人logo",
     "项目(project)/c++线程池",
     "项目(project)",
@@ -275,7 +276,6 @@
     "数据库-MySQL/未命名",
     "总结与复盘/看板",
     "未命名.canvas",
-    "数据库-MySQL/运维/日志",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
