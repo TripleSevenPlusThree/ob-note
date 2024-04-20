@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Excel.md"
+                "file": "note/技能总结/Git.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "note/技能总结/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "note/技能总结/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "note/技能总结/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,9 +228,12 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "note/技能总结/vscode配置.md",
+    "note/技能总结/markdown语法.md",
+    "note/技能总结/word排版模板.md",
+    "note/技能总结/Excel.md",
     "总结与复盘/2024-04-20.md",
     "总结与复盘/2024-04-18.md",
-    "note/技能总结/Excel.md",
     "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-03-27.md",
     "总结与复盘/2024-03-09.md",
@@ -253,9 +254,6 @@
     "总结与复盘/2024-03-18.md",
     "总结与复盘/2024-03-17.md",
     "总结与复盘/2024-03-14.md",
-    "总结与复盘/2024-03-13.md",
-    "总结与复盘/2024-03-12.md",
-    "总结与复盘/2024-03-11.md",
     "attachment/PixPin_2024-04-16_19-44-06.png",
     "attachment/PixPin_2024-04-16_19-25-26.png",
     "attachment/PixPin_2024-04-16_18-24-45.png",
