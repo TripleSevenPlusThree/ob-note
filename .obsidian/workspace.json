@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Excel.md"
+                "file": "总结与复盘/2024-04-22.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +227,7 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "note/技能总结/Excel.md",
     "attachment/01EE96FD.png",
     "总结与复盘/2024-04-22.md",
     "总结与复盘/2024-04-16.md",
@@ -236,7 +235,6 @@
     "总结与复盘/2024-04-15.md",
     "总结与复盘/2024-04-18.md",
     "总结与复盘/2024-04-21.md",
-    "note/技能总结/Excel.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
     "Excalidraw/练习.md",
     "note/技能总结/Adobe illustrator.md",
@@ -266,7 +264,6 @@
     "attachment/PixPin_2024-04-06_10-40-51.png",
     "attachment/PixPin_2024-04-05_17-19-21 1.png",
     "attachment/STL初识.pdf",
-    "attachment/PixPin_2024-04-05_17-15-55.png",
     "项目(project)/个人logo",
     "项目(project)/c++线程池",
     "项目(project)",
