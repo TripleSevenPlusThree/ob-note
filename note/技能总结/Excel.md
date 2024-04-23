@@ -202,3 +202,5 @@
 		1. SUMIF( r, c, s)：
 		2. SUMIFS( )：
 	2. AVERAGE( n  )： 求平均值
+		1. AVERAGEIF( ): 
+		2. AVERAGEIFS( ):
