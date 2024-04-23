@@ -200,4 +200,5 @@
 2. 求和，平均值函数
 	1. SUM( n ) ：求和
 		1. SUMIF( r, c, s)：
+		2. SUMIFS( )：
 	2. AVERAGE( n  )： 求平均值
