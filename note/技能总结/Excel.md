@@ -201,6 +201,7 @@
 	1. SUM( n ) ：求和
 		1. SUMIF( r, c, s)：
 		2. SUMIFS( )：
+		3. SUMPRODUCT(array1，array2 ，…… ): 对不同区域的数据进行求和。
 	2. AVERAGE( n  )： 求平均值
 		1. AVERAGEIF( ): 
 		2. AVERAGEIFS( ):
