@@ -201,7 +201,7 @@
 	1. SUM( n ) ：求和
 		1. SUMIF( r, c, s)：
 		2. SUMIFS( )：
-		3. SUMPRODUCT(array1，array2 ，…… ): 对不同区域的数据进行求和。
+		3. SUMPRODUCT(array1，\[array2 ]，…… ): 除了第一个数据外，其他全部数据中的每个对应值都会与数组1的值进行相乘，然后将所有数据进行相加求和。
 	2. AVERAGE( n  )： 求平均值
 		1. AVERAGEIF( ): 
 		2. AVERAGEIFS( ):
