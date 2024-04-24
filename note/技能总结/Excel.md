@@ -212,3 +212,7 @@
 	2. AVERAGE( n  )： 求平均值
 		1. AVERAGEIF( ): 
 		2. AVERAGEIFS( ):
+3. 排序函数
+	1. RANK( n, r,l )：找出n值在r范围内的排名；一般r范围需要锁住行和列。
+4. 查找函数
+	1. VLOOKUP( ):
