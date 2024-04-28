@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-04-25.md"
+                "file": "note/技能总结/Excel.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-04-25.md",
+                "file": "note/技能总结/Excel.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-04-25.md",
+                "file": "note/技能总结/Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-04-25.md",
+                "file": "note/技能总结/Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,9 +227,9 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "总结与复盘/2024-04-25.md",
     "总结与复盘/2024-04-24.md",
     "总结与复盘/2024-04-22.md",
-    "总结与复盘/2024-04-25.md",
     "总结与复盘/2024-04-26.md",
     "总结与复盘/2024-04-27.md",
     "总结与复盘/2024-02-24.md",
