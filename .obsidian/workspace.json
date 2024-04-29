@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Excel.md"
+                "file": "总结与复盘/2024-04-29.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,21 +227,22 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "总结与复盘/2024-04-16.md",
+    "总结与复盘/2024-04-29.md",
+    "总结与复盘/2024-04-27.md",
+    "总结与复盘/2024-04-26.md",
+    "note/技能总结/Excel.md",
     "attachment/PixPin_2024-04-28_21-33-21.png",
     "attachment/PixPin_2024-04-28_21-32-41.png",
     "attachment/PixPin_2024-04-28_21-30-34.png",
     "attachment/PixPin_2024-04-28_21-22-16.png",
-    "note/技能总结/Excel.md",
     "attachment/PixPin_2024-04-28_21-17-03.png",
     "attachment/PixPin_2024-04-28_21-16-04 1.png",
     "attachment/PixPin_2024-04-28_21-16-04.png",
     "总结与复盘/2024-04-25.md",
     "总结与复盘/2024-04-24.md",
     "总结与复盘/2024-04-22.md",
-    "总结与复盘/2024-04-26.md",
-    "总结与复盘/2024-04-27.md",
     "总结与复盘/2024-02-24.md",
-    "总结与复盘/2024-04-16.md",
     "总结与复盘/![[2024-04-24.md",
     "总结与复盘/[[2024-04-24.md",
     "总结与复盘/2024-04-18.md",
@@ -262,7 +263,6 @@
     "总结与复盘/2024-04-11.md",
     "attachment/PixPin_2024-04-16_19-44-06.png",
     "attachment/PixPin_2024-04-16_19-25-26.png",
-    "attachment/PixPin_2024-04-16_18-24-45.png",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
     "项目(project)/个人logo",
