@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-05-07.md"
+                "file": "总结与复盘/2024-05-06.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-05-07.md",
+                "file": "总结与复盘/2024-05-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1c02be069f0c51a5",
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-05-07.md",
+                "file": "总结与复盘/2024-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-05-07.md",
+                "file": "总结与复盘/2024-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +227,8 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
-    "template/解决问题模型.md",
     "总结与复盘/2024-05-07.md",
+    "template/解决问题模型.md",
     "总结与复盘/2024-04-29.md",
     "总结与复盘/2024-05-06.md",
     "总结与复盘/2024-05-05.md",
