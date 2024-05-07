@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-05-05.md"
+                "file": "总结与复盘/2024-05-07.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-05-05.md",
+                "file": "总结与复盘/2024-05-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1c02be069f0c51a5",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-05-05.md",
+                "file": "总结与复盘/2024-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-05-05.md",
+                "file": "总结与复盘/2024-05-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,12 +228,14 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "template/解决问题模型.md",
+    "总结与复盘/2024-05-07.md",
+    "总结与复盘/2024-04-29.md",
     "总结与复盘/2024-05-06.md",
+    "总结与复盘/2024-05-05.md",
     "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-04-22.md",
     "note/技能总结/Excel.md",
-    "总结与复盘/2024-04-29.md",
-    "总结与复盘/2024-05-05.md",
     "总结与复盘/2024-05-04.md",
     "总结与复盘/2024-02-24.md",
     "总结与复盘/2024-03-29.md",
@@ -242,7 +245,6 @@
     "总结与复盘/2024-04-01.md",
     "总结与复盘/2024-03-11.md",
     "总结与复盘/2024-04-14.md",
-    "template/解决问题模型.md",
     "总结与复盘/2024-04-27.md",
     "总结与复盘/2024-04-26.md",
     "attachment/PixPin_2024-04-28_21-33-21.png",
@@ -260,7 +262,6 @@
     "总结与复盘/2024-04-20.md",
     "总结与复盘/2024-04-21.md",
     "attachment/01EE96FD.png",
-    "note/技能总结/markdown语法.md",
     "attachment/PixPin_2024-04-16_19-44-06.png",
     "attachment/PixPin_2024-04-16_19-25-26.png",
     "attachment/test.drawio",
