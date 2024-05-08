@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-05-07.md"
+                "file": "总结与复盘/2024-05-08.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-05-07.md",
+                "file": "总结与复盘/2024-05-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-05-07.md",
+                "file": "总结与复盘/2024-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-05-07.md",
+                "file": "总结与复盘/2024-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,13 +228,14 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
-    "总结与复盘/2024-05-06.md",
+    "总结与复盘/2024-04-22.md",
+    "总结与复盘/2024-05-08.md",
     "总结与复盘/2024-05-07.md",
+    "总结与复盘/2024-05-06.md",
     "template/解决问题模型.md",
     "总结与复盘/2024-04-29.md",
     "总结与复盘/2024-05-05.md",
     "总结与复盘/2024-04-16.md",
-    "总结与复盘/2024-04-22.md",
     "note/技能总结/Excel.md",
     "总结与复盘/2024-05-04.md",
     "总结与复盘/2024-02-24.md",
@@ -259,7 +261,6 @@
     "总结与复盘/[[2024-04-24.md",
     "总结与复盘/2024-04-18.md",
     "总结与复盘/2024-04-20.md",
-    "总结与复盘/2024-04-21.md",
     "attachment/01EE96FD.png",
     "attachment/PixPin_2024-04-16_19-44-06.png",
     "attachment/PixPin_2024-04-16_19-25-26.png",
