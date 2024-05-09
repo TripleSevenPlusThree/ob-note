@@ -122,13 +122,21 @@
               "type": "custom-frames-dpl",
               "state": {}
             }
+          },
+          {
+            "id": "a610e6201750fb7f",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-通义千问",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 293.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -223,10 +231,11 @@
       "obsidian-custom-frames:Open 秘塔ai": false,
       "obsidian-custom-frames:Open DPL": false,
       "obsidian-custom-frames:Open kimi": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-custom-frames:Open 通义千问": false
     }
   },
-  "active": "6a51d62ed63628ad",
+  "active": "a610e6201750fb7f",
   "lastOpenFiles": [
     "note/技能总结/Excel.md",
     "总结与复盘/2024-05-09.md",
