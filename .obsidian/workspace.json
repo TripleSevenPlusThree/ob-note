@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 353.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -231,8 +231,8 @@
       "obsidian-custom-frames:Open 秘塔ai": false,
       "obsidian-custom-frames:Open DPL": false,
       "obsidian-custom-frames:Open kimi": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-custom-frames:Open 通义千问": false
+      "obsidian-custom-frames:Open 通义千问": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "a610e6201750fb7f",
