@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Excel.md"
+                "file": "总结与复盘/2024-04-24.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +223,12 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "总结与复盘/2024-04-29.md",
+    "note/技能总结/Excel.md",
     "总结与复盘/2024-05-09.md",
     "总结与复盘/2024-05-08.md",
     "总结与复盘/2024-04-24.md",
     "总结与复盘/2024-04-25.md",
-    "总结与复盘/2024-04-29.md",
     "总结与复盘/2024-04-27.md",
     "总结与复盘/2024-04-26.md",
     "总结与复盘/2024-04-16.md",
@@ -234,7 +237,6 @@
     "总结与复盘/2024-05-04.md",
     "总结与复盘/2024-05-05.md",
     "总结与复盘/2024-05-06.md",
-    "note/技能总结/Excel.md",
     "template/解决问题模型.md",
     "attachment/PixPin_2024-05-08_20-23-03.png",
     "note/技能总结/markdown语法.md",
