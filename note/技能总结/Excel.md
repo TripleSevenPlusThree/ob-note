@@ -339,8 +339,9 @@
 - Analytical thinking 
 	- Identifying and defining a problem and then solving it by using data in an organized ,step-by-step manner 
 
-1. Visualization
-2. Strategy
-3. Problem-orientation
-4. Correlation
-5. Big-piture and detail-oriented thinking
+- Analytical thinking
+	1. Visualization
+	2. Strategy
+	3. Problem-orientation
+	4. Correlation
+	5. Big-piture and detail-oriented thinking
