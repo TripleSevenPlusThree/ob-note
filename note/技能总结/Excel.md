@@ -327,13 +327,14 @@
 				2. 面向未来
 			3. 找出问题所在。
 
-## 数据分析
+## Google Data Analysist
 
 ### Dimension
 - Analysist
 
+### Key aspects
 
-- technology mindset
+- Technology mindset
 	- To break things down into smaller steps or pieces and work with them in an ordelrly and logical way.
 
 - Analytical thinking 
