@@ -329,8 +329,8 @@
 
 ## 数据分析
 
-### 维度
-analysist
+### Dimension
+- Analysist
 
 
 - technology mindset
