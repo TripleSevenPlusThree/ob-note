@@ -345,3 +345,6 @@
 	3. Problem-orientation
 	4. Correlation
 	5. Big-piture and detail-oriented thinking
+
+- Gap analysis
+	- A method for examinning and evaluating how a process works currently in order to get where you want to be in the future
