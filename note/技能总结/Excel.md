@@ -333,3 +333,6 @@
 分析师
 
 1. 确定业务需求
+
+
+- To break things down into smaller steps or pieces and work with them in an ordelrly and logical way.
