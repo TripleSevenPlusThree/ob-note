@@ -346,5 +346,12 @@
 	4. Correlation
 	5. Big-piture and detail-oriented thinking
 
-- Gap analysis
-	- A method for examinning and evaluating how a process works currently in order to get where you want to be in the future
+- What is the root cause of the problem?
+	- Asking "Why?" to reveal the root cause 
+
+- What are the gaps in our process?
+	- Gap analysis
+		- A method for examinning and evaluating how a process works currently in order to get where you want to be in the future
+
+- What did we not consider before?
+	- 
