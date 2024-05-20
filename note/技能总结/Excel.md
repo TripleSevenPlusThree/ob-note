@@ -330,7 +330,7 @@
 ## 数据分析
 
 ### 维度
-分析师
+analysist
 
 
 - technology mindset
