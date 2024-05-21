@@ -363,3 +363,11 @@
 	4. Analyze
 	5. Share 
 	6. Act
+
+- Life cycle of data 
+	1. Plan
+	2. Capture
+	3. Manage
+	4. Analyze 
+	5. Archive 
+	6. Destroy
