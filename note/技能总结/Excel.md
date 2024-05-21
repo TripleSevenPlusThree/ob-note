@@ -367,7 +367,10 @@
 		- collect and store data
 		- make sure data and result are objective and unbiased.
 	1. Process
-		1. 
+		1. cleaning data
+		2. transforming data into a more useful format
+		3. combinning two or more datasets to make information more complete
+		4. removing outliers
 	2. Analyze
 	3. Share 
 	4. Act
