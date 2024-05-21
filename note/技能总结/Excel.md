@@ -361,7 +361,8 @@
 		1. define the problem to be solved
 			- look at the current state and identify how it's different from the ideal state. obstacle or wrong
 		2. make sure we fully understand stakeholder expectations.
-			- determine who the stakeholders are.
+			- determine who the stakeholders are
+		3. developing strong communication strategies
 	1. Prepare
 	2. Process
 	3. Analyze
