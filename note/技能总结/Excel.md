@@ -359,12 +359,14 @@
 - Data analysis process phases
 	1. Ask 
 		1. define the problem to be solved
+			- look at the current state and identify how it's different from the ideal state. obstacle or wrong
 		2. make sure we fully understand stakeholder expectations.
-	2. Prepare
-	3. Process
-	4. Analyze
-	5. Share 
-	6. Act
+			- determine who the stakeholders are.
+	1. Prepare
+	2. Process
+	3. Analyze
+	4. Share 
+	5. Act
 
 - Life cycle of data 
 	1. Plan
