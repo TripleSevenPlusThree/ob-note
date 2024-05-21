@@ -357,7 +357,8 @@
 - What did we not consider before?
 
 - Data analysis process phases
-	1. Ask
+	1. Ask 
+		1. 
 	2. Prepare
 	3. Process
 	4. Analyze
