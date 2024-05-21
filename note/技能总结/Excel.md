@@ -358,7 +358,8 @@
 
 - Data analysis process phases
 	1. Ask 
-		1. 
+		1. define the problem to be solved
+		2. make sure we fully understand stakeholder expectations.
 	2. Prepare
 	3. Process
 	4. Analyze
