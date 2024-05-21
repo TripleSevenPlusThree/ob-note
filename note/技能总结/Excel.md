@@ -355,4 +355,11 @@
 		- A method for examinning and evaluating how a process works currently in order to get where you want to be in the future
 
 - What did we not consider before?
-	- 
+
+- Data analysis process phases
+	1. Ask
+	2. Prepare
+	3. Process
+	4. Analyze
+	5. Share 
+	6. Act
