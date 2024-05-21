@@ -364,10 +364,13 @@
 			- determine who the stakeholders are
 		3. developing strong communication strategies
 	1. Prepare
-	2. Process
-	3. Analyze
-	4. Share 
-	5. Act
+		- collect and store data
+		- make sure data and result are objective and unbiased.
+	1. Process
+		1. 
+	2. Analyze
+	3. Share 
+	4. Act
 
 - Life cycle of data 
 	1. Plan
