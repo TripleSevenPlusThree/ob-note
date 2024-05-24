@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/解决问题模型.md"
+                "file": "总结与复盘/2024-05-22.md"
               }
             }
           }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/解决问题模型.md",
+                "file": "总结与复盘/2024-05-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/解决问题模型.md",
+                "file": "总结与复盘/2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/解决问题模型.md",
+                "file": "总结与复盘/2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,15 +234,16 @@
   },
   "active": "d1153fb09379f5f9",
   "lastOpenFiles": [
-    "Excalidraw/解决问题结构化展示.md",
+    "总结与复盘/2024-05-24.md",
     "template/解决问题模型.md",
+    "attachment/PixPin_2024-05-24_19-42-51.png",
+    "Excalidraw/解决问题结构化展示.md",
     "Excalidraw/练习.md",
     "Excalidraw/Drawing 2024-05-24 17.50.41.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.50.42.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.50.28.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.48.34.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.49.57.excalidraw.md",
-    "总结与复盘/2024-05-24.md",
     "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-05-07.md",
     "总结与复盘/2024-04-29.md",
@@ -259,7 +260,6 @@
     "总结与复盘/2024-05-15.md",
     "总结与复盘/2024-05-16.md",
     "总结与复盘/2024-05-18.md",
-    "note/技能总结/微积分思维.md",
     "attachment/Pasted image 20240515203211.png",
     "attachment/PixPin_2024-05-08_20-23-03.png",
     "attachment/PixPin_2024-04-28_21-33-21.png",
@@ -269,7 +269,6 @@
     "attachment/PixPin_2024-04-28_21-17-03.png",
     "attachment/PixPin_2024-04-28_21-16-04 1.png",
     "attachment/PixPin_2024-04-28_21-16-04.png",
-    "attachment/01EE96FD.png",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
     "项目(project)/个人logo",
