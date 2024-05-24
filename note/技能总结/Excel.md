@@ -387,4 +387,3 @@
 	1. Spreadsheets
 	2. Query languages for databases
 	3. Visualization tools
-	4. 
