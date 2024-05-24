@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.50.41.excalidraw.md"
+                "file": "template/解决问题模型.md"
               }
             }
           }
@@ -48,39 +48,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6565b1e96ea20f41",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.48.34.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f2801b5954e7ad42",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.50.28.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0fb61a7330ff1088",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.50.41.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.50.41.excalidraw.md",
+                "file": "template/解决问题模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-24 17.50.41.excalidraw.md",
+                "file": "template/解决问题模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,14 +232,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0fb61a7330ff1088",
+  "active": "d1153fb09379f5f9",
   "lastOpenFiles": [
+    "Excalidraw/解决问题结构化展示.md",
+    "template/解决问题模型.md",
+    "Excalidraw/练习.md",
+    "Excalidraw/Drawing 2024-05-24 17.50.41.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.50.42.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.50.28.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-24 17.50.41.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.48.34.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.49.57.excalidraw.md",
-    "template/解决问题模型.md",
     "总结与复盘/2024-05-24.md",
     "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-05-07.md",
@@ -288,8 +260,6 @@
     "总结与复盘/2024-05-16.md",
     "总结与复盘/2024-05-18.md",
     "note/技能总结/微积分思维.md",
-    "note/技能总结/markdown语法.md",
-    "note/技能总结/cmake.md",
     "attachment/Pasted image 20240515203211.png",
     "attachment/PixPin_2024-05-08_20-23-03.png",
     "attachment/PixPin_2024-04-28_21-33-21.png",
