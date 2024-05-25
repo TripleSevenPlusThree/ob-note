@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-05-25.md"
+                "file": "总结与复盘/2024-05-24.md"
               }
             }
           }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-05-25.md",
+                "file": "总结与复盘/2024-05-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-05-25.md",
+                "file": "总结与复盘/2024-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-05-25.md",
+                "file": "总结与复盘/2024-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,10 +234,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d1153fb09379f5f9",
+  "active": "a1b0273dc607066a",
   "lastOpenFiles": [
-    "总结与复盘/2024-05-24.md",
     "总结与复盘/2024-05-25.md",
+    "总结与复盘/2024-05-24.md",
     "总结与复盘/2024-05-22.md",
     "总结与复盘/2024-05-21.md",
     "总结与复盘/2024-05-20.md",
