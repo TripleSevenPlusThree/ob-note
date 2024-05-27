@@ -391,7 +391,7 @@
 - Issue
 	1. A topic or subject to investigate
 - Question 
-	- Desiganed to discover information
+	- Designed to discover information
 - Problem 
 	- An obstacle or complication that needs to be worked out
 
