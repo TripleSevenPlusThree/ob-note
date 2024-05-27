@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-05-27.md"
+                "file": "note/技能总结/Excel.md"
               }
             }
           }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-05-27.md",
+                "file": "note/技能总结/Excel.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-05-27.md",
+                "file": "note/技能总结/Excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-05-27.md",
+                "file": "note/技能总结/Excel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,14 +236,15 @@
   "active": "d1153fb09379f5f9",
   "lastOpenFiles": [
     "总结与复盘/2024-05-22.md",
+    "总结与复盘/2024-05-21.md",
+    "总结与复盘/2024-05-20.md",
+    "总结与复盘/2024-04-25.md",
     "总结与复盘/2024-05-27.md",
     "总结与复盘/2024-05-24.md",
     "note/技能总结/Excel.md",
     "总结与复盘/2024-05-25.md",
     "template/解决问题模型.md",
     "Excalidraw/解决问题结构化展示.md",
-    "总结与复盘/2024-05-21.md",
-    "总结与复盘/2024-05-20.md",
     "总结与复盘/2024-05-19.md",
     "总结与复盘/2024-05-18.md",
     "总结与复盘/2024-05-16.md",
@@ -259,7 +262,6 @@
     "Excalidraw/Drawing 2024-05-24 17.48.34.excalidraw.md",
     "Excalidraw/Drawing 2024-05-24 17.49.57.excalidraw.md",
     "总结与复盘/2024-04-16.md",
-    "总结与复盘/2024-04-29.md",
     "attachment/Pasted image 20240515203211.png",
     "attachment/PixPin_2024-05-08_20-23-03.png",
     "attachment/PixPin_2024-04-28_21-33-21.png",

@@ -388,3 +388,11 @@
 	2. Query languages for databases
 	3. Visualization tool
 
+- Issue
+	1. A topic or subject to investigate
+- Question 
+	- Desiganed to discover information
+- Problem 
+	- An obstacle or complication that needs to be worked out
+
+
