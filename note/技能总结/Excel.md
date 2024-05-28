@@ -400,4 +400,6 @@
 2. Prepare questions for the interviewer. Make sure they are not broad questions. They should be the main question that will help you undersatand the team and job better.
 3. Sometimes there is no right answer, and a lot of times interviewers are looling to see your thought process and the way you get to your solution.
 
+- learn how to ask the right questions and use data to find answers
+
 
