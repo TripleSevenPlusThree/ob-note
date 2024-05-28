@@ -396,3 +396,8 @@
 	- An obstacle or complication that needs to be worked out
 
 
+1. It 's really important to have your linkedln updated along with websites , like GitHub where you can showcase a lot of the data analyst projects you have done.
+2. Prepare questions for the interviewer. Make sure they are not broad questions. They should be the main question that will help you undersatand the team and job better.
+3. Sometimes there is no right answer, and a lot of times interviewers are looling to see your thought process and the way you get to your solution.
+
+
