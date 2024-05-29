@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/技能总结/Excel.md"
+                "file": "总结与复盘/2024-05-29.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/技能总结/Excel.md",
+                "file": "总结与复盘/2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +221,11 @@
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
     "总结与复盘/2024-05-28.md",
+    "总结与复盘/2024-05-29.md",
+    "note/技能总结/Excel.md",
     "总结与复盘/2024-05-25.md",
     "总结与复盘/2024-05-24.md",
     "总结与复盘/2024-05-22.md",
-    "note/技能总结/Excel.md",
     "总结与复盘/2024-05-07.md",
     "template/解决问题模型.md",
     "总结与复盘/2024-02-24.md",
@@ -246,7 +247,6 @@
     "attachment/PixPin_2024-05-24_19-42-51.png",
     "Excalidraw/练习.md",
     "Excalidraw/Drawing 2024-05-24 17.50.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-24 17.50.42.excalidraw.md",
     "attachment/Pasted image 20240515203211.png",
     "attachment/PixPin_2024-05-08_20-23-03.png",
     "attachment/PixPin_2024-04-28_21-33-21.png",
