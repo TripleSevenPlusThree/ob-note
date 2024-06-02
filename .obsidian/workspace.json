@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/解决问题模型.md"
+                "file": "template/讲话模板.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/解决问题模型.md",
+                "file": "template/讲话模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/解决问题模型.md",
+                "file": "template/讲话模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/解决问题模型.md",
+                "file": "template/讲话模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,9 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "template/思维指导.md",
     "template/讲话模板.md",
+    "template/解决问题模型.md",
     "总结与复盘/2024-06-01.md",
     "总结与复盘/2024-05-31.md",
     "总结与复盘/2024-05-29.md",
@@ -234,7 +236,6 @@
     "总结与复盘/2024-05-24.md",
     "总结与复盘/2024-05-25.md",
     "总结与复盘/2024-05-08.md",
-    "template/解决问题模型.md",
     "总结与复盘/2024-03-05.md",
     "总结与复盘/2024-03-26.md",
     "总结与复盘/2024-03-25.md",
@@ -247,7 +248,6 @@
     "总结与复盘/2024-03-12.md",
     "总结与复盘/2024-03-11.md",
     "总结与复盘/2024-03-27.md",
-    "总结与复盘/2024-04-20.md",
     "attachment/PixPin_2024-05-24_19-42-51.png",
     "attachment/Pasted image 20240515203211.png",
     "attachment/PixPin_2024-05-08_20-23-03.png",
