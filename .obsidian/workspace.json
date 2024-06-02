@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-03-29.md"
+                "file": "总结与复盘/2024-03-19.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-03-29.md",
+                "file": "总结与复盘/2024-03-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1c02be069f0c51a5",
@@ -121,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-03-29.md",
+                "file": "总结与复盘/2024-03-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-03-29.md",
+                "file": "总结与复盘/2024-03-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,17 +221,18 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "总结与复盘/2024-05-29.md",
+    "总结与复盘/2024-05-30.md",
+    "总结与复盘/2024-03-29.md",
     "note/技能总结/Excel.md",
     "总结与复盘/2024-06-01.md",
     "总结与复盘/2024-05-31.md",
     "template/讲话模板.md",
     "attachment/0160AC9B.jpg",
-    "总结与复盘/2024-05-30.md",
     "总结与复盘/2024-05-19.md",
     "总结与复盘/2024-05-24.md",
     "总结与复盘/2024-05-25.md",
     "总结与复盘/2024-05-08.md",
-    "总结与复盘/2024-05-29.md",
     "template/解决问题模型.md",
     "总结与复盘/2024-03-19.md",
     "总结与复盘/2024-03-05.md",
@@ -248,7 +246,6 @@
     "总结与复盘/2024-03-13.md",
     "总结与复盘/2024-03-12.md",
     "总结与复盘/2024-03-11.md",
-    "总结与复盘/2024-03-29.md",
     "总结与复盘/2024-03-27.md",
     "总结与复盘/2024-04-20.md",
     "attachment/PixPin_2024-05-24_19-42-51.png",
