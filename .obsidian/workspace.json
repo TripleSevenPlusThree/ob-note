@@ -21,46 +21,23 @@
         ]
       },
       {
-        "id": "e329e3c9f19fe273",
-        "type": "split",
+        "id": "61582c1ce7f7da6c",
+        "type": "tabs",
         "dimension": 83.72660699755899,
         "children": [
           {
-            "id": "61582c1ce7f7da6c",
-            "type": "tabs",
-            "dimension": 67.95774647887323,
-            "children": [
-              {
-                "id": "6a51d62ed63628ad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "总结与复盘/2024-05-29.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "6a51d62ed63628ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总结与复盘/2024-05-29.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "a26de22b66b73687",
-            "type": "tabs",
-            "dimension": 32.04225352112676,
-            "children": [
-              {
-                "id": "afef0051bd1b720a",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
