@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-05-31.md"
+                "file": "总结与复盘/2024-03-29.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-05-31.md",
+                "file": "总结与复盘/2024-03-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1c02be069f0c51a5",
@@ -120,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -137,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-05-31.md",
+                "file": "总结与复盘/2024-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-05-31.md",
+                "file": "总结与复盘/2024-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +224,11 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "note/技能总结/Excel.md",
     "总结与复盘/2024-06-01.md",
+    "总结与复盘/2024-05-31.md",
     "template/讲话模板.md",
     "attachment/0160AC9B.jpg",
-    "总结与复盘/2024-05-31.md",
     "总结与复盘/2024-05-30.md",
     "总结与复盘/2024-05-19.md",
     "总结与复盘/2024-05-24.md",
