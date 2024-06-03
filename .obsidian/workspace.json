@@ -6,7 +6,7 @@
       {
         "id": "2da45d014cc41962",
         "type": "tabs",
-        "dimension": 16.273393002441008,
+        "dimension": 12.01923076923077,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-06-01.md"
+                "file": "总结与复盘/2024-05-29.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "61582c1ce7f7da6c",
         "type": "tabs",
-        "dimension": 83.72660699755899,
+        "dimension": 87.98076923076923,
         "children": [
           {
             "id": "6a51d62ed63628ad",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-06-01.md",
+                "file": "总结与复盘/2024-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 378.5102081298828
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-06-01.md",
+                "file": "总结与复盘/2024-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-06-01.md",
+                "file": "总结与复盘/2024-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,18 +219,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a51d62ed63628ad",
+  "active": "cc3b256e7c3d5230",
   "lastOpenFiles": [
+    "总结与复盘/2024-05-30.md",
+    "总结与复盘/2024-06-03.md",
+    "总结与复盘/2024-05-31.md",
+    "总结与复盘/2024-06-01.md",
+    "note/技能总结/Excel.md",
+    "总结与复盘/2024-05-29.md",
     "template/讲话模板.md",
     "template/思维指导.md",
     "template/解决问题模型.md",
-    "总结与复盘/2024-06-01.md",
-    "总结与复盘/2024-05-31.md",
-    "总结与复盘/2024-05-29.md",
     "总结与复盘/2024-03-19.md",
-    "总结与复盘/2024-05-30.md",
     "总结与复盘/2024-03-29.md",
-    "note/技能总结/Excel.md",
     "attachment/0160AC9B.jpg",
     "总结与复盘/2024-05-19.md",
     "总结与复盘/2024-05-24.md",
@@ -247,7 +248,6 @@
     "总结与复盘/2024-03-13.md",
     "总结与复盘/2024-03-12.md",
     "总结与复盘/2024-03-11.md",
-    "总结与复盘/2024-03-27.md",
     "attachment/PixPin_2024-05-24_19-42-51.png",
     "attachment/Pasted image 20240515203211.png",
     "attachment/PixPin_2024-05-08_20-23-03.png",
