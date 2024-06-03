@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/讲话模板.md"
+                "file": "总结与复盘/2024-06-01.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-06-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,8 +221,8 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
-    "template/思维指导.md",
     "template/讲话模板.md",
+    "template/思维指导.md",
     "template/解决问题模型.md",
     "总结与复盘/2024-06-01.md",
     "总结与复盘/2024-05-31.md",
