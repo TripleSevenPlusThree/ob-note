@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-06-03.md"
+                "file": "template/讲话模板.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-06-03.md",
+                "file": "template/讲话模板.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-06-03.md",
+                "file": "template/讲话模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-06-03.md",
+                "file": "template/讲话模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,9 +222,9 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "总结与复盘/2024-06-03.md",
     "attachment/PixPin_2024-06-05_22-00-14.png",
     "总结与复盘/2024-04-16.md",
-    "总结与复盘/2024-06-03.md",
     "总结与复盘/2024-06-01.md",
     "总结与复盘/2024-05-31.md",
     "总结与复盘/2024-05-30.md",
@@ -257,7 +257,6 @@
     "attachment/PixPin_2024-04-28_21-32-41.png",
     "attachment/PixPin_2024-04-28_21-30-34.png",
     "attachment/PixPin_2024-04-28_21-22-16.png",
-    "attachment/PixPin_2024-04-28_21-17-03.png",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
     "项目(project)/个人logo",
