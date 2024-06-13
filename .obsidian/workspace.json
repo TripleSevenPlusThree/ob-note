@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/讲话模板.md"
+                "file": "总结与复盘/2024-06-13.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-06-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1c02be069f0c51a5",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,10 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "总结与复盘/2024-04-22.md",
+    "总结与复盘/2024-06-13.md",
     "总结与复盘/2024-06-03.md",
+    "template/讲话模板.md",
     "总结与复盘/2024-03-29.md",
     "template/解决问题模型.md",
     "attachment/PixPin_2024-06-12_16-14-04.png",
@@ -231,8 +235,6 @@
     "总结与复盘/2024-05-31.md",
     "总结与复盘/2024-02-24.md",
     "总结与复盘/2024-06-01.md",
-    "template/讲话模板.md",
-    "总结与复盘/2024-04-22.md",
     "attachment/PixPin_2024-06-05_22-00-14.png",
     "总结与复盘/2024-05-30.md",
     "总结与复盘/2024-05-29.md",
@@ -249,7 +251,6 @@
     "总结与复盘/2024-05-05.md",
     "总结与复盘/2024-05-04.md",
     "总结与复盘/2024-04-29.md",
-    "总结与复盘/2024-04-27.md",
     "attachment/02FF4AD1.png",
     "attachment/0160AC9B.jpg",
     "attachment/PixPin_2024-05-24_19-42-51.png",
