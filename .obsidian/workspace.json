@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +222,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a51d62ed63628ad",
+  "active": "0f0c4e1f78c9f617",
   "lastOpenFiles": [
     "总结与复盘/2024-06-13.md",
     "总结与复盘/2024-04-22.md",
