@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "attachment",
   "newFileFolderPath": "note",
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": true
 }
