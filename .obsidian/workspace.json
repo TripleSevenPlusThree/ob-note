@@ -133,6 +133,23 @@
         "dimension": 32.55813953488372,
         "children": [
           {
+            "id": "c3ce57db62e07639",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "总结与复盘/2024-06-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "213de3950f434c00",
             "type": "leaf",
             "state": {
@@ -163,7 +180,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "d83e1afff7b2ad42",
