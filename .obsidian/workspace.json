@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-06-24.md"
+                "file": "总结与复盘/2024-06-25.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-06-24.md",
+                "file": "总结与复盘/2024-06-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5102081298828
+    "width": 378.5102081298828,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-06-24.md",
+                "file": "总结与复盘/2024-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-06-24.md",
+                "file": "总结与复盘/2024-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +223,9 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
-    "总结与复盘/2024-06-23.md",
     "总结与复盘/2024-06-24.md",
+    "总结与复盘/2024-06-25.md",
+    "总结与复盘/2024-06-23.md",
     "总结与复盘/2024-06-16.md",
     "总结与复盘/2024-05-28.md",
     "总结与复盘/2024-05-29.md",
@@ -249,7 +251,6 @@
     "attachment/PixPin_2024-06-05_22-00-14.png",
     "总结与复盘/2024-05-25.md",
     "总结与复盘/2024-05-24.md",
-    "总结与复盘/2024-05-22.md",
     "attachment/02FF4AD1.png",
     "attachment/0160AC9B.jpg",
     "attachment/PixPin_2024-05-24_19-42-51.png",
