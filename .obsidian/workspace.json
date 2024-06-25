@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +222,49 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
+  "floating": {
+    "id": "858631a69329ce36",
+    "type": "floating",
+    "children": [
+      {
+        "id": "458b53b3d5b71d63",
+        "type": "window",
+        "children": [
+          {
+            "id": "c675c953d6041c42",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "81fe1b14e88fa292",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "template/讲话模板.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1625,
+        "y": 0,
+        "width": 883,
+        "height": 681,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
-    "总结与复盘/2024-06-24.md",
+    "template/讲话模板.md",
     "总结与复盘/2024-06-25.md",
+    "总结与复盘/2024-06-24.md",
     "总结与复盘/2024-06-23.md",
     "总结与复盘/2024-06-16.md",
     "总结与复盘/2024-05-28.md",
@@ -235,7 +275,6 @@
     "总结与复盘/[[2024-04-16.md",
     "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-05-27.md",
-    "template/讲话模板.md",
     "note/技能总结/Excel.md",
     "总结与复盘/2024-04-22.md",
     "template/解决问题模型.md",
