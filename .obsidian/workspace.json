@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-06-27.md"
+                "file": "template/领导力.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-06-27.md",
+                "file": "template/领导力.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-06-27.md",
+                "file": "template/领导力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-06-27.md",
+                "file": "template/领导力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,11 +222,12 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240630162235.png",
+    "总结与复盘/2024-06-27.md",
     "总结与复盘/2024-06-23.md",
     "总结与复盘/2024-06-24.md",
     "总结与复盘/2024-06-25.md",
     "总结与复盘/2024-06-26.md",
-    "总结与复盘/2024-06-27.md",
     "template/领导力.md",
     "template/讲话模板.md",
     "总结与复盘/2024-06-16.md",
@@ -247,7 +248,6 @@
     "总结与复盘/2024-06-13.md",
     "总结与复盘/2024-05-31.md",
     "总结与复盘/2024-06-01.md",
-    "总结与复盘/2024-03-29.md",
     "attachment/PixPin_2024-06-12_16-14-04.png",
     "attachment/PixPin_2024-06-05_22-00-14.png",
     "attachment/02FF4AD1.png",
