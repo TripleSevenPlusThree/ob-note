@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/领导力.md"
+                "file": "总结与复盘/2024-07-02.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/领导力.md",
+                "file": "总结与复盘/2024-07-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/领导力.md",
+                "file": "总结与复盘/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/领导力.md",
+                "file": "总结与复盘/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,17 +222,24 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
-    "template/复盘模板.md",
-    "总结与复盘/2024-07-02.md",
-    "template/解决问题模型.md",
+    "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-06-03.md",
+    "总结与复盘/2024-07-02.md",
+    "note/技能总结/markdown语法.md",
+    "note/技能总结/cmake.md",
+    "note/技能总结/微积分思维.md",
+    "note/技能总结/word排版模板.md",
+    "note/技能总结/vscode配置.md",
+    "note/技能总结/Git.md",
+    "template/领导力.md",
+    "template/复盘模板.md",
+    "template/解决问题模型.md",
     "总结与复盘/2024-06-27.md",
     "总结与复盘/2024-06-26.md",
     "总结与复盘/2024-06-25.md",
     "总结与复盘/2024-06-24.md",
     "template/讲话模板.md",
     "template/思维指导.md",
-    "template/领导力.md",
     "attachment/Pasted image 20240630162235.png",
     "总结与复盘/2024-06-23.md",
     "总结与复盘/2024-06-16.md",
@@ -242,13 +249,6 @@
     "总结与复盘/2024-05-29.md",
     "总结与复盘/2024-05-30.md",
     "总结与复盘/2024-06-17.md",
-    "总结与复盘/[[2024-04-16.md",
-    "总结与复盘/2024-04-16.md",
-    "总结与复盘/2024-05-27.md",
-    "note/技能总结/Excel.md",
-    "总结与复盘/2024-04-02.md",
-    "总结与复盘/2024-06-13.md",
-    "总结与复盘/2024-05-31.md",
     "attachment/PixPin_2024-06-12_16-14-04.png",
     "attachment/PixPin_2024-06-05_22-00-14.png",
     "attachment/02FF4AD1.png",
