@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-07-24.md"
+                "file": "template/解决问题模型.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-07-24.md",
+                "file": "template/解决问题模型.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-07-24.md",
+                "file": "template/解决问题模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-07-24.md",
+                "file": "template/解决问题模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,11 +222,11 @@
   },
   "active": "6a51d62ed63628ad",
   "lastOpenFiles": [
-    "总结与复盘/2024-04-16.md",
-    "总结与复盘/2024-07-24.md",
     "template/领导力.md",
     "template/讲话模板.md",
     "template/解决问题模型.md",
+    "总结与复盘/2024-07-24.md",
+    "总结与复盘/2024-04-16.md",
     "note/技能总结/word排版模板.md",
     "note/技能总结/Excel.md",
     "总结与复盘/2024-07-21.md",
