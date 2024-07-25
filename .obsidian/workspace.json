@@ -6,7 +6,7 @@
       {
         "id": "4bb223095e9a9adb",
         "type": "tabs",
-        "dimension": 9.250693802035151,
+        "dimension": 9.250693802035153,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-07-15.md"
+                "file": "总结与复盘/2024-07-25.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "7f185132ab834df6",
         "type": "tabs",
-        "dimension": 90.74930619796483,
+        "dimension": 90.74930619796486,
         "children": [
           {
             "id": "dce9fe9027d68b1b",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-07-15.md",
+                "file": "总结与复盘/2024-07-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-07-15.md",
+                "file": "总结与复盘/2024-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-07-15.md",
+                "file": "总结与复盘/2024-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +220,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0f0c4e1f78c9f617",
+  "active": "dce9fe9027d68b1b",
   "lastOpenFiles": [
-    "总结与复盘/2024-07-15.md",
     "总结与复盘/2024-07-24.md",
+    "总结与复盘/2024-07-25.md",
+    "总结与复盘/2024-07-15.md",
     "note/技能总结/vscode配置.md",
     "attachment/Excel 2024-07-24 23.27.14.sheet.md",
     "Excel 2024-07-24 23.26.23.sheet.md",
@@ -250,7 +251,6 @@
     "总结与复盘/2024-06-03.md",
     "note/技能总结/markdown语法.md",
     "note/技能总结/cmake.md",
-    "note/技能总结/微积分思维.md",
     "attachment/Pasted image 20240630162235.png",
     "attachment/PixPin_2024-06-12_16-14-04.png",
     "attachment/PixPin_2024-06-05_22-00-14.png",
