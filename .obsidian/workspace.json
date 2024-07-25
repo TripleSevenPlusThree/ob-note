@@ -6,7 +6,7 @@
       {
         "id": "4bb223095e9a9adb",
         "type": "tabs",
-        "dimension": 9.250693802035153,
+        "dimension": 9.250693802035151,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
@@ -23,7 +23,7 @@
       {
         "id": "7f185132ab834df6",
         "type": "tabs",
-        "dimension": 90.74930619796486,
+        "dimension": 90.74930619796483,
         "children": [
           {
             "id": "dce9fe9027d68b1b",
@@ -217,13 +217,12 @@
       "obsidian-custom-frames:Open DPL": false,
       "obsidian-custom-frames:Open kimi": false,
       "obsidian-custom-frames:Open 通义千问": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "mxmind:Mxmind": false,
-      "excel:创建 Excel 文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dce9fe9027d68b1b",
+  "active": "0f0c4e1f78c9f617",
   "lastOpenFiles": [
+    "总结与复盘/2024-07-15.md",
     "总结与复盘/2024-07-24.md",
     "note/技能总结/vscode配置.md",
     "attachment/Excel 2024-07-24 23.27.14.sheet.md",
@@ -243,7 +242,6 @@
     "总结与复盘/2024-07-07.md",
     "总结与复盘/2024-07-10.md",
     "总结与复盘/2024-07-11.md",
-    "总结与复盘/2024-07-15.md",
     "总结与复盘/2024-07-04.md",
     "总结与复盘/2024-07-05.md",
     "总结与复盘/2024-06-16.md",
