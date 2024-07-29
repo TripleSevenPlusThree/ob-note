@@ -6,7 +6,7 @@
       {
         "id": "4bb223095e9a9adb",
         "type": "tabs",
-        "dimension": 9.250693802035151,
+        "dimension": 9.250693802035153,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-07-28.md"
+                "file": "总结与复盘/2024-07-29.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "7f185132ab834df6",
         "type": "tabs",
-        "dimension": 90.74930619796483,
+        "dimension": 90.74930619796484,
         "children": [
           {
             "id": "dce9fe9027d68b1b",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-07-28.md",
+                "file": "总结与复盘/2024-07-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-07-28.md",
+                "file": "总结与复盘/2024-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-07-28.md",
+                "file": "总结与复盘/2024-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +222,10 @@
   },
   "active": "dce9fe9027d68b1b",
   "lastOpenFiles": [
-    "总结与复盘/2024-07-25.md",
+    "attachment/00EE3756.png",
     "总结与复盘/2024-07-28.md",
+    "总结与复盘/2024-07-29.md",
+    "总结与复盘/2024-07-25.md",
     "note/技能总结/Adobe illustrator.md",
     "template/说明文思路模板.md",
     "总结与复盘/2024-07-24.md",
@@ -249,8 +251,6 @@
     "总结与复盘/2024-07-04.md",
     "总结与复盘/2024-07-05.md",
     "总结与复盘/2024-06-16.md",
-    "总结与复盘/2024-02-24.md",
-    "总结与复盘/2024-07-02.md",
     "attachment/Pasted image 20240630162235.png",
     "attachment/PixPin_2024-06-12_16-14-04.png",
     "attachment/PixPin_2024-06-05_22-00-14.png",
