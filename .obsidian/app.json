@@ -4,5 +4,6 @@
   "attachmentFolderPath": "attachment",
   "newFileFolderPath": "note",
   "promptDelete": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showRibbon": false
 }
