@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/讲话模板.md"
+                "file": "总结与复盘/2024-08-09.md"
               }
             }
           }
@@ -31,41 +31,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/不常用（很久之前）/思维指导.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bab0968367335e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/不常用（很久之前）/SWOT分析法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b50a6df6f087907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/讲话模板.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,17 +217,18 @@
       "obsidian-custom-frames:Open DPL": false,
       "obsidian-custom-frames:Open kimi": false,
       "obsidian-custom-frames:Open 通义千问": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "8b50a6df6f087907",
+  "active": "dce9fe9027d68b1b",
   "lastOpenFiles": [
+    "template/不常用（很久之前）/思维指导.md",
+    "template/不常用（很久之前）/SWOT分析法.md",
+    "template/讲话模板.md",
     "template/解决问题模型.md",
     "template/领导力.md",
-    "template/讲话模板.md",
     "template/不常用（很久之前）/复盘模板.md",
-    "template/不常用（很久之前）/SWOT分析法.md",
-    "template/不常用（很久之前）/思维指导.md",
     "template/不常用（很久之前）/说明文思路模板.md",
     "template/不常用（很久之前）",
     "总结与复盘/2024-08-09.md",

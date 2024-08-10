@@ -2,7 +2,7 @@
   "accentColor": "#d97517",
   "theme": "moonstone",
   "baseFontSize": 17,
-  "cssTheme": "Atom",
+  "cssTheme": "Border",
   "textFontFamily": "Sans Serif Collection",
   "interfaceFontFamily": "Arial Black",
   "nativeMenus": true
