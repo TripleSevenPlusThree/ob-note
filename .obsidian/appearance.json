@@ -3,6 +3,7 @@
   "theme": "obsidian",
   "baseFontSize": 17,
   "cssTheme": "Atom",
-  "textFontFamily": "Book Antiqua",
-  "interfaceFontFamily": "Arial Black"
+  "textFontFamily": "Sans Serif Collection",
+  "interfaceFontFamily": "Arial Black",
+  "nativeMenus": false
 }
