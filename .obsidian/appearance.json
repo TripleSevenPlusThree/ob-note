@@ -5,5 +5,8 @@
   "cssTheme": "Border",
   "textFontFamily": "Sans Serif Collection",
   "interfaceFontFamily": "Arial Black",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "加字重"
+  ]
 }
