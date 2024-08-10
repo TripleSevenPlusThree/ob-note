@@ -5,5 +5,5 @@
   "cssTheme": "Atom",
   "textFontFamily": "Sans Serif Collection",
   "interfaceFontFamily": "Arial Black",
-  "nativeMenus": false
+  "nativeMenus": true
 }

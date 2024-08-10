@@ -5,5 +5,5 @@
   "newFileFolderPath": "note",
   "promptDelete": false,
   "strictLineBreaks": false,
-  "showRibbon": false
+  "showRibbon": true
 }
