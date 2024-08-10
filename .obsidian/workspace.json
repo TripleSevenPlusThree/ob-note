@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-04-16.md"
+                "file": "总结与复盘/2024-08-09.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-04-16.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1c02be069f0c51a5",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-04-16.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-04-16.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +225,9 @@
   "active": "dce9fe9027d68b1b",
   "lastOpenFiles": [
     "总结与复盘/2024-06-03.md",
+    "总结与复盘/2024-08-02.md",
     "总结与复盘/2024-08-09.md",
+    "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-07-06.md",
     "template/不常用（很久之前）/思维指导.md",
     "template/不常用（很久之前）/SWOT分析法.md",
@@ -234,11 +237,9 @@
     "template/不常用（很久之前）/复盘模板.md",
     "template/不常用（很久之前）/说明文思路模板.md",
     "template/不常用（很久之前）",
-    "总结与复盘/2024-08-02.md",
     "总结与复盘/2024-06-23.md",
     "总结与复盘/2024-05-28.md",
     "总结与复盘/2024-04-02.md",
-    "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-04-29.md",
     "总结与复盘/2024-03-29.md",
     "总结与复盘/2024-04-24.md",
