@@ -26,15 +26,7 @@
         "dimension": 90.74930619796484,
         "children": [
           {
-            "id": "dce9fe9027d68b1b",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
-            "id": "e5411b042ea00513",
+            "id": "80c299e434c01662",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +38,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,14 +218,15 @@
       "obsidian-custom-frames:Open kimi": false,
       "obsidian-custom-frames:Open 通义千问": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "pkmer:Open Pkmer Market": false
+      "pkmer:Open Pkmer Market": false,
+      "outliner-md:New outliner file": false
     }
   },
-  "active": "e5411b042ea00513",
+  "active": "80c299e434c01662",
   "lastOpenFiles": [
+    "总结与复盘/2024-08-09.md",
     "总结与复盘/2024-06-07.md",
     "总结与复盘/2024-06-03.md",
-    "总结与复盘/2024-08-09.md",
     "总结与复盘/2024-08-02.md",
     "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-07-06.md",

@@ -3,10 +3,8 @@
   "theme": "moonstone",
   "baseFontSize": 17,
   "cssTheme": "Border",
-  "textFontFamily": "Sans Serif Collection",
+  "textFontFamily": "Noto Sans SC",
   "interfaceFontFamily": "Arial Black",
   "nativeMenus": true,
-  "enabledCssSnippets": [
-    "加字重"
-  ]
+  "enabledCssSnippets": []
 }
