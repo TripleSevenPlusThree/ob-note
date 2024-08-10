@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "baseFontSize": 17,
   "cssTheme": "Border",
-  "textFontFamily": "Noto Sans SC",
+  "textFontFamily": "Impact,Arial Black,Noto Sans SC",
   "interfaceFontFamily": "Arial Black",
   "nativeMenus": true,
   "enabledCssSnippets": []
