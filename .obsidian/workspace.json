@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-08-09.md"
+                "file": "template/解决问题模型.md"
               }
             }
           }
@@ -26,28 +26,19 @@
         "dimension": 89.11268372346217,
         "children": [
           {
-            "id": "698ca0cee492aab3",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
-          {
             "id": "33be6067be1b8c37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-08-09.md",
+                "file": "template/解决问题模型.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +129,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 29.164161154539986,
+        "dimension": 30.84786530366807,
         "children": [
           {
             "id": "21f1612ce8e8766e",
@@ -146,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-08-09.md",
+                "file": "template/解决问题模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-08-09.md",
+                "file": "template/解决问题模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +185,7 @@
       {
         "id": "d83e1afff7b2ad42",
         "type": "tabs",
-        "dimension": 70.83583884546,
+        "dimension": 69.15213469633194,
         "children": [
           {
             "id": "24a4069f61b1c74a",
@@ -232,6 +223,7 @@
   "active": "33be6067be1b8c37",
   "lastOpenFiles": [
     "总结与复盘/2024-06-03.md",
+    "template/解决问题模型.md",
     "总结与复盘/2024-08-09.md",
     "总结与复盘/2024-06-13.md",
     "Excalidraw/练习.md",
@@ -247,7 +239,6 @@
     "template/不常用（很久之前）/思维指导.md",
     "template/不常用（很久之前）/SWOT分析法.md",
     "template/讲话模板.md",
-    "template/解决问题模型.md",
     "template/领导力.md",
     "template/不常用（很久之前）/复盘模板.md",
     "template/不常用（很久之前）/说明文思路模板.md",
