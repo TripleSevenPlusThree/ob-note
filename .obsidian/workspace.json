@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-06-03.md"
+                "file": "总结与复盘/2024-08-09.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-06-03.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,13 +137,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-06-03.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-06-03.md",
+                "file": "总结与复盘/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,10 +222,12 @@
   },
   "active": "33be6067be1b8c37",
   "lastOpenFiles": [
+    "总结与复盘/2024-04-16.md",
+    "template/领导力.md",
     "总结与复盘/2024-08-09.md",
+    "总结与复盘/2024-06-03.md",
     "总结与复盘/2024-06-07.md",
     "总结与复盘/2024-06-06.md",
-    "总结与复盘/2024-06-03.md",
     "template/解决问题模型.md",
     "总结与复盘/2024-06-13.md",
     "Excalidraw/练习.md",
@@ -235,12 +237,10 @@
     "总结与复盘/2024-08-02.md",
     "template/商业计划书.md",
     "总结与复盘/2024-03-29.md",
-    "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-07-06.md",
     "template/不常用（很久之前）/思维指导.md",
     "template/不常用（很久之前）/SWOT分析法.md",
     "template/讲话模板.md",
-    "template/领导力.md",
     "template/不常用（很久之前）/复盘模板.md",
     "template/不常用（很久之前）/说明文思路模板.md",
     "template/不常用（很久之前）",
