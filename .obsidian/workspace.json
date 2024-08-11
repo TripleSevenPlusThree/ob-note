@@ -6,7 +6,7 @@
       {
         "id": "4bb223095e9a9adb",
         "type": "tabs",
-        "dimension": 11.534025374855824,
+        "dimension": 10.887316276537835,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
@@ -23,16 +23,8 @@
       {
         "id": "7f185132ab834df6",
         "type": "tabs",
-        "dimension": 88.46597462514417,
+        "dimension": 89.11268372346217,
         "children": [
-          {
-            "id": "80c299e434c01662",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {}
-            }
-          },
           {
             "id": "698ca0cee492aab3",
             "type": "leaf",
@@ -128,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5042667388916
+    "width": 588.5042667388916
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -228,10 +220,13 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "80c299e434c01662",
+  "active": "698ca0cee492aab3",
   "lastOpenFiles": [
-    "template/未命名思维导图.md",
+    "Excalidraw/练习.md",
+    "Excalidraw/Drawing 2024-08-11 10.45.26.excalidraw.md",
+    "Excalidraw/练习.png",
     "总结与复盘/2024-08-09.md",
+    "template/未命名思维导图.md",
     "总结与复盘/2024-08-02.md",
     "template/商业计划书.md",
     "总结与复盘/2024-03-29.md",
@@ -255,8 +250,6 @@
     "总结与复盘/2024-05-07.md",
     "总结与复盘/2024-03-11.md",
     "总结与复盘/2024-04-07.md",
-    "总结与复盘/2024-08-08.md",
-    "总结与复盘/2024-03-05.md",
     "attachment/00EE3756.png",
     "attachment/PixPin_2024-04-16_18-24-45.png",
     "attachment/PixPin_2024-07-24_09-26-59.png",
@@ -266,7 +259,6 @@
     "attachment/PixPin_2024-06-05_22-00-14.png",
     "attachment/02FF4AD1.png",
     "attachment/0160AC9B.jpg",
-    "attachment/PixPin_2024-05-24_19-42-51.png",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
     "项目(project)/个人logo",

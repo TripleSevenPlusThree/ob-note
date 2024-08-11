@@ -5,5 +5,7 @@
   "newFileFolderPath": "note",
   "promptDelete": false,
   "strictLineBreaks": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "showLineNumber": false,
+  "rightToLeft": false
 }
