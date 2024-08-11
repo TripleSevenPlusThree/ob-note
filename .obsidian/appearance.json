@@ -6,5 +6,7 @@
   "textFontFamily": "Noto Sans SC,Microsoft Sans Serif,Impact,Arial Black",
   "interfaceFontFamily": "Arial Black",
   "nativeMenus": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "调整悬浮窗口大小"
+  ]
 }
