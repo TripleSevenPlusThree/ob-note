@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/商业计划书.md"
+                "file": "总结与复盘/2024-08-02.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/商业计划书.md",
+                "file": "总结与复盘/2024-08-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/商业计划书.md",
+                "file": "总结与复盘/2024-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/商业计划书.md",
+                "file": "总结与复盘/2024-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,11 +222,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "0f0c4e1f78c9f617",
+  "active": "80c299e434c01662",
   "lastOpenFiles": [
-    "总结与复盘/2024-03-29.md",
-    "template/商业计划书.md",
     "总结与复盘/2024-08-09.md",
+    "template/商业计划书.md",
+    "总结与复盘/2024-03-29.md",
     "总结与复盘/2024-06-03.md",
     "总结与复盘/2024-06-07.md",
     "总结与复盘/2024-08-02.md",
