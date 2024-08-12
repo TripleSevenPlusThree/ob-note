@@ -3,7 +3,6 @@
   "obsidian-mind-map",
   "dataview",
   "obsidian-checklist-plugin",
-  "calendar",
   "obsidian-kanban",
   "obsidian-annotator",
   "obsidian-admonition",
@@ -12,5 +11,6 @@
   "obsidian-excalidraw-plugin",
   "pkmer",
   "obsidian-style-settings",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "calendar-beta"
 ]

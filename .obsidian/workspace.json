@@ -6,7 +6,7 @@
       {
         "id": "4bb223095e9a9adb",
         "type": "tabs",
-        "dimension": 11.560693641618498,
+        "dimension": 11.448196908986835,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-03-02.md"
+                "file": "template/商业计划书.md"
               }
             }
           }
@@ -23,15 +23,15 @@
       {
         "id": "7f185132ab834df6",
         "type": "tabs",
-        "dimension": 88.4393063583815,
+        "dimension": 88.55180309101317,
         "children": [
           {
-            "id": "c70e0549754d9a70",
+            "id": "27a7f9d25065b090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-03-02.md",
+                "file": "template/商业计划书.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5042667388916
+    "width": 623.5042667388916,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-03-02.md",
+                "file": "template/商业计划书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-03-02.md",
+                "file": "template/商业计划书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             }
           },
           {
-            "id": "0f0c4e1f78c9f617",
+            "id": "8e20264463e91529",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -199,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 641.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +222,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "c70e0549754d9a70",
+  "active": "a1b0273dc607066a",
   "lastOpenFiles": [
+    "总结与复盘/2024-03-02.md",
+    "template/商业计划书.md",
     "总结与复盘/2024-03-01.md",
     "总结与复盘/2024-03-04.md",
     "总结与复盘/2024-03-05.md",
@@ -229,7 +233,6 @@
     "总结与复盘/2024-03-11.md",
     "总结与复盘/2024-02-27.md",
     "总结与复盘/2024-02-05.md",
-    "总结与复盘/2024-03-02.md",
     "总结与复盘/2024-05-13.md",
     "总结与复盘/2024-05-09.md",
     "总结与复盘/2024-05-08.md",
@@ -246,7 +249,6 @@
     "总结与复盘/2024-06-24.md",
     "总结与复盘/2024-04-16.md",
     "总结与复盘/2024-03-19.md",
-    "template/商业计划书.md",
     "总结与复盘/2024-05-29.md",
     "Excalidraw/练习.png",
     "template/不常用（很久之前）",
