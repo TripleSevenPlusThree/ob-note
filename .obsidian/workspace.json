@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1c02be069f0c51a5",
@@ -120,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5042667388916,
-    "collapsed": true
+    "width": 623.5042667388916
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5,
-    "collapsed": true
+    "width": 641.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,6 +223,8 @@
   },
   "active": "15e72978167242b8",
   "lastOpenFiles": [
+    "总结与复盘/2024-03-29.md",
+    "template/商业计划书.md",
     "总结与复盘/2024-08-14.md",
     "Tasks Plugin - Review and check your Statuses 2024-08-14 21-02-26.md",
     "Excalidraw/Drawing 2024-08-11 10.45.26.excalidraw.md",
@@ -237,7 +238,6 @@
     "总结与复盘/2024-03-23.md",
     "总结与复盘/2024-03-19.md",
     "总结与复盘/2024-04-22.md",
-    "template/商业计划书.md",
     "项目(project)/c++线程池/c++线程库的基本使用.md",
     "template/解决问题模型.md",
     "总结与复盘/2024-03-02.md",
@@ -250,7 +250,6 @@
     "总结与复盘/2024-02-05.md",
     "总结与复盘/2024-05-13.md",
     "总结与复盘/2024-05-09.md",
-    "总结与复盘/2024-05-08.md",
     "Excalidraw/练习.png",
     "template/不常用（很久之前）",
     "attachment/00EE3756.png",
