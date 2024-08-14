@@ -6,36 +6,13 @@
       {
         "id": "4bb223095e9a9adb",
         "type": "tabs",
-        "dimension": 11.448196908986835,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "总结与复盘/2024-08-14.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7f185132ab834df6",
-        "type": "tabs",
-        "dimension": 88.55180309101317,
-        "children": [
-          {
-            "id": "27a7f9d25065b090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "总结与复盘/2024-08-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "state": {}
             }
           }
         ]
@@ -53,12 +30,12 @@
         "dimension": 36.62056524353578,
         "children": [
           {
-            "id": "a1b0273dc607066a",
+            "id": "a7945632cd014b12",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -137,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +195,12 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "27a7f9d25065b090",
+  "active": "cc3b256e7c3d5230",
   "lastOpenFiles": [
-    "总结与复盘/2024-08-02.md",
     "总结与复盘/2024-08-14.md",
+    "Excalidraw/Drawing 2024-08-11 10.45.26.excalidraw.md",
+    "Excalidraw/Untitled Diagram.svg",
+    "总结与复盘/2024-08-02.md",
     "总结与复盘/2024-08-09.md",
     "总结与复盘/2024-07-24.md",
     "总结与复盘/2024-04-16.md",
@@ -247,7 +224,6 @@
     "总结与复盘/2024-05-09.md",
     "总结与复盘/2024-05-08.md",
     "总结与复盘/2024-05-07.md",
-    "总结与复盘/2024-05-06.md",
     "Excalidraw/练习.png",
     "template/不常用（很久之前）",
     "attachment/00EE3756.png",
@@ -258,7 +234,6 @@
     "attachment/PixPin_2024-06-12_16-14-04.png",
     "attachment/PixPin_2024-06-05_22-00-14.png",
     "attachment/02FF4AD1.png",
-    "attachment/0160AC9B.jpg",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
     "项目(project)/个人logo",
