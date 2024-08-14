@@ -4,15 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb223095e9a9adb",
+        "id": "ff5dd1fcf2dedfd6",
         "type": "tabs",
+        "dimension": 6.57030223390276,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "template/商业计划书.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4bb223095e9a9adb",
+        "type": "tabs",
+        "dimension": 93.42969776609723,
+        "children": [
+          {
+            "id": "15e72978167242b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/商业计划书.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5042667388916
+    "width": 623.5042667388916,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -114,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "template/商业计划书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "template/商业计划书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 641.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +222,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "cc3b256e7c3d5230",
+  "active": "15e72978167242b8",
   "lastOpenFiles": [
     "总结与复盘/2024-08-14.md",
+    "Tasks Plugin - Review and check your Statuses 2024-08-14 21-02-26.md",
     "Excalidraw/Drawing 2024-08-11 10.45.26.excalidraw.md",
     "Excalidraw/Untitled Diagram.svg",
     "总结与复盘/2024-08-02.md",
@@ -223,7 +251,6 @@
     "总结与复盘/2024-05-13.md",
     "总结与复盘/2024-05-09.md",
     "总结与复盘/2024-05-08.md",
-    "总结与复盘/2024-05-07.md",
     "Excalidraw/练习.png",
     "template/不常用（很久之前）",
     "attachment/00EE3756.png",
