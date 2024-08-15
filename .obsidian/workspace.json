@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/核心关系.md"
+                "file": "总结与复盘/2024-08-14.md"
               }
             }
           }
@@ -29,9 +29,12 @@
             "id": "6e990d233d53ce31",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/核心关系.md"
+                "file": "总结与复盘/2024-08-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -65,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#你好呀：世界",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +96,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1c02be069f0c51a5",
@@ -145,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/核心关系.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/核心关系.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,10 +221,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "a7945632cd014b12",
+  "active": "dd6dcde933859b7a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-15 10.49.02.excalidraw.md",
     "Excalidraw/核心关系.md",
+    "Excalidraw/Drawing 2024-08-15 10.49.02.excalidraw.md",
     "总结与复盘/2024-08-14.md",
     "template/不常用（很久之前）/复盘模板.md",
     "总结与复盘/2023-12-28.md",
