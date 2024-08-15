@@ -3,7 +3,7 @@
   "theme": "moonstone",
   "baseFontSize": 17,
   "cssTheme": "Border",
-  "textFontFamily": "Arial,Inter,Noto Sans SC,Sans Serif Collection,Microsoft JhengHei",
+  "textFontFamily": "Microsoft YaHei,Sans Serif Collection,Noto Sans SC,Arial,Inter,Microsoft JhengHei",
   "interfaceFontFamily": "Arial Black",
   "nativeMenus": true,
   "enabledCssSnippets": [
