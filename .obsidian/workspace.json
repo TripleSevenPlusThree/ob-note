@@ -60,6 +60,21 @@
             }
           },
           {
+            "id": "815ec1ebb4b1cbff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "b9e1908d3f0182bc",
             "type": "leaf",
             "state": {
@@ -68,17 +83,13 @@
             }
           },
           {
-            "id": "815ec1ebb4b1cbff",
+            "id": "dd6dcde933859b7a",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "tag",
               "state": {
-                "query": "刷新",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -158,17 +169,6 @@
             }
           },
           {
-            "id": "dd6dcde933859b7a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "8e20264463e91529",
             "type": "leaf",
             "state": {
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "d83e1afff7b2ad42",
@@ -217,12 +217,23 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "6e990d233d53ce31",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
-    "template/解决问题模型.md",
+    "Excalidraw/Drawing 2024-08-15 10.49.02.excalidraw.md",
     "Excalidraw/核心关系.md",
-    "总结与复盘/2024-08-09.md",
+    "总结与复盘/2024-08-14.md",
+    "template/不常用（很久之前）/复盘模板.md",
+    "总结与复盘/2023-12-28.md",
+    "总结与复盘/2023-12-17.md",
+    "总结与复盘/2023-10-15.md",
+    "总结与复盘/2024-03-01.md",
+    "总结与复盘/2024-03-02.md",
+    "总结与复盘/2024-03-11.md",
+    "总结与复盘/2024-02-27.md",
+    "总结与复盘/2024-03-04.md",
     "Excalidraw/练习.md",
+    "template/解决问题模型.md",
+    "总结与复盘/2024-08-09.md",
     "总结与复盘/2024-08-05.md",
     "总结与复盘/2024-08-04.md",
     "总结与复盘/2024-08-02.md",
@@ -230,23 +241,12 @@
     "总结与复盘/2024-04-16.md",
     "Excalidraw/Untitled Diagram.svg",
     "Excalidraw/Drawing 2024-08-11 10.45.26.excalidraw.md",
-    "总结与复盘/2024-08-14.md",
     "template/商业计划书.md",
     "总结与复盘/2024-03-29.md",
     "Tasks Plugin - Review and check your Statuses 2024-08-14 21-02-26.md",
     "总结与复盘/2024-07-24.md",
     "总结与复盘/2024-05-16.md",
     "总结与复盘/2024-03-24.md",
-    "总结与复盘/2024-03-23.md",
-    "总结与复盘/2024-03-19.md",
-    "总结与复盘/2024-04-22.md",
-    "项目(project)/c++线程池/c++线程库的基本使用.md",
-    "总结与复盘/2024-03-02.md",
-    "总结与复盘/2024-03-01.md",
-    "总结与复盘/2024-03-04.md",
-    "总结与复盘/2024-03-05.md",
-    "总结与复盘/2024-03-13.md",
-    "总结与复盘/2024-03-11.md",
     "template/不常用（很久之前）",
     "attachment/00EE3756.png",
     "attachment/PixPin_2024-04-16_18-24-45.png",
