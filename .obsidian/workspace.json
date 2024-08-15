@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-08-14.md"
+                "file": "Excalidraw/核心关系.md"
               }
             }
           }
@@ -29,12 +29,9 @@
             "id": "5ddd553cc0686445",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/核心关系.md"
               }
             }
           }
@@ -126,6 +123,14 @@
               "type": "custom-frames-dpl",
               "state": {}
             }
+          },
+          {
+            "id": "1e1fe18f717f12e6",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-秘塔ai",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
+                "file": "Excalidraw/核心关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
+                "file": "Excalidraw/核心关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,17 +217,17 @@
       "workspaces:管理工作区布局": false,
       "obsidian-custom-frames:Open 文心一言": false,
       "obsidian-custom-frames:Open 通义千问": false,
-      "obsidian-custom-frames:Open 秘塔ai": false,
       "obsidian-custom-frames:Open DPL": false,
       "obsidian-custom-frames:Open kimi": false,
+      "obsidian-custom-frames:Open 秘塔ai": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "ec047eefbc155b98",
+  "active": "5ddd553cc0686445",
   "lastOpenFiles": [
-    "数据库-MySQL/基础/多表查询.md",
     "总结与复盘/2024-08-14.md",
+    "数据库-MySQL/基础/多表查询.md",
     "总结与复盘/2024-08-02.md",
     "总结与复盘/2024-05-30.md",
     "总结与复盘/2024-05-15.md",
