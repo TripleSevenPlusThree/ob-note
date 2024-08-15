@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-02-19.md"
+                "file": "总结与复盘/2024-04-15.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-02-19.md",
+                "file": "总结与复盘/2024-04-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,7 @@
                 "query": "tag:#启发",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "1c02be069f0c51a5",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-02-19.md",
+                "file": "总结与复盘/2024-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-02-19.md",
+                "file": "总结与复盘/2024-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,8 +221,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "5ddd553cc0686445",
+  "active": "dd6dcde933859b7a",
   "lastOpenFiles": [
+    "总结与复盘/2024-05-07.md",
+    "总结与复盘/2024-03-09.md",
+    "总结与复盘/2024-02-19.md",
     "总结与复盘/2024-02-24.md",
     "总结与复盘/2024-02-27.md",
     "总结与复盘/2024-02-29.md",
@@ -231,7 +234,6 @@
     "总结与复盘/2024-03-04.md",
     "总结与复盘/2024-03-05.md",
     "总结与复盘/2024-03-07.md",
-    "总结与复盘/2024-03-09.md",
     "总结与复盘/2024-03-11.md",
     "总结与复盘/2024-03-12.md",
     "总结与复盘/2024-03-13.md",
@@ -247,8 +249,6 @@
     "总结与复盘/2024-04-01.md",
     "总结与复盘/2024-04-02.md",
     "总结与复盘/2024-04-04.md",
-    "总结与复盘/2024-04-07.md",
-    "总结与复盘/2024-08-14.md",
     "template/模型",
     "Excalidraw/练习.png",
     "Excalidraw/Untitled Diagram.svg",
