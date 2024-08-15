@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/添加已完成文章标签.md"
+                "file": "总结与复盘/2024-08-14.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/添加已完成文章标签.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#文章/已完成/抗拒AI_拥抱AI",
+                "query": "tag:#文章/未完成/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1c02be069f0c51a5",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/添加已完成文章标签.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/添加已完成文章标签.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,14 +220,16 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "dd6dcde933859b7a",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
+    "template/模型",
+    "template/模板/添加未完成文章标签.md",
+    "template/模板/添加已完成文章标签.md",
     "总结与复盘/2024-03-04.md",
-    "template/添加已完成文章标签.md",
     "总结与复盘/2024-08-14.md",
     "Excalidraw/核心关系.md",
     "Excalidraw/Drawing 2024-08-15 10.49.02.excalidraw.md",
-    "template/不常用（很久之前）/复盘模板.md",
+    "template/模板/复盘模板.md",
     "总结与复盘/2023-12-28.md",
     "总结与复盘/2023-12-17.md",
     "总结与复盘/2023-10-15.md",
@@ -249,9 +250,7 @@
     "template/商业计划书.md",
     "总结与复盘/2024-03-29.md",
     "Tasks Plugin - Review and check your Statuses 2024-08-14 21-02-26.md",
-    "总结与复盘/2024-07-24.md",
-    "总结与复盘/2024-05-16.md",
-    "template/不常用（很久之前）",
+    "template/模板",
     "attachment/00EE3756.png",
     "attachment/PixPin_2024-04-16_18-24-45.png",
     "attachment/PixPin_2024-07-24_09-26-59.png",
