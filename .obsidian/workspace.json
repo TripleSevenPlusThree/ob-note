@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/未命名.md"
+                "file": "template/添加已完成文章标签.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/未命名.md",
+                "file": "template/添加已完成文章标签.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1c02be069f0c51a5",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/未命名.md",
+                "file": "template/添加已完成文章标签.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/未命名.md",
+                "file": "template/添加已完成文章标签.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +221,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "5ddd553cc0686445",
+  "active": "dd6dcde933859b7a",
   "lastOpenFiles": [
     "总结与复盘/2024-03-04.md",
-    "template/未命名.md",
+    "template/添加已完成文章标签.md",
     "总结与复盘/2024-08-14.md",
     "Excalidraw/核心关系.md",
     "Excalidraw/Drawing 2024-08-15 10.49.02.excalidraw.md",
