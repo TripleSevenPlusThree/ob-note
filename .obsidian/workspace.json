@@ -91,13 +91,13 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "1c02be069f0c51a5",
@@ -221,7 +221,7 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "5ddd553cc0686445",
+  "active": "dd6dcde933859b7a",
   "lastOpenFiles": [
     "总结与复盘/2024-05-15.md",
     "总结与复盘/2024-05-13.md",
