@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/核心关系.md"
+                "file": "template/模型/核心模型.png"
               }
             }
           }
@@ -29,9 +29,9 @@
             "id": "5ddd553cc0686445",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/核心关系.md"
+                "file": "template/模型/核心模型.png"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/核心关系.md",
+                "file": "template/模型/核心模型.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/核心关系.md",
+                "file": "template/模型/核心模型.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,11 +224,14 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "cc3b256e7c3d5230",
+  "active": "5ddd553cc0686445",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-15 15.26.00.excalidraw.md",
-    "Excalidraw/核心关系.md",
     "总结与复盘/2024-08-14.md",
+    "template/模型/讲话.md",
+    "template/模型/核心模型.png",
+    "Excalidraw/练习.md",
+    "Excalidraw/核心关系.md",
+    "Excalidraw/Drawing 2024-08-15 15.26.00.excalidraw.md",
     "数据库-MySQL/基础/多表查询.md",
     "总结与复盘/2024-08-02.md",
     "总结与复盘/2024-05-30.md",
@@ -249,9 +252,6 @@
     "总结与复盘/2024-03-04.md",
     "总结与复盘/2024-03-05.md",
     "总结与复盘/2024-03-07.md",
-    "总结与复盘/2024-03-11.md",
-    "总结与复盘/2024-03-12.md",
-    "总结与复盘/2024-03-13.md",
     "template/模型",
     "Excalidraw/练习.png",
     "Excalidraw/Untitled Diagram.svg",
@@ -263,7 +263,6 @@
     "attachment/Pasted image 20240630162235.png",
     "attachment/PixPin_2024-06-12_16-14-04.png",
     "attachment/PixPin_2024-06-05_22-00-14.png",
-    "attachment/02FF4AD1.png",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
     "项目(project)/个人logo",
