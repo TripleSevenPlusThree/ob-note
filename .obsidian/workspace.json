@@ -6,7 +6,7 @@
       {
         "id": "ff5dd1fcf2dedfd6",
         "type": "tabs",
-        "dimension": 11.441647597254006,
+        "dimension": 11.587485515643106,
         "children": [
           {
             "id": "cc3b256e7c3d5230",
@@ -23,7 +23,7 @@
       {
         "id": "4bb223095e9a9adb",
         "type": "tabs",
-        "dimension": 88.558352402746,
+        "dimension": 88.41251448435689,
         "children": [
           {
             "id": "5ddd553cc0686445",
@@ -131,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 603.5042667388916
+    "width": 623.5042667388916
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -209,7 +209,6 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false,
       "workspaces:管理工作区布局": false,
       "obsidian-custom-frames:Open 文心一言": false,
       "obsidian-custom-frames:Open 通义千问": false,

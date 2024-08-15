@@ -1,16 +1,9 @@
 [
-  "templater-obsidian",
-  "obsidian-mind-map",
-  "dataview",
   "obsidian-checklist-plugin",
-  "obsidian-kanban",
-  "obsidian-annotator",
-  "obsidian-admonition",
   "obsidian-git",
   "obsidian-custom-frames",
   "obsidian-excalidraw-plugin",
   "pkmer",
   "obsidian-style-settings",
-  "obsidian-tasks-plugin",
   "calendar-beta"
 ]
