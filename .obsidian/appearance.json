@@ -3,10 +3,12 @@
   "theme": "moonstone",
   "baseFontSize": 17,
   "cssTheme": "Border",
-  "textFontFamily": "Noto Sans SC,Microsoft Sans Serif,Impact,Arial Black",
+  "textFontFamily": "Arial,Inter,Noto Sans SC,Sans Serif Collection,Microsoft JhengHei",
   "interfaceFontFamily": "Arial Black",
   "nativeMenus": true,
   "enabledCssSnippets": [
-    "调整悬浮窗口大小"
+    "调整悬浮窗口大小",
+    "页边距留白",
+    "字重"
   ]
 }
