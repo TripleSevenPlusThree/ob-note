@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/未来确定的乐观主义者-规划.md"
+                "file": "总结与复盘/2024-08-16.md"
               }
             }
           }
@@ -39,9 +39,12 @@
             "id": "526faaf9b2cd98c7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/未来确定的乐观主义者-规划.md"
+                "file": "总结与复盘/2024-08-16.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -164,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,10 +239,11 @@
   },
   "active": "526faaf9b2cd98c7",
   "lastOpenFiles": [
-    "Excalidraw/核心关系.md",
-    "Excalidraw/未来确定的乐观主义者-规划.md",
-    "template/模型/核心关系.png",
     "总结与复盘/2024-08-14.md",
+    "总结与复盘/2024-08-16.md",
+    "Excalidraw/未来确定的乐观主义者-规划.md",
+    "Excalidraw/核心关系.md",
+    "template/模型/核心关系.png",
     "总结与复盘/2024-08-09.md",
     "总结与复盘/2024-08-02.md",
     "总结与复盘/未命名.md",
