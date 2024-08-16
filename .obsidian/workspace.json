@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/核心模型.png"
+                "file": "总结与复盘/2024-08-14.md"
               }
             }
           }
@@ -29,9 +29,12 @@
             "id": "5ddd553cc0686445",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "template/模型/核心模型.png"
+                "file": "总结与复盘/2024-08-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/核心模型.png",
+                "file": "总结与复盘/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/核心模型.png",
+                "file": "总结与复盘/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +218,6 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-custom-frames:Open 文心一言": false,
       "obsidian-custom-frames:Open 通义千问": false,
       "obsidian-custom-frames:Open DPL": false,
       "obsidian-custom-frames:Open kimi": false,
@@ -226,9 +228,9 @@
   },
   "active": "5ddd553cc0686445",
   "lastOpenFiles": [
+    "template/模型/核心模型.png",
     "总结与复盘/2024-08-14.md",
     "template/模型/讲话.md",
-    "template/模型/核心模型.png",
     "Excalidraw/练习.md",
     "Excalidraw/核心关系.md",
     "Excalidraw/Drawing 2024-08-15 15.26.00.excalidraw.md",
