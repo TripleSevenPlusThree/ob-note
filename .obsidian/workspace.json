@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/核心关系.png"
+                "file": "总结与复盘/2024-08-14.md"
               }
             }
           }
@@ -26,12 +26,15 @@
         "dimension": 88.40579710144928,
         "children": [
           {
-            "id": "5ddd553cc0686445",
+            "id": "e5f207c7cde8f3f2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "template/模型/核心关系.png"
+                "file": "总结与复盘/2024-08-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -153,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/核心关系.png",
+                "file": "总结与复盘/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/核心关系.png",
+                "file": "总结与复盘/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,12 +226,13 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "5ddd553cc0686445",
+  "active": "e5f207c7cde8f3f2",
   "lastOpenFiles": [
+    "总结与复盘/2024-07-06.md",
+    "总结与复盘/2024-08-14.md",
+    "template/模型/核心关系.png",
     "Excalidraw/核心关系.md",
     "template/模型/核心模型.png",
-    "template/模型/核心关系.png",
-    "总结与复盘/2024-08-14.md",
     "template/模型/讲话.md",
     "Excalidraw/练习.md",
     "Excalidraw/Drawing 2024-08-15 15.26.00.excalidraw.md",
