@@ -13,7 +13,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总结与复盘/2024-08-02.md"
+              }
             }
           }
         ]
@@ -24,11 +26,16 @@
         "dimension": 88.40579710144928,
         "children": [
           {
-            "id": "c7289f86557774ff",
+            "id": "5295c223f2ab14b5",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "总结与复盘/2024-08-02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -149,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总结与复盘/2024-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总结与复盘/2024-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,12 +226,13 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "a7945632cd014b12",
+  "active": "5295c223f2ab14b5",
   "lastOpenFiles": [
-    "template/模型/解决问题.md",
-    "总结与复盘/2024-08-14.md",
-    "总结与复盘/2024-05-15.md",
+    "总结与复盘/未命名.md",
     "总结与复盘/2024-08-02.md",
+    "总结与复盘/2024-08-14.md",
+    "template/模型/解决问题.md",
+    "总结与复盘/2024-05-15.md",
     "Tags",
     "template/模型/核心关系.png",
     "note/技能总结/Git.md",
@@ -247,7 +257,6 @@
     "总结与复盘/2024-02-29.md",
     "总结与复盘/2024-03-02.md",
     "总结与复盘/2024-03-01.md",
-    "总结与复盘/2024-03-04.md",
     "template/模型",
     "Excalidraw/练习.png",
     "Excalidraw/Untitled Diagram.svg",
