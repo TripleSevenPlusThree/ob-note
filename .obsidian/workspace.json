@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-07-06.md"
+                "file": "note/技能总结/Git.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-07-06.md",
+                "file": "note/技能总结/Git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-07-06.md",
+                "file": "note/技能总结/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-07-06.md",
+                "file": "note/技能总结/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

@@ -10,8 +10,8 @@ git是一种分布式版本控制系统。
 忽略文件内相关文件的版本更新内容
 使用：1. 直接在根目录下创建文本文档，并改名为 .gitignore；2. 将要忽略的文件名写入，每一个文件占一行。
 ## git的常用命令（链接的笔记中）
-[git常用命令1](https://www.xiaohongshu.com/explore/63dcf770000000001d010de9)
-[git常用命令2](https://www.xiaohongshu.com/explore/659baad0000000001802950e)
+[git常用命令1](https://www.xiaohongshu.com/explore/63dcf770000000001d010de9) 
+[git常用命令2](https://www.xiaohongshu.com/explore/659baad0000000001802950e) 
 ## 对git的一些模糊概念的自我理解
 **1. 分布式：** 区别于集中式的集中在一个仓库中的集中管理，分布式除了中央版本库，每个终端用户都拥有一个独立的版本库，相当于以中心的网状管理。
 **2. 版本：** version，即第一次被保存的文件就是第一个版本，若进行了一次改动并保存，则相当于更新了版本。（抽象理解）
