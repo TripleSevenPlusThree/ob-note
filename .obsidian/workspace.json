@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息1.md"
+                "file": "template/模板/信息处理.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "template/模板/信息处理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "template/模板/信息处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "template/模板/信息处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,15 +229,16 @@
   },
   "active": "60643b6021332a90",
   "lastOpenFiles": [
-    "template/模板/信息处理.md",
-    "attachment/PixPin_2024-08-17_11-33-14.png",
+    "attachment/PixPin_2024-08-17_11-39-36.png",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "template/模板/信息处理.md",
+    "InformationRepository/信息1.md",
+    "attachment/PixPin_2024-08-17_11-33-14.png",
     "attachment/PixPin_2024-08-17_11-19-36.png",
     "attachment/PixPin_2024-08-17_10-35-52 1.png",
     "attachment/PixPin_2024-08-17_10-35-52.png",
     "Excalidraw/核心关系.md",
     "template/模型/核心关系.png",
-    "InformationRepository/信息1.md",
     "总结与复盘/2024-08-16.md",
     "总结与复盘/2024-08-14.md",
     "FuturePlanning",
