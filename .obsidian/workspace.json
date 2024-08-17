@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模板/信息处理.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -29,12 +29,9 @@
             "id": "60643b6021332a90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "template/模板/信息处理.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -156,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模板/信息处理.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模板/信息处理.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,11 +226,11 @@
   },
   "active": "60643b6021332a90",
   "lastOpenFiles": [
+    "template/模板/信息处理.md",
     "attachment/PixPin_2024-08-17_21-09-07.png",
     "Excalidraw/信息处理SOP.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Excalidraw/未命名.md",
-    "template/模板/信息处理.md",
     "attachment/PixPin_2024-08-17_21-05-57.png",
     "InformationRepository/信息1.md",
     "template/模型/核心关系.md",
@@ -269,7 +266,6 @@
     "总结与复盘/2024-04-24.md",
     "总结与复盘/2024-05-13.md",
     "template/模型",
-    "Excalidraw/练习.png",
     "template/模板",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
