@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模板/信息处理.md"
+                "file": "Excalidraw/核心关系.md"
               }
             }
           }
@@ -29,12 +29,9 @@
             "id": "60643b6021332a90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "template/模板/信息处理.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/核心关系.md"
               }
             }
           }
@@ -156,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模板/信息处理.md",
+                "file": "Excalidraw/核心关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模板/信息处理.md",
+                "file": "Excalidraw/核心关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +226,9 @@
   },
   "active": "60643b6021332a90",
   "lastOpenFiles": [
+    "template/模板/信息处理.md",
     "attachment/PixPin_2024-08-17_11-39-36.png",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "template/模板/信息处理.md",
     "InformationRepository/信息1.md",
     "attachment/PixPin_2024-08-17_11-33-14.png",
     "attachment/PixPin_2024-08-17_11-19-36.png",
@@ -270,7 +267,6 @@
     "Excalidraw/Untitled Diagram.svg",
     "template/模板",
     "attachment/00EE3756.png",
-    "attachment/PixPin_2024-04-16_18-24-45.png",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
     "程序/项目(project)/个人logo",
