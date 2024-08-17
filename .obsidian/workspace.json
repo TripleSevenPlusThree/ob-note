@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模板/信息处理.md"
+                "file": "Excalidraw/核心关系.md"
               }
             }
           }
@@ -29,12 +29,9 @@
             "id": "526faaf9b2cd98c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "InformationRepository/信息.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/核心关系.md"
               }
             }
           },
@@ -51,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模板/信息处理.md",
+                "file": "Excalidraw/核心关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模板/信息处理.md",
+                "file": "Excalidraw/核心关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,15 +236,15 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "60643b6021332a90",
+  "active": "526faaf9b2cd98c7",
   "lastOpenFiles": [
-    "template/模板/信息处理.md",
+    "template/模型/核心关系.png",
+    "FuturePlanning/未来确定的乐观主义者规划.md",
     "InformationRepository/信息.md",
+    "template/模板/信息处理.md",
     "总结与复盘/2024-08-16.md",
     "总结与复盘/2024-08-14.md",
-    "FuturePlanning/未来确定的乐观主义者规划.md",
     "FuturePlanning",
-    "template/模型/核心关系.png",
     "template/模型/你好呀.md",
     "InformationRepository",
     "程序",
@@ -273,7 +269,6 @@
     "总结与复盘/2024-05-13.md",
     "总结与复盘/2024-04-09.md",
     "总结与复盘/2024-04-15.md",
-    "总结与复盘/2024-05-07.md",
     "template/模型",
     "Excalidraw/练习.png",
     "Excalidraw/Untitled Diagram.svg",
