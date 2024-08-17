@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,7 +237,7 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "dc61fc345c210628",
+  "active": "ec047eefbc155b98",
   "lastOpenFiles": [
     "总结与复盘/2024-08-14.md",
     "总结与复盘/2024-08-16.md",
