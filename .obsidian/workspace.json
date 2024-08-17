@@ -93,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1c02be069f0c51a5",
@@ -224,15 +225,15 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "60643b6021332a90",
+  "active": "dd6dcde933859b7a",
   "lastOpenFiles": [
+    "InformationRepository/信息1.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模板/信息处理.md",
     "attachment/PixPin_2024-08-17_21-09-07.png",
     "Excalidraw/信息处理SOP.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Excalidraw/未命名.md",
     "attachment/PixPin_2024-08-17_21-05-57.png",
-    "InformationRepository/信息1.md",
     "template/模型/核心关系.md",
     "attachment/PixPin_2024-08-17_21-04-04.png",
     "template/模型/核心关系.png",
