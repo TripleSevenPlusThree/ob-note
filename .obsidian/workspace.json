@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-08-16.md"
+                "file": "template/模型/核心关系.png"
               }
             }
           }
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-08-16.md",
+                "file": "template/模型/核心关系.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-08-16.md",
+                "file": "template/模型/核心关系.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +238,7 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "526faaf9b2cd98c7",
+  "active": "dc61fc345c210628",
   "lastOpenFiles": [
     "总结与复盘/2024-08-14.md",
     "总结与复盘/2024-08-16.md",
