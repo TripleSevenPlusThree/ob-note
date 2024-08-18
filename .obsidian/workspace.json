@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/信息处理SOP.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/信息处理SOP.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5042667388916
+    "width": 623.5042667388916,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/信息处理SOP.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/信息处理SOP.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,13 +228,14 @@
   },
   "active": "60643b6021332a90",
   "lastOpenFiles": [
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "template/模板/信息处理.md",
+    "attachment/PixPin_2024-08-18_22-23-15.png",
     "template/模型/核心关系.md",
     "Excalidraw/信息处理SOP.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-08-14.md",
     "总结与复盘/2024-08-05.md",
     "InformationRepository/信息1.md",
-    "template/模板/信息处理.md",
     "attachment/PixPin_2024-08-17_21-09-07.png",
     "Excalidraw/未命名.md",
     "attachment/PixPin_2024-08-17_21-05-57.png",
@@ -258,7 +260,6 @@
     "Tags",
     "note/技能总结/Git.md",
     "总结与复盘/2024-07-06.md",
-    "template/模型/核心模型.png",
     "template/模型/讲话.md",
     "Excalidraw/练习.md",
     "Excalidraw/Drawing 2024-08-15 15.26.00.excalidraw.md",
@@ -266,7 +267,6 @@
     "总结与复盘/2024-05-30.md",
     "总结与复盘/2024-04-27.md",
     "总结与复盘/2024-04-24.md",
-    "总结与复盘/2024-05-13.md",
     "template/模型",
     "template/模板",
     "attachment/test.drawio",
