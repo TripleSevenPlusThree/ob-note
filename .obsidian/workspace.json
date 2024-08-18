@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "Excalidraw/信息处理SOP.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "Excalidraw/信息处理SOP.md"
               }
             }
           }
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5042667388916,
-    "collapsed": true
+    "width": 623.5042667388916
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "Excalidraw/信息处理SOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "Excalidraw/信息处理SOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +227,8 @@
   },
   "active": "60643b6021332a90",
   "lastOpenFiles": [
-    "template/模型/核心关系.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "template/模型/核心关系.md",
     "Excalidraw/信息处理SOP.md",
     "总结与复盘/2024-08-14.md",
     "总结与复盘/2024-08-05.md",
