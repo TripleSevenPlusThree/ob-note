@@ -34,6 +34,14 @@
                 "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
+          },
+          {
+            "id": "bb3a5f943d954c3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -228,8 +236,9 @@
   },
   "active": "60643b6021332a90",
   "lastOpenFiles": [
-    "Excalidraw/信息处理SOP.md",
+    "template/模型/核心关系.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Excalidraw/信息处理SOP.md",
     "总结与复盘/2024-08-14.md",
     "总结与复盘/2024-08-05.md",
     "InformationRepository/信息1.md",
@@ -237,7 +246,6 @@
     "attachment/PixPin_2024-08-17_21-09-07.png",
     "Excalidraw/未命名.md",
     "attachment/PixPin_2024-08-17_21-05-57.png",
-    "template/模型/核心关系.md",
     "attachment/PixPin_2024-08-17_21-04-04.png",
     "template/模型/核心关系.png",
     "attachment/PixPin_2024-08-17_11-39-36.png",
