@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "InformationRepository/信息1.md"
               }
             }
           }
@@ -25,6 +25,19 @@
         "type": "tabs",
         "dimension": 88.5676741130092,
         "children": [
+          {
+            "id": "7b766b7a3ebba361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InformationRepository/信息1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
           {
             "id": "60643b6021332a90",
             "type": "leaf",
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "InformationRepository/信息1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "InformationRepository/信息1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,13 +236,14 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "ec047eefbc155b98",
+  "active": "7b766b7a3ebba361",
   "lastOpenFiles": [
+    "总结与复盘/2024-08-16.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模板/信息处理.md",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "template/模型/核心关系.md",
     "Excalidraw/信息处理SOP.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-08-14.md",
     "总结与复盘/2024-08-05.md",
     "InformationRepository/信息1.md",
@@ -243,7 +257,6 @@
     "attachment/PixPin_2024-08-17_11-19-36.png",
     "attachment/PixPin_2024-08-17_10-35-52 1.png",
     "attachment/PixPin_2024-08-17_10-35-52.png",
-    "总结与复盘/2024-08-16.md",
     "FuturePlanning",
     "template/模型/你好呀.md",
     "InformationRepository",
