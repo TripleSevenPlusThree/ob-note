@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息1.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5042667388916
+    "width": 623.5042667388916,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -166,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 663.5
+    "width": 663.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +239,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "7b766b7a3ebba361",
+  "active": "60643b6021332a90",
   "lastOpenFiles": [
+    "InformationRepository/信息1.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/投资.md",
-    "InformationRepository/信息1.md",
     "KnowledgeBase/经济.md",
     "总结与复盘/2024-08-02.md",
     "KnowledgeBase/商业.md",
