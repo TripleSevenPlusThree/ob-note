@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "InformationRepository/信息2.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/投资.md",
+                "file": "InformationRepository/信息2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "InformationRepository/信息2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "InformationRepository/信息2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,20 +236,21 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "7b766b7a3ebba361",
+  "active": "60643b6021332a90",
   "lastOpenFiles": [
     "KnowledgeBase/投资.md",
-    "KnowledgeBase/商业.md",
-    "KnowledgeBase/经济.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "InformationRepository/信息2.md",
+    "KnowledgeBase/经济.md",
+    "template/模板/信息处理.md",
     "InformationRepository/信息1.md",
+    "KnowledgeBase/商业.md",
     "总结与复盘/2024-08-09.md",
     "总结与复盘/2024-03-29.md",
     "template/模型/核心关系.md",
     "总结与复盘/2024-08-02.md",
     "KnowledgeBase",
     "note/ob入门/ob基础操作.md",
-    "template/模板/信息处理.md",
     "总结与复盘/2024-08-16.md",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "Excalidraw/信息处理SOP.md",
@@ -279,7 +279,6 @@
     "总结与复盘/2024-07-06.md",
     "template/模型/讲话.md",
     "Excalidraw/练习.md",
-    "Excalidraw/Drawing 2024-08-15 15.26.00.excalidraw.md",
     "template/模型",
     "template/模板",
     "attachment/test.drawio",
