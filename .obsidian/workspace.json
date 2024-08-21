@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/投资.md"
+                "file": "总结与复盘/2024-08-21.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/投资.md",
+                "file": "总结与复盘/2024-08-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/投资.md",
+                "file": "总结与复盘/2024-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/投资.md",
+                "file": "总结与复盘/2024-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +238,10 @@
   },
   "active": "60643b6021332a90",
   "lastOpenFiles": [
-    "KnowledgeBase/经济.md",
+    "总结与复盘/2024-08-16.md",
+    "总结与复盘/2024-08-21.md",
     "KnowledgeBase/投资.md",
+    "KnowledgeBase/经济.md",
     "InformationRepository/信息2.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模板/信息处理.md",
@@ -251,7 +253,6 @@
     "总结与复盘/2024-08-02.md",
     "KnowledgeBase",
     "note/ob入门/ob基础操作.md",
-    "总结与复盘/2024-08-16.md",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "Excalidraw/信息处理SOP.md",
     "总结与复盘/2024-08-14.md",
@@ -278,7 +279,6 @@
     "技能总结/Git.md",
     "总结与复盘/2024-07-06.md",
     "template/模型/讲话.md",
-    "Excalidraw/练习.md",
     "template/模型",
     "template/模板",
     "attachment/test.drawio",
