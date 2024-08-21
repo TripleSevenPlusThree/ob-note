@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/经济.md"
+                "file": "KnowledgeBase/投资.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/投资.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/投资.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/投资.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +238,8 @@
   },
   "active": "60643b6021332a90",
   "lastOpenFiles": [
-    "InformationRepository/信息2.md",
     "KnowledgeBase/经济.md",
+    "InformationRepository/信息2.md",
     "KnowledgeBase/投资.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模板/信息处理.md",
