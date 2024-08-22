@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-08-22.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1c02be069f0c51a5",
@@ -151,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5042667388916,
-    "collapsed": true
+    "width": 623.5042667388916
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -169,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 657.5,
-    "collapsed": true
+    "width": 657.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,15 +236,15 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "7b766b7a3ebba361",
+  "active": "60643b6021332a90",
   "lastOpenFiles": [
+    "KnowledgeBase/投资.md",
     "总结与复盘/2024-08-22.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-06-27.md",
     "KnowledgeBase/经济.md",
     "总结与复盘/2024-08-21.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-08-16.md",
-    "KnowledgeBase/投资.md",
     "InformationRepository/信息2.md",
     "template/模板/信息处理.md",
     "InformationRepository/信息1.md",
