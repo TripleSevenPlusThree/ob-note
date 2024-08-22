@@ -106,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1c02be069f0c51a5",
@@ -149,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5042667388916,
-    "collapsed": true
+    "width": 623.5042667388916
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -238,7 +238,7 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "60643b6021332a90",
+  "active": "b9e1908d3f0182bc",
   "lastOpenFiles": [
     "总结与复盘/2024-06-27.md",
     "总结与复盘/2024-08-22.md",
