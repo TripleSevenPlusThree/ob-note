@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/解决问题.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,10 +239,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "60643b6021332a90",
+  "active": "7b766b7a3ebba361",
   "lastOpenFiles": [
-    "template/模型/核心关系.md",
     "template/模型/解决问题.md",
+    "template/模型/核心关系.md",
     "InformationRepository/信息3.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/经济.md",
