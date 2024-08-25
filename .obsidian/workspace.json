@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息1.md"
+                "file": "总结与复盘/2024-08-14.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -158,7 +158,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 22.92418772563177,
+        "dimension": 22.14199759326113,
         "children": [
           {
             "id": "21f1612ce8e8766e",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
       {
         "id": "d83e1afff7b2ad42",
         "type": "tabs",
-        "dimension": 24.488567990373046,
+        "dimension": 29.121540312876053,
         "children": [
           {
             "id": "24a4069f61b1c74a",
@@ -218,7 +218,7 @@
       {
         "id": "4faa736a4126f865",
         "type": "tabs",
-        "dimension": 52.58724428399518,
+        "dimension": 48.73646209386281,
         "children": [
           {
             "id": "7b766b7a3ebba361",
@@ -255,11 +255,11 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "InformationRepository/信息1.md",
     "Excalidraw/日常.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Excalidraw/日常.png",
     "总结与复盘/2024-08-14.md",
-    "InformationRepository/信息1.md",
     "Excalidraw/Drawing 2024-08-25 11.13.36.excalidraw.md",
     "template/模型/核心关系.md",
     "总结与复盘/2024-07-06.md",
