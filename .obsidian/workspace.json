@@ -29,19 +29,12 @@
             "id": "60643b6021332a90",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "template/模型/核心关系.md"
-              }
-            }
-          },
-          {
-            "id": "5d017871edf6151e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/日常.md"
+                "file": "总结与复盘/2024-08-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -55,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +158,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 32.17077570655442,
+        "dimension": 26.157546602525557,
         "children": [
           {
             "id": "21f1612ce8e8766e",
@@ -211,7 +203,7 @@
       {
         "id": "d83e1afff7b2ad42",
         "type": "tabs",
-        "dimension": 67.82922429344558,
+        "dimension": 22.730006013229104,
         "children": [
           {
             "id": "24a4069f61b1c74a",
@@ -219,6 +211,23 @@
             "state": {
               "type": "todo",
               "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c04df163466c0856",
+        "type": "tabs",
+        "dimension": 51.11244738424534,
+        "children": [
+          {
+            "id": "5d017871edf6151e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/日常.md"
+              }
             }
           }
         ]
@@ -246,10 +255,10 @@
   },
   "active": "5d017871edf6151e",
   "lastOpenFiles": [
-    "template/模型/核心关系.md",
     "总结与复盘/2024-08-14.md",
-    "Excalidraw/日常.md",
+    "template/模型/核心关系.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Excalidraw/日常.md",
     "总结与复盘/2024-07-06.md",
     "总结与复盘/2024-08-22.md",
     "总结与复盘/2024-08-21.md",
