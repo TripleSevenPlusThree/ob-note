@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "总结与复盘/2024-08-14.md"
               }
             }
           }
@@ -35,6 +35,16 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7b766b7a3ebba361",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -156,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,19 +212,8 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "7b766b7a3ebba361",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,15 +236,15 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "7b766b7a3ebba361",
+  "active": "60643b6021332a90",
   "lastOpenFiles": [
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-08-14.md",
     "总结与复盘/2024-07-06.md",
     "总结与复盘/2024-08-22.md",
     "总结与复盘/2024-08-21.md",
     "总结与复盘/2024-08-23.md",
     "template/模型/核心关系.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-07-24.md",
     "template/模型/解决问题.md",
     "总结与复盘/2024-05-25.md",
