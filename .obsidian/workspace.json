@@ -6,7 +6,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 11.299435028248588,
+        "dimension": 11.607661056297156,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/日常.md"
+                "file": "InformationRepository/信息1.md"
               }
             }
           }
@@ -23,15 +23,18 @@
       {
         "id": "4bb223095e9a9adb",
         "type": "tabs",
-        "dimension": 88.7005649717514,
+        "dimension": 88.39233894370284,
         "children": [
           {
-            "id": "11099d474cc46e4e",
+            "id": "6fd4b5f6344fb40e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/日常.md"
+                "file": "InformationRepository/信息1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -155,7 +158,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 45.50758459743291,
+        "dimension": 24.113048707155745,
         "children": [
           {
             "id": "21f1612ce8e8766e",
@@ -163,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/日常.md",
+                "file": "InformationRepository/信息1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/日常.md",
+                "file": "InformationRepository/信息1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +203,7 @@
       {
         "id": "d83e1afff7b2ad42",
         "type": "tabs",
-        "dimension": 54.49241540256709,
+        "dimension": 48.647023451593505,
         "children": [
           {
             "id": "24a4069f61b1c74a",
@@ -211,10 +214,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "624a431026ddb3a8",
+        "type": "tabs",
+        "dimension": 27.23992784125075,
+        "children": [
+          {
+            "id": "11099d474cc46e4e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/日常.png"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 665.5
+    "width": 667.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,12 +253,12 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "11099d474cc46e4e",
+  "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "Excalidraw/日常.md",
-    "Excalidraw/日常.png",
     "InformationRepository/信息1.md",
+    "Excalidraw/日常.png",
+    "Excalidraw/日常.md",
     "总结与复盘/2024-08-14.md",
     "Excalidraw/Drawing 2024-08-25 11.13.36.excalidraw.md",
     "template/模型/核心关系.md",
