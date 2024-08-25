@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 11.527377521613833,
+        "dimension": 11.675423234092236,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "总结与复盘/2024-08-14.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 88.47262247838617,
+        "dimension": 88.32457676590776,
         "children": [
           {
             "id": "6fd4b5f6344fb40e",
@@ -42,9 +42,12 @@
             "id": "d7244801564c3322",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "总结与复盘/2024-08-14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -150,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634.5042667388916,
-    "collapsed": true
+    "width": 634.5042667388916
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 665.5,
-    "collapsed": true
+    "width": 665.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,8 +259,8 @@
   },
   "active": "d7244801564c3322",
   "lastOpenFiles": [
-    "template/模型/核心关系.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "template/模型/核心关系.md",
     "总结与复盘/2024-08-14.md",
     "InformationRepository/信息1.md",
     "Excalidraw/日常.md",
