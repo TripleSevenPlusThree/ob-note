@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 11.675423234092236,
+        "dimension": 11.682242990654206,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息4.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 88.32457676590776,
+        "dimension": 88.3177570093458,
         "children": [
           {
             "id": "6fd4b5f6344fb40e",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息4.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息4.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息4.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,8 +255,8 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "总结与复盘/2024-08-14.md",
     "InformationRepository/信息4.md",
+    "总结与复盘/2024-08-14.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/核心关系.md",
     "InformationRepository/信息1.md",
