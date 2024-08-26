@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-08-14.md"
+                "file": "InformationRepository/信息4.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
+                "file": "InformationRepository/信息4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,17 +42,13 @@
             "id": "d7244801564c3322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
+                "file": "InformationRepository/信息4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-08-14.md",
+                "file": "InformationRepository/信息4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,11 +253,12 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "总结与复盘/2024-08-14.md",
+    "InformationRepository/信息4.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/核心关系.md",
-    "总结与复盘/2024-08-14.md",
     "InformationRepository/信息1.md",
     "Excalidraw/日常.md",
     "Excalidraw/日常.png",
