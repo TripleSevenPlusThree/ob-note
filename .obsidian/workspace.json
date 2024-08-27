@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/经济.md"
+                "file": "InformationRepository/信息5.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "InformationRepository/信息5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "InformationRepository/信息5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "InformationRepository/信息5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,8 +255,9 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "InformationRepository/信息4.md",
     "KnowledgeBase/经济.md",
+    "InformationRepository/信息5.md",
+    "InformationRepository/信息4.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-08-14.md",
     "template/模型/核心关系.md",
@@ -282,7 +283,6 @@
     "总结与复盘/2024-03-29.md",
     "总结与复盘/2024-08-02.md",
     "KnowledgeBase",
-    "note/ob入门/ob基础操作.md",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
     "attachment/PixPin_2024-08-17_21-05-57.png",
