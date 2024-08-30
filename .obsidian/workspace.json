@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "InformationRepository/信息6.md"
               }
             }
           }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "InformationRepository/信息6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "InformationRepository/信息6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,10 +255,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "InformationRepository/信息6.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "InformationRepository/信息6.md",
     "InformationRepository/信息5.md",
     "总结与复盘/2024-08-14.md",
     "template/模型/解决问题.md",
