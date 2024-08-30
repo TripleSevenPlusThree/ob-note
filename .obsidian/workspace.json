@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 10.209290454313425,
+        "dimension": 10.01001001001001,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息6.md"
+                "file": "总结与复盘/2024-08-30.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 89.79070954568658,
+        "dimension": 89.98998998999,
         "children": [
           {
             "id": "6fd4b5f6344fb40e",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息6.md",
+                "file": "总结与复盘/2024-08-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 705.5201950073242,
-    "collapsed": true
+    "width": 667.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息6.md",
+                "file": "总结与复盘/2024-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息6.md",
+                "file": "总结与复盘/2024-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5,
-    "collapsed": true
+    "width": 619.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,10 +255,14 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "InformationRepository/信息6.md",
-    "InformationRepository/信息5.md",
+    "总结与复盘/2024-08-23.md",
+    "总结与复盘/2024-08-30.md",
+    "总结与复盘/2024-08-22.md",
+    "总结与复盘/2024-08-21.md",
     "总结与复盘/2024-08-14.md",
+    "InformationRepository/信息6.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "InformationRepository/信息5.md",
     "template/模型/解决问题.md",
     "KnowledgeBase/经济.md",
     "InformationRepository/信息4.md",
@@ -270,9 +272,6 @@
     "Excalidraw/日常.png",
     "Excalidraw/Drawing 2024-08-25 11.13.36.excalidraw.md",
     "总结与复盘/2024-07-06.md",
-    "总结与复盘/2024-08-22.md",
-    "总结与复盘/2024-08-21.md",
-    "总结与复盘/2024-08-23.md",
     "总结与复盘/2024-07-24.md",
     "总结与复盘/2024-05-25.md",
     "InformationRepository/信息3.md",
@@ -283,7 +282,6 @@
     "template/模板/信息处理.md",
     "KnowledgeBase/商业.md",
     "总结与复盘/2024-08-09.md",
-    "总结与复盘/2024-03-29.md",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
