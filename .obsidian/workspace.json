@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/经济.md"
+                "file": "KnowledgeBase/管理.md"
               }
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5
+    "width": 619.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,9 +260,9 @@
   },
   "active": "d7244801564c3322",
   "lastOpenFiles": [
+    "KnowledgeBase/经济.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/管理.md",
-    "KnowledgeBase/经济.md",
     "KnowledgeBase/商业.md",
     "Excalidraw/信息处理SOP.md",
     "template/模型/领导力.md",
