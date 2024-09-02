@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -42,9 +42,12 @@
             "id": "d7244801564c3322",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "KnowledgeBase/经济.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -167,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,9 +259,9 @@
   },
   "active": "d7244801564c3322",
   "lastOpenFiles": [
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/管理.md",
     "KnowledgeBase/经济.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/商业.md",
     "Excalidraw/信息处理SOP.md",
     "template/模型/领导力.md",
