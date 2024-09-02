@@ -42,17 +42,13 @@
             "id": "d7244801564c3322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "KnowledgeBase/管理.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5,
-    "collapsed": true
+    "width": 619.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,11 +253,12 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "KnowledgeBase/经济.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/管理.md",
+    "2024-W36.md",
+    "KnowledgeBase/经济.md",
     "KnowledgeBase/商业.md",
     "Excalidraw/信息处理SOP.md",
     "template/模型/领导力.md",
@@ -286,7 +282,6 @@
     "总结与复盘/2024-07-24.md",
     "总结与复盘/2024-05-25.md",
     "InformationRepository/信息3.md",
-    "InformationRepository/信息2.md",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
