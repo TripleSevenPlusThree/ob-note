@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息8.md"
+                "file": "KnowledgeBase/管理.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息8.md",
+                "file": "KnowledgeBase/管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息8.md",
+                "file": "KnowledgeBase/管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息8.md",
+                "file": "KnowledgeBase/管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,12 +255,12 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "KnowledgeBase/管理.md",
+    "KnowledgeBase/经济.md",
     "InformationRepository/信息8.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "KnowledgeBase/管理.md",
     "2024-W38.md",
     "2024-W36.md",
-    "KnowledgeBase/经济.md",
     "KnowledgeBase/商业.md",
     "Excalidraw/信息处理SOP.md",
     "template/模型/领导力.md",
