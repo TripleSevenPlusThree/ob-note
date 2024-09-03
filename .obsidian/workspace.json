@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "InformationRepository/信息8.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "InformationRepository/信息8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "InformationRepository/信息8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "InformationRepository/信息8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,11 +253,12 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
     "KnowledgeBase/管理.md",
-    "2024-W38.md",
+    "InformationRepository/信息8.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "2024-W38.md",
     "2024-W36.md",
     "KnowledgeBase/经济.md",
     "KnowledgeBase/商业.md",
@@ -282,7 +282,6 @@
     "Excalidraw/Drawing 2024-08-25 11.13.36.excalidraw.md",
     "总结与复盘/2024-07-06.md",
     "总结与复盘/2024-07-24.md",
-    "总结与复盘/2024-05-25.md",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
