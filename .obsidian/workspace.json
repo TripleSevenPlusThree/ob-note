@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/管理.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 667.5201950073242,
-    "collapsed": true
+    "width": 667.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,10 +256,10 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "KnowledgeBase/管理.md",
     "KnowledgeBase/经济.md",
     "InformationRepository/信息8.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "KnowledgeBase/管理.md",
     "2024-W38.md",
     "2024-W36.md",
     "KnowledgeBase/商业.md",
