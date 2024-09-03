@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/常规问题.md"
+                "file": "InformationRepository/信息8.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/模型/常规问题.md",
+                "file": "InformationRepository/信息8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/常规问题.md",
+                "file": "InformationRepository/信息8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/常规问题.md",
+                "file": "InformationRepository/信息8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,8 +256,8 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/常规问题.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/管理.md",
     "KnowledgeBase/经济.md",
     "InformationRepository/信息8.md",
