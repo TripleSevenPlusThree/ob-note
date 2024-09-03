@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息8.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息8.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息8.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,13 +255,13 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "6fd4b5f6344fb40e",
+  "active": "d7244801564c3322",
   "lastOpenFiles": [
+    "InformationRepository/信息8.md",
     "template/模型/常规问题.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/管理.md",
     "KnowledgeBase/经济.md",
-    "InformationRepository/信息8.md",
     "2024-W38.md",
     "2024-W36.md",
     "KnowledgeBase/商业.md",
