@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 667.5201950073242
+    "width": 667.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -256,11 +257,11 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "KnowledgeBase/管理.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/常规问题.md",
+    "KnowledgeBase/管理.md",
     "KnowledgeBase/经济.md",
     "InformationRepository/信息8.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "2024-W38.md",
     "2024-W36.md",
     "KnowledgeBase/商业.md",
