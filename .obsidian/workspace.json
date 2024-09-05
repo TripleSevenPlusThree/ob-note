@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 10.01001001001001,
+        "dimension": 10.266535044422508,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/经济.md"
+                "file": "KnowledgeBase/管理.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 89.98998998999,
+        "dimension": 89.73346495557749,
         "children": [
           {
             "id": "6fd4b5f6344fb40e",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 667.5201950073242
+    "width": 644.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,11 +255,13 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "KnowledgeBase/投资.md",
-    "KnowledgeBase/商业.md",
-    "KnowledgeBase/经济.md",
+    "总结与复盘/2024-09-05.md",
     "KnowledgeBase/管理.md",
+    "KnowledgeBase/商业.md",
+    "template/模型/讲话.md",
+    "KnowledgeBase/经济.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "KnowledgeBase/投资.md",
     "template/模型/常规问题.md",
     "template/模型/核心关系.md",
     "template/模型/解决问题.md",
@@ -280,8 +282,6 @@
     "InformationRepository/信息6.md",
     "InformationRepository/信息5.md",
     "InformationRepository/信息4.md",
-    "InformationRepository/信息1.md",
-    "Excalidraw/Drawing 2024-08-25 11.13.36.excalidraw.md",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
