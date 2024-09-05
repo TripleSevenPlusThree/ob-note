@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/解决问题.md"
+                "file": "KnowledgeBase/管理.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "KnowledgeBase/管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "KnowledgeBase/管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "KnowledgeBase/管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,11 +256,13 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "KnowledgeBase/管理.md",
-    "KnowledgeBase/经济.md",
-    "InformationRepository/信息8.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/常规问题.md",
+    "template/模型/核心关系.md",
+    "KnowledgeBase/管理.md",
+    "KnowledgeBase/经济.md",
+    "template/模型/解决问题.md",
+    "InformationRepository/信息8.md",
     "2024-W38.md",
     "2024-W36.md",
     "KnowledgeBase/商业.md",
@@ -277,9 +279,7 @@
     "总结与复盘/2024-08-14.md",
     "InformationRepository/信息6.md",
     "InformationRepository/信息5.md",
-    "template/模型/解决问题.md",
     "InformationRepository/信息4.md",
-    "template/模型/核心关系.md",
     "InformationRepository/信息1.md",
     "Excalidraw/Drawing 2024-08-25 11.13.36.excalidraw.md",
     "总结与复盘/2024-07-06.md",
