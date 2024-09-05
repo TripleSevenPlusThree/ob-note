@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/管理.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 667.5201950073242,
-    "collapsed": true
+    "width": 667.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5,
-    "collapsed": true
+    "width": 619.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,16 +255,17 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "KnowledgeBase/投资.md",
+    "KnowledgeBase/商业.md",
+    "KnowledgeBase/经济.md",
+    "KnowledgeBase/管理.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/常规问题.md",
     "template/模型/核心关系.md",
-    "KnowledgeBase/管理.md",
-    "KnowledgeBase/经济.md",
     "template/模型/解决问题.md",
     "InformationRepository/信息8.md",
     "2024-W38.md",
     "2024-W36.md",
-    "KnowledgeBase/商业.md",
     "Excalidraw/信息处理SOP.md",
     "template/模型/领导力.md",
     "InformationRepository/信息7.md",
@@ -283,7 +282,6 @@
     "InformationRepository/信息4.md",
     "InformationRepository/信息1.md",
     "Excalidraw/Drawing 2024-08-25 11.13.36.excalidraw.md",
-    "总结与复盘/2024-07-06.md",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
