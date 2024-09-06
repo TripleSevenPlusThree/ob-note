@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/常规问题.md"
+                "file": "InformationRepository/信息9.md"
               }
             }
           }
@@ -42,9 +42,12 @@
             "id": "f07874ce653f22df",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/学会提问.md"
+                "file": "InformationRepository/信息9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -58,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/常规问题.md",
+                "file": "InformationRepository/信息9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/常规问题.md",
+                "file": "InformationRepository/信息9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,8 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,13 +267,18 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "6fd4b5f6344fb40e",
+  "active": "f07874ce653f22df",
   "lastOpenFiles": [
+    "InformationRepository/信息8.md",
+    "InformationRepository/信息9.md",
+    "InformationRepository/信息5.md",
+    "InformationRepository/信息6.md",
+    "InformationRepository/信息7.md",
     "Excalidraw/学会提问.md",
+    "template/模型/常规问题.md",
     "template/模型/商业计划书.md",
     "template/模型/领导力.md",
     "template/模型/解决问题.md",
-    "template/模型/常规问题.md",
     "template/模型/核心关系.md",
     "KnowledgeBase/管理.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -279,20 +287,15 @@
     "template/模型/讲话.md",
     "KnowledgeBase/经济.md",
     "KnowledgeBase/投资.md",
-    "InformationRepository/信息8.md",
     "2024-W38.md",
     "2024-W36.md",
     "Excalidraw/信息处理SOP.md",
-    "InformationRepository/信息7.md",
     "Excalidraw/日常.png",
     "Excalidraw/日常.md",
     "template/模板/信息处理.md",
     "总结与复盘/2024-08-30.md",
     "总结与复盘/2024-08-23.md",
     "总结与复盘/2024-08-22.md",
-    "总结与复盘/2024-08-21.md",
-    "总结与复盘/2024-08-14.md",
-    "InformationRepository/信息6.md",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
