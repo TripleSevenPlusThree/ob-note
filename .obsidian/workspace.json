@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/学会提问.md"
+                "file": "template/模型/常规问题.md"
               }
             }
           }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/学会提问.md",
+                "file": "template/模型/常规问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/学会提问.md",
+                "file": "template/模型/常规问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,13 +264,13 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "f07874ce653f22df",
+  "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "Excalidraw/学会提问.md",
     "template/模型/商业计划书.md",
     "template/模型/领导力.md",
     "template/模型/解决问题.md",
     "template/模型/常规问题.md",
-    "Excalidraw/学会提问.md",
     "template/模型/核心关系.md",
     "KnowledgeBase/管理.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
