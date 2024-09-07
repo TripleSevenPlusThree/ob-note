@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/管理.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,11 +266,12 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "template/模型/核心关系.md",
+    "KnowledgeBase/管理.md",
     "KnowledgeBase/经济.md",
     "总结与复盘/2024-09-07.md",
     "template/模板/阶段复盘反思模板.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "KnowledgeBase/管理.md",
     "Excalidraw/学会提问.md",
     "template/模型/常规问题.md",
     "总结与复盘/2024-09-06.md",
@@ -282,7 +284,6 @@
     "template/模型/商业计划书.md",
     "template/模型/领导力.md",
     "template/模型/解决问题.md",
-    "template/模型/核心关系.md",
     "总结与复盘/2024-09-05.md",
     "KnowledgeBase/商业.md",
     "template/模型/讲话.md",
