@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "总结与复盘/2024-09-07.md"
               }
             }
           }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,11 +263,11 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-09-07.md",
     "template/模板/阶段复盘反思模板.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/管理.md",
     "Excalidraw/学会提问.md",
     "template/模型/常规问题.md",
