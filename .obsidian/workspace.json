@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "总结与复盘/2024-09-07.md"
               }
             }
           }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5201950073242,
-    "collapsed": true
+    "width": 648.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -178,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,11 +263,13 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "template/模板/阶段复盘反思模板.md",
     "总结与复盘/2024-09-07.md",
-    "KnowledgeBase/管理.md",
     "Excalidraw/学会提问.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "KnowledgeBase/管理.md",
     "template/模型/常规问题.md",
     "总结与复盘/2024-09-06.md",
     "KnowledgeBase/经济.md",
@@ -284,7 +283,6 @@
     "template/模型/领导力.md",
     "template/模型/解决问题.md",
     "template/模型/核心关系.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-09-05.md",
     "KnowledgeBase/商业.md",
     "template/模型/讲话.md",
@@ -294,7 +292,6 @@
     "Excalidraw/信息处理SOP.md",
     "Excalidraw/日常.png",
     "Excalidraw/日常.md",
-    "template/模板/信息处理.md",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
