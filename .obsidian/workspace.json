@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/学会提问.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/学会提问.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/学会提问.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,8 +266,10 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "a7945632cd014b12",
+  "active": "d7244801564c3322",
   "lastOpenFiles": [
+    "Excalidraw/学会提问.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/常规问题.md",
     "总结与复盘/2024-09-09.md",
     "InformationRepository/信息10.md",
@@ -278,8 +280,6 @@
     "KnowledgeBase/经济.md",
     "template/模型/核心关系.md",
     "template/模板/阶段复盘反思模板.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "Excalidraw/学会提问.md",
     "总结与复盘/2024-09-06.md",
     "InformationRepository/信息8.md",
     "InformationRepository/信息7.md",
