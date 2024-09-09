@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-09-07.md"
+                "file": "InformationRepository/信息10.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-09-07.md",
+                "file": "InformationRepository/信息10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-09-07.md",
+                "file": "InformationRepository/信息10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-09-07.md",
+                "file": "InformationRepository/信息10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,9 +265,10 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "总结与复盘/2024-09-07.md",
+    "InformationRepository/信息10.md",
     "KnowledgeBase/管理.md",
     "KnowledgeBase/经济.md",
-    "总结与复盘/2024-09-07.md",
     "template/模型/核心关系.md",
     "template/模板/阶段复盘反思模板.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -291,7 +292,6 @@
     "2024-W36.md",
     "Excalidraw/信息处理SOP.md",
     "Excalidraw/日常.png",
-    "Excalidraw/日常.md",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
