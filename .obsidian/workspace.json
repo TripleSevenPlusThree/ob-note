@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/管理.md"
+                "file": "template/模型/常规问题.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "template/模型/常规问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "template/模型/常规问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "template/模型/常规问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,6 +268,8 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
+    "template/模型/讲话.md",
+    "KnowledgeBase/管理.md",
     "template/模型/常规问题.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/PixPin_2024-09-09_22-01-13.png",
@@ -275,7 +277,6 @@
     "总结与复盘/2024-09-09.md",
     "InformationRepository/信息10.md",
     "InformationRepository/信息9.md",
-    "KnowledgeBase/管理.md",
     "template/模型/解决问题.md",
     "总结与复盘/2024-09-07.md",
     "KnowledgeBase/经济.md",
@@ -291,7 +292,6 @@
     "template/模型/领导力.md",
     "总结与复盘/2024-09-05.md",
     "KnowledgeBase/商业.md",
-    "template/模型/讲话.md",
     "KnowledgeBase/投资.md",
     "2024-W38.md",
     "Excalidraw/日常.png",
