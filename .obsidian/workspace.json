@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息11.md"
+                "file": "InformationRepository/信息5.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息11.md",
+                "file": "InformationRepository/信息5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息11.md",
+                "file": "InformationRepository/信息5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息11.md",
+                "file": "InformationRepository/信息5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,8 +268,9 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "InformationRepository/信息10.md",
     "InformationRepository/信息11.md",
+    "InformationRepository/信息5.md",
+    "InformationRepository/信息10.md",
     "总结与复盘/2024-09-07.md",
     "总结与复盘/2024-09-09.md",
     "template/模型/常规问题.md",
@@ -287,7 +288,6 @@
     "InformationRepository/信息8.md",
     "InformationRepository/信息7.md",
     "InformationRepository/信息6.md",
-    "InformationRepository/信息5.md",
     "总结与复盘/2024-08-14.md",
     "template/模型/商业计划书.md",
     "template/模型/领导力.md",
