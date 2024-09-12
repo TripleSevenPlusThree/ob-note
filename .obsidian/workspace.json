@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-09-07.md"
+                "file": "总结与复盘/2024-09-12.md"
               }
             }
           }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-09-07.md",
+                "file": "总结与复盘/2024-09-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5201950073242
+    "width": 648.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-09-07.md",
+                "file": "总结与复盘/2024-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-09-07.md",
+                "file": "总结与复盘/2024-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,13 +274,14 @@
   },
   "active": "d7244801564c3322",
   "lastOpenFiles": [
+    "总结与复盘/2024-09-09.md",
+    "总结与复盘/2024-09-12.md",
+    "总结与复盘/2024-09-07.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/管理.md",
     "InformationRepository/信息5.md",
     "InformationRepository/信息11.md",
     "InformationRepository/信息10.md",
-    "总结与复盘/2024-09-07.md",
-    "总结与复盘/2024-09-09.md",
     "template/模型/常规问题.md",
     "template/模型/讲话.md",
     "attachment/PixPin_2024-09-09_22-01-13.png",
@@ -298,7 +301,6 @@
     "总结与复盘/2024-09-05.md",
     "KnowledgeBase/商业.md",
     "KnowledgeBase/投资.md",
-    "2024-W38.md",
     "Excalidraw/日常.png",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
