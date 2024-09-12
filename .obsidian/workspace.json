@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#文章/已完成/",
+                "query": "空间",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +123,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1c02be069f0c51a5",
@@ -166,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5201950073242,
-    "collapsed": true
+    "width": 648.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -272,7 +272,7 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "815ec1ebb4b1cbff",
   "lastOpenFiles": [
     "总结与复盘/2024-09-09.md",
     "总结与复盘/2024-09-12.md",
