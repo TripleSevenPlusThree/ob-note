@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5201950073242
+    "width": 648.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -247,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,12 +270,12 @@
   },
   "active": "6fd4b5f6344fb40e",
   "lastOpenFiles": [
-    "总结与复盘/2024-09-07.md",
-    "总结与复盘/2024-09-12.md",
+    "template/模型/常规问题.md",
     "template/模型/讲话.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "总结与复盘/2024-09-07.md",
+    "总结与复盘/2024-09-12.md",
     "KnowledgeBase/管理.md",
-    "template/模型/常规问题.md",
     "总结与复盘/2024-03-24.md",
     "总结与复盘/2024-09-09.md",
     "InformationRepository/信息5.md",
