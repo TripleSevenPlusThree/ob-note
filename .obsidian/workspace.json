@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/讲话.md"
+                "file": "总结与复盘/2024-09-12.md"
               }
             }
           }
@@ -26,12 +26,12 @@
         "dimension": 89.73346495557749,
         "children": [
           {
-            "id": "6fd4b5f6344fb40e",
+            "id": "2f290304e1b7209b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/模型/讲话.md",
+                "file": "总结与复盘/2024-09-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5201950073242,
-    "collapsed": true
+    "width": 648.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/讲话.md",
+                "file": "总结与复盘/2024-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/讲话.md",
+                "file": "总结与复盘/2024-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,27 +263,30 @@
       "obsidian-custom-frames:Open kimi": false,
       "obsidian-custom-frames:Open 秘塔ai": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "pkmer:Open Pkmer Market": false
+      "pkmer:Open Pkmer Market": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "6fd4b5f6344fb40e",
+  "active": "2f290304e1b7209b",
   "lastOpenFiles": [
     "template/模型/常规问题.md",
-    "template/模型/讲话.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "总结与复盘/2024-09-07.md",
     "总结与复盘/2024-09-12.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "书籍",
     "KnowledgeBase/管理.md",
+    "KnowledgeBase/经济.md",
+    "KnowledgeBase/商业.md",
+    "InformationRepository/信息11.md",
+    "总结与复盘/2024-09-07.md",
+    "template/模型/讲话.md",
     "总结与复盘/2024-03-24.md",
     "总结与复盘/2024-09-09.md",
     "InformationRepository/信息5.md",
-    "InformationRepository/信息11.md",
     "InformationRepository/信息10.md",
     "attachment/PixPin_2024-09-09_22-01-13.png",
     "Excalidraw/学会提问.md",
     "InformationRepository/信息9.md",
     "template/模型/解决问题.md",
-    "KnowledgeBase/经济.md",
     "template/模型/核心关系.md",
     "template/模板/阶段复盘反思模板.md",
     "总结与复盘/2024-09-06.md",
@@ -295,8 +296,6 @@
     "总结与复盘/2024-08-14.md",
     "template/模型/商业计划书.md",
     "template/模型/领导力.md",
-    "总结与复盘/2024-09-05.md",
-    "KnowledgeBase/商业.md",
     "Excalidraw/日常.png",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
@@ -315,7 +314,6 @@
     "template/模板",
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
-    "KnowledgeBase/程序/项目(project)/个人logo",
     "Excalidraw/未命名.canvas",
     "未命名.canvas",
     "未命名 2.canvas",
