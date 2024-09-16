@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/管理.md"
+                "file": "总结与复盘/2024-09-16.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "总结与复盘/2024-09-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "总结与复盘/2024-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "总结与复盘/2024-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,8 +278,8 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
-    "template/模型/常规问题.md",
     "KnowledgeBase/管理.md",
+    "template/模型/常规问题.md",
     "InformationRepository/信息13.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息12.md",
