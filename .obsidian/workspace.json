@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "总结与复盘/2024-09-16.md"
               }
             }
           }
@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650.5201950073242,
-    "collapsed": true
+    "width": 650.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -189,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "总结与复盘/2024-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,8 +276,9 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "37ed10d1e4351533",
   "lastOpenFiles": [
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-09-16.md",
     "总结与复盘/2024-09-09.md",
     "总结与复盘/2024-09-12.md",
@@ -290,7 +288,6 @@
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息12.md",
     "KnowledgeBase/经济.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-09-15.md",
     "书籍",
     "KnowledgeBase/商业.md",
