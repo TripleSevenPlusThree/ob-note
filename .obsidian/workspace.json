@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结与复盘/2024-09-16.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -69,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650.5201950073242
+    "width": 650.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -187,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-09-16.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-09-16.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,11 +279,11 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "37ed10d1e4351533",
+  "active": "d7244801564c3322",
   "lastOpenFiles": [
+    "总结与复盘/2024-09-16.md",
     "总结与复盘/2024-09-09.md",
     "总结与复盘/2024-09-12.md",
-    "总结与复盘/2024-09-16.md",
     "KnowledgeBase/管理.md",
     "template/模型/常规问题.md",
     "InformationRepository/信息13.md",
