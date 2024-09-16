@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息13.md"
+                "file": "KnowledgeBase/管理.md"
               }
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/赚钱之道.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,8 +55,13 @@
             "id": "f07874ce653f22df",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-微信读书",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/管理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -69,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息13.md",
+                "file": "KnowledgeBase/管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息13.md",
+                "file": "KnowledgeBase/管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,12 +282,12 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "37ed10d1e4351533",
+  "active": "f07874ce653f22df",
   "lastOpenFiles": [
-    "InformationRepository/信息12.md",
     "InformationRepository/信息13.md",
+    "KnowledgeBase/赚钱之道.md",
+    "InformationRepository/信息12.md",
     "总结与复盘/2024-09-16.md",
-    "InformationRepository/赚钱之道.md",
     "KnowledgeBase/管理.md",
     "KnowledgeBase/经济.md",
     "总结与复盘/2024-09-12.md",
