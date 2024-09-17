@@ -13,7 +13,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "总结与复盘/2024-09-16.md"
+              }
             }
           }
         ]
@@ -67,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "总结与复盘/2024-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "总结与复盘/2024-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +276,7 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "f07874ce653f22df",
+  "active": "37ed10d1e4351533",
   "lastOpenFiles": [
     "总结与复盘/2024-09-16.md",
     "总结与复盘/2024-09-12.md",
