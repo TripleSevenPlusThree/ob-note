@@ -6,14 +6,16 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 9.891196834817015,
+        "dimension": 9.891196834817013,
         "children": [
           {
             "id": "74425fc156e19ec8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KnowledgeBase/赚钱之道.md"
+              }
             }
           }
         ]
@@ -29,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-09-16.md",
+                "file": "KnowledgeBase/讲好故事，讲好例子.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,8 +55,13 @@
             "id": "f07874ce653f22df",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-微信读书",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "InformationRepository/信息14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -71,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650.5201950073242,
-    "collapsed": true
+    "width": 650.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -190,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,12 +286,13 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "f07874ce653f22df",
+  "active": "4595c65341d5f358",
   "lastOpenFiles": [
-    "总结与复盘/2024-09-16.md",
-    "KnowledgeBase/讲好故事，讲好例子.md",
-    "KnowledgeBase/经济.md",
     "InformationRepository/信息14.md",
+    "KnowledgeBase/讲好故事，讲好例子.md",
+    "KnowledgeBase/赚钱之道.md",
+    "总结与复盘/2024-09-16.md",
+    "KnowledgeBase/经济.md",
     "InformationRepository/信息13.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-09-12.md",
@@ -292,7 +301,6 @@
     "template/模型/常规问题.md",
     "总结与复盘/2024-09-09.md",
     "KnowledgeBase/管理.md",
-    "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息12.md",
     "总结与复盘/2024-09-15.md",
     "书籍",
