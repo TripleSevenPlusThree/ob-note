@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/经济.md"
+                "file": "KnowledgeBase/讲好故事，讲好例子.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/讲好故事，讲好例子.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/讲好故事，讲好例子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/讲好故事，讲好例子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,8 +281,9 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
-    "KnowledgeBase/经济.md",
     "总结与复盘/2024-09-16.md",
+    "KnowledgeBase/讲好故事，讲好例子.md",
+    "KnowledgeBase/经济.md",
     "InformationRepository/信息14.md",
     "InformationRepository/信息13.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -308,7 +309,6 @@
     "template/模型/核心关系.md",
     "template/模板/阶段复盘反思模板.md",
     "总结与复盘/2024-09-06.md",
-    "InformationRepository/信息8.md",
     "Excalidraw/日常.png",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
