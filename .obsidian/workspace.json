@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息14.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结与复盘/2024-09-16.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,15 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息14.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息14.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息14.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,12 +279,13 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "37ed10d1e4351533",
   "lastOpenFiles": [
-    "InformationRepository/信息13.md",
-    "InformationRepository/信息14.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "KnowledgeBase/经济.md",
     "总结与复盘/2024-09-16.md",
+    "InformationRepository/信息14.md",
+    "InformationRepository/信息13.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "总结与复盘/2024-09-12.md",
     "template/模型/讲话.md",
     "template/模型/解决问题.md",
@@ -295,7 +294,6 @@
     "KnowledgeBase/管理.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息12.md",
-    "KnowledgeBase/经济.md",
     "总结与复盘/2024-09-15.md",
     "书籍",
     "KnowledgeBase/商业.md",
