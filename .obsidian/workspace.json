@@ -6,16 +6,14 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 9.891196834817013,
+        "dimension": 9.891196834817015,
         "children": [
           {
             "id": "74425fc156e19ec8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "总结与复盘/2024-09-16.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -23,7 +21,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 90.10880316518298,
+        "dimension": 90.108803165183,
         "children": [
           {
             "id": "37ed10d1e4351533",
@@ -69,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +186,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结与复盘/2024-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +202,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结与复盘/2024-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +273,7 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "37ed10d1e4351533",
+  "active": "f07874ce653f22df",
   "lastOpenFiles": [
     "总结与复盘/2024-09-16.md",
     "总结与复盘/2024-09-12.md",
