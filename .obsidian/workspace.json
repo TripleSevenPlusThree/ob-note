@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/经济.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,13 +282,13 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
+    "KnowledgeBase/经济.md",
     "KnowledgeBase/讲好故事，讲好例子.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息14.md",
     "Diary/2024-03-29.md",
     "Diary/2024-09-17.md",
     "Diary/2024-09-16.md",
-    "KnowledgeBase/经济.md",
     "InformationRepository/信息13.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-09-12.md",
