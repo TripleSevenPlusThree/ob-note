@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/讲好故事，讲好例子.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,13 +55,8 @@
             "id": "f07874ce653f22df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InformationRepository/信息14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "custom-frames-微信读书",
+              "state": {}
             }
           },
           {
@@ -77,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1c02be069f0c51a5",
@@ -197,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,13 +280,13 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "4595c65341d5f358",
+  "active": "37ed10d1e4351533",
   "lastOpenFiles": [
-    "Diary/2024-03-29.md",
-    "KnowledgeBase/赚钱之道.md",
-    "Diary/2024-09-17.md",
-    "InformationRepository/信息14.md",
     "KnowledgeBase/讲好故事，讲好例子.md",
+    "KnowledgeBase/赚钱之道.md",
+    "InformationRepository/信息14.md",
+    "Diary/2024-03-29.md",
+    "Diary/2024-09-17.md",
     "Diary/2024-09-16.md",
     "KnowledgeBase/经济.md",
     "InformationRepository/信息13.md",
