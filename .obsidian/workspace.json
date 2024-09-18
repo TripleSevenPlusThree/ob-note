@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 9.891196834817013,
+        "dimension": 9.891196834817011,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -136,7 +136,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1c02be069f0c51a5",
@@ -287,8 +288,9 @@
   },
   "active": "4595c65341d5f358",
   "lastOpenFiles": [
-    "Diary/2024-09-17.md",
+    "Diary/2024-03-29.md",
     "KnowledgeBase/赚钱之道.md",
+    "Diary/2024-09-17.md",
     "InformationRepository/信息14.md",
     "KnowledgeBase/讲好故事，讲好例子.md",
     "Diary/2024-09-16.md",
@@ -314,7 +316,6 @@
     "Excalidraw/学会提问.md",
     "InformationRepository/信息9.md",
     "template/模型/核心关系.md",
-    "template/模板/阶段复盘反思模板.md",
     "Excalidraw/日常.png",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
