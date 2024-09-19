@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 9.891196834817011,
+        "dimension": 9.891196834817013,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -23,7 +23,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 90.108803165183,
+        "dimension": 90.10880316518298,
         "children": [
           {
             "id": "37ed10d1e4351533",
@@ -63,12 +63,9 @@
             "id": "d7244801564c3322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "KnowledgeBase/经济.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -173,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650.5201950073242
+    "width": 650.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -282,15 +280,15 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/经济.md",
-    "KnowledgeBase/讲好故事，讲好例子.md",
     "KnowledgeBase/赚钱之道.md",
+    "KnowledgeBase/讲好故事，讲好例子.md",
     "InformationRepository/信息14.md",
     "Diary/2024-03-29.md",
     "Diary/2024-09-17.md",
     "Diary/2024-09-16.md",
     "InformationRepository/信息13.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-09-12.md",
     "template/模型/讲话.md",
     "template/模型/解决问题.md",
