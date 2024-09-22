@@ -13,9 +13,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "InformationRepository/信息15.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -31,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息15.md",
+                "file": "InformationRepository/信息1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -69,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 650.5201950073242
+    "width": 650.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -187,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,11 +275,12 @@
       "obsidian-custom-frames:Open 微信读书": false
     }
   },
-  "active": "37ed10d1e4351533",
+  "active": "f07874ce653f22df",
   "lastOpenFiles": [
-    "InformationRepository/信息14.md",
-    "InformationRepository/信息15.md",
     "KnowledgeBase/赚钱之道.md",
+    "InformationRepository/信息1.md",
+    "InformationRepository/信息15.md",
+    "InformationRepository/信息14.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/经济.md",
     "KnowledgeBase/讲好故事，讲好例子.md",
@@ -305,7 +305,6 @@
     "InformationRepository/信息10.md",
     "attachment/PixPin_2024-09-09_22-01-13.png",
     "Excalidraw/学会提问.md",
-    "InformationRepository/信息9.md",
     "Excalidraw/日常.png",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
