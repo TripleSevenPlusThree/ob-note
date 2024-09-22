@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "空间",
+                "query": "tag:#文章/已完成/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -288,8 +288,10 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
-    "KnowledgeBase/讲好故事，讲好例子.md",
+    "template/模板/信息处理.md",
+    "template/模板/阶段复盘反思模板.md",
     "Diary/2024-09-22.md",
+    "KnowledgeBase/讲好故事，讲好例子.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "InformationRepository/信息15.md",
     "attachment/0197D0B2.png",
@@ -314,7 +316,6 @@
     "InformationRepository/信息11.md",
     "Diary/2024-09-07.md",
     "Diary/2024-03-24.md",
-    "InformationRepository/信息5.md",
     "attachment/PixPin_2024-09-09_22-01-13.png",
     "Excalidraw/日常.png",
     "KnowledgeBase",
