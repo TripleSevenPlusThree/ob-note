@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息16.md"
+                "file": "Diary/2024-09-22.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息16.md",
+                "file": "Diary/2024-09-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息16.md",
+                "file": "Diary/2024-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息16.md",
+                "file": "Diary/2024-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,15 +288,15 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
-    "InformationRepository/信息15.md",
+    "Diary/2024-09-16.md",
     "InformationRepository/信息16.md",
+    "InformationRepository/信息15.md",
     "Diary/2024-09-22.md",
     "template/模板/信息处理.md",
     "template/模板/阶段复盘反思模板.md",
     "KnowledgeBase/讲好故事，讲好例子.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/0197D0B2.png",
-    "Diary/2024-09-16.md",
     "InformationRepository/信息1.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息14.md",
