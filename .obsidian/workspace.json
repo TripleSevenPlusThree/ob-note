@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-09-22.md"
+                "file": "KnowledgeBase/经济.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-09-22.md",
+                "file": "KnowledgeBase/经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-09-22.md",
+                "file": "KnowledgeBase/经济.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-09-22.md",
+                "file": "KnowledgeBase/经济.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,9 +287,9 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
+    "InformationRepository/信息16.md",
     "Diary/2024-09-22.md",
     "Diary/2024-09-16.md",
-    "InformationRepository/信息16.md",
     "InformationRepository/信息15.md",
     "template/模板/信息处理.md",
     "template/模板/阶段复盘反思模板.md",
