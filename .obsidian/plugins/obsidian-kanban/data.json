@@ -7,5 +7,16 @@
       "unit": "days",
       "direction": "after"
     }
-  ]
+  ],
+  "show-checkboxes": true,
+  "new-card-insertion-method": "prepend-compact",
+  "new-note-folder": "Kanban",
+  "tag-colors": [
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "link-date-to-daily-note": true
 }
