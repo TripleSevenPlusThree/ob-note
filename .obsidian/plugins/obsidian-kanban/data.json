@@ -11,19 +11,9 @@
   "show-checkboxes": false,
   "new-card-insertion-method": "prepend-compact",
   "new-note-folder": "Kanban",
-  "tag-colors": [
-    {
-      "tagKey": "",
-      "color": "",
-      "backgroundColor": ""
-    }
-  ],
+  "tag-colors": [],
   "link-date-to-daily-note": true,
-  "tag-sort": [
-    {
-      "tag": ""
-    }
-  ],
-  "move-tags": false,
+  "tag-sort": [],
+  "move-tags": true,
   "tag-action": "kanban"
 }
