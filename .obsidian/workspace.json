@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息3.md"
+                "file": "InformationRepository/信息7.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息3.md",
+                "file": "InformationRepository/信息7.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息3.md",
+                "file": "InformationRepository/信息7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息3.md",
+                "file": "InformationRepository/信息7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,8 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,9 +286,13 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
+    "InformationRepository/信息6.md",
+    "Diary/2024-09-22.md",
+    "InformationRepository/信息5.md",
+    "InformationRepository/信息4.md",
+    "InformationRepository/信息3.md",
     "InformationRepository/信息2.md",
     "InformationRepository/信息1.md",
-    "Diary/2024-09-22.md",
     "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/经济.md",
     "InformationRepository/信息16.md",
@@ -299,10 +302,6 @@
     "InformationRepository/信息13.md",
     "InformationRepository/信息14.md",
     "InformationRepository/信息15.md",
-    "InformationRepository/信息6.md",
-    "InformationRepository/信息5.md",
-    "InformationRepository/信息4.md",
-    "InformationRepository/信息3.md",
     "InformationRepository/信息9.md",
     "InformationRepository/信息8.md",
     "InformationRepository/信息7.md",
