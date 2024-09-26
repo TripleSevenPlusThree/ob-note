@@ -1,4 +1,10 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"f76215a29949ac1e","type":"text","text":"","x":-1095,"y":-1080,"width":250,"height":60},
+		{"id":"9acf55e4766804d5","type":"text","text":"","x":-1345,"y":-1240,"width":250,"height":80},
+		{"id":"b207719e2d662b83","type":"text","text":"你好呀世界\n奶是否会垃圾费奶德","x":-1840,"y":-1860,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ca7b113b0d527f10","fromNode":"b207719e2d662b83","fromSide":"right","toNode":"9acf55e4766804d5","toSide":"left"}
+	]
 }

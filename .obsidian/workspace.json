@@ -13,7 +13,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kanban/未命名看板.md"
+              }
             }
           }
         ]
@@ -24,11 +26,24 @@
         "dimension": 88.15165876777252,
         "children": [
           {
-            "id": "37ed10d1e4351533",
+            "id": "24b9d9e48821f9e0",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/未命名看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
             }
           },
           {
@@ -180,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kanban/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kanban/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,8 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,12 +289,17 @@
       "obsidian-custom-frames:Open 秘塔ai": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "pkmer:Open Pkmer Market": false,
-      "obsidian-custom-frames:Open 微信读书": false
+      "obsidian-custom-frames:Open 微信读书": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "37ed10d1e4351533",
+  "active": "24b9d9e48821f9e0",
   "lastOpenFiles": [
     "Kanban/未命名.canvas",
+    "Kanban/未命名看板.md",
+    "Diary/未命名看板.md",
+    "Diary/2024-09-22.md",
+    "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息16.md",
     "Kanban",
     "Diary/看板/未命名.canvas",
@@ -293,20 +314,16 @@
     "InformationRepository/信息8.md",
     "InformationRepository/信息7.md",
     "InformationRepository/信息6.md",
-    "Diary/2024-09-22.md",
     "InformationRepository/信息5.md",
     "InformationRepository/信息4.md",
     "InformationRepository/信息3.md",
     "InformationRepository/信息2.md",
     "InformationRepository/信息1.md",
-    "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/经济.md",
     "template/模型/常规问题.md",
     "Diary/2024-09-16.md",
     "template/模板/信息处理.md",
     "template/模板/阶段复盘反思模板.md",
-    "KnowledgeBase/讲好故事，讲好例子.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/0197D0B2.png",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
