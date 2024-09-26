@@ -18,5 +18,11 @@
       "backgroundColor": ""
     }
   ],
-  "link-date-to-daily-note": true
+  "link-date-to-daily-note": true,
+  "tag-sort": [
+    {
+      "tag": ""
+    }
+  ],
+  "move-tags": true
 }
