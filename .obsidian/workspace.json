@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息16.md"
+                "file": "Diary/看板/未命名.canvas"
               }
             }
           }
@@ -29,12 +29,14 @@
             "id": "37ed10d1e4351533",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "InformationRepository/信息16.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Diary/看板/未命名.canvas",
+                "viewState": {
+                  "x": -635,
+                  "y": -370,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -187,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息16.md",
+                "file": "Diary/看板/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息16.md",
+                "file": "Diary/看板/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,6 +289,9 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Diary/看板/未命名.canvas",
+    "InformationRepository/信息16.md",
     "InformationRepository/信息15.md",
     "InformationRepository/信息14.md",
     "InformationRepository/信息12.md",
@@ -305,7 +310,6 @@
     "InformationRepository/信息1.md",
     "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/经济.md",
-    "InformationRepository/信息16.md",
     "template/模型/常规问题.md",
     "Diary/2024-09-16.md",
     "template/模板/信息处理.md",
@@ -313,7 +317,6 @@
     "KnowledgeBase/讲好故事，讲好例子.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/0197D0B2.png",
-    "Diary/2024-03-29.md",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
     "Excalidraw/日常.png",
@@ -334,7 +337,6 @@
     "attachment/test.drawio",
     "attachment/STL初识.pdf",
     "Excalidraw/未命名.canvas",
-    "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
