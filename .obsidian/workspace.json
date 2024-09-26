@@ -122,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1c02be069f0c51a5",
@@ -280,7 +281,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "4595c65341d5f358",
+  "active": "dd6dcde933859b7a",
   "lastOpenFiles": [
     "KnowledgeBase/赚钱之道.md",
     "Kanban/未命名看板 1.md",
