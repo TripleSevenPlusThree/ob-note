@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息7.md"
+                "file": "InformationRepository/信息10.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息7.md",
+                "file": "InformationRepository/信息10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息7.md",
+                "file": "InformationRepository/信息10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息7.md",
+                "file": "InformationRepository/信息10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,6 +287,9 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
+    "InformationRepository/信息9.md",
+    "InformationRepository/信息8.md",
+    "InformationRepository/信息7.md",
     "InformationRepository/信息6.md",
     "Diary/2024-09-22.md",
     "InformationRepository/信息5.md",
@@ -302,9 +306,6 @@
     "InformationRepository/信息13.md",
     "InformationRepository/信息14.md",
     "InformationRepository/信息15.md",
-    "InformationRepository/信息9.md",
-    "InformationRepository/信息8.md",
-    "InformationRepository/信息7.md",
     "template/模型/常规问题.md",
     "Diary/2024-09-16.md",
     "template/模板/信息处理.md",
