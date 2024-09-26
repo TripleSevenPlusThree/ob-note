@@ -13,9 +13,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/看板/未命名.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -29,15 +27,8 @@
             "id": "37ed10d1e4351533",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Diary/看板/未命名.canvas",
-                "viewState": {
-                  "x": -635,
-                  "y": -370,
-                  "zoom": 0
-                }
-              }
+              "type": "pkmer-downloader",
+              "state": {}
             }
           },
           {
@@ -189,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/看板/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/看板/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,9 +278,11 @@
   },
   "active": "37ed10d1e4351533",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "Diary/看板/未命名.canvas",
+    "Kanban/未命名.canvas",
     "InformationRepository/信息16.md",
+    "Kanban",
+    "Diary/看板/未命名.canvas",
+    "未命名.canvas",
     "InformationRepository/信息15.md",
     "InformationRepository/信息14.md",
     "InformationRepository/信息12.md",
@@ -335,7 +326,6 @@
     "template/模型",
     "template/模板",
     "attachment/test.drawio",
-    "attachment/STL初识.pdf",
     "Excalidraw/未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
