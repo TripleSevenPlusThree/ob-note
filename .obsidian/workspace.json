@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/未命名看板.md"
+                "file": "Kanban/未命名看板 1.md"
               }
             }
           }
@@ -26,40 +26,21 @@
         "dimension": 88.15165876777252,
         "children": [
           {
-            "id": "24b9d9e48821f9e0",
+            "id": "4595c65341d5f358",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/未命名看板.md",
+                "file": "Kanban/未命名看板 1.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
                     false,
                     false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
                     false
                   ]
                 }
-              }
-            }
-          },
-          {
-            "id": "4595c65341d5f358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           },
@@ -199,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/未命名看板.md",
+                "file": "Kanban/未命名看板 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/未命名看板.md",
+                "file": "Kanban/未命名看板 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,13 +278,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "24b9d9e48821f9e0",
+  "active": "4595c65341d5f358",
   "lastOpenFiles": [
-    "Kanban/未命名.canvas",
+    "KnowledgeBase/赚钱之道.md",
+    "Kanban/未命名看板 1.md",
     "Kanban/未命名看板.md",
+    "Kanban/未命名.canvas",
     "Diary/未命名看板.md",
     "Diary/2024-09-22.md",
-    "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息16.md",
     "Kanban",
     "Diary/看板/未命名.canvas",

@@ -8,7 +8,7 @@
       "direction": "after"
     }
   ],
-  "show-checkboxes": true,
+  "show-checkboxes": false,
   "new-card-insertion-method": "prepend-compact",
   "new-note-folder": "Kanban",
   "tag-colors": [
