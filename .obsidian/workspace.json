@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-09-22.md"
+                "file": "InformationRepository/信息17.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-09-22.md",
+                "file": "InformationRepository/信息17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-09-22.md",
+                "file": "InformationRepository/信息17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-09-22.md",
+                "file": "InformationRepository/信息17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,13 +288,14 @@
   },
   "active": "9cd8315710797cc7",
   "lastOpenFiles": [
+    "Diary/2024-09-22.md",
+    "InformationRepository/信息17.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/未命名看板 1.md",
     "Kanban/d.md",
     "Kanban/未命名看板.md",
     "Kanban/未命名.canvas",
     "Diary/未命名看板.md",
-    "Diary/2024-09-22.md",
     "InformationRepository/信息16.md",
     "Kanban",
     "Diary/看板/未命名.canvas",
@@ -316,7 +318,6 @@
     "KnowledgeBase/经济.md",
     "template/模型/常规问题.md",
     "Diary/2024-09-16.md",
-    "template/模板/信息处理.md",
     "attachment/0197D0B2.png",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
