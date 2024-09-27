@@ -15,5 +15,7 @@
   "link-date-to-daily-note": true,
   "tag-sort": [],
   "move-tags": true,
-  "tag-action": "kanban"
+  "tag-action": "obsidian",
+  "full-list-lane-width": false,
+  "move-dates": true
 }
