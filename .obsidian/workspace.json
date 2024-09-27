@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               }
             }
           }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,8 +286,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "c9be1b3314b5926e",
   "lastOpenFiles": [
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/赚钱之道.md",
     "Diary/2024-09-27.md",
     "Kanban/未命名看板.md",
@@ -317,7 +318,6 @@
     "InformationRepository/信息4.md",
     "InformationRepository/信息3.md",
     "InformationRepository/信息2.md",
-    "InformationRepository/信息1.md",
     "attachment/0197D0B2.png",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
