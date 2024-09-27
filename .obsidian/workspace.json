@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/经济.md"
+                "file": "Kanban/未命名看板.md"
               }
             }
           }
@@ -29,12 +29,15 @@
             "id": "9cd8315710797cc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "KnowledgeBase/经济.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban/未命名看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               }
             }
           },
@@ -187,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "Kanban/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "Kanban/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,11 +292,12 @@
   "active": "9cd8315710797cc7",
   "lastOpenFiles": [
     "InformationRepository/信息17.md",
+    "Kanban/未命名看板.md",
+    "KnowledgeBase/经济.md",
     "Diary/2024-09-22.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/未命名看板 1.md",
     "Kanban/d.md",
-    "Kanban/未命名看板.md",
     "Kanban/未命名.canvas",
     "Diary/未命名看板.md",
     "InformationRepository/信息16.md",
@@ -315,7 +319,6 @@
     "InformationRepository/信息3.md",
     "InformationRepository/信息2.md",
     "InformationRepository/信息1.md",
-    "KnowledgeBase/经济.md",
     "template/模型/常规问题.md",
     "Diary/2024-09-16.md",
     "attachment/0197D0B2.png",
