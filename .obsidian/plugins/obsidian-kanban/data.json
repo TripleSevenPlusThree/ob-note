@@ -17,5 +17,7 @@
   "move-tags": true,
   "tag-action": "obsidian",
   "full-list-lane-width": false,
-  "move-dates": true
+  "move-dates": true,
+  "move-task-metadata": true,
+  "inline-metadata-position": "footer"
 }
