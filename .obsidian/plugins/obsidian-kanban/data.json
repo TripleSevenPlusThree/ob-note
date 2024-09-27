@@ -13,14 +13,29 @@
   "new-note-folder": "Kanban",
   "tag-colors": [
     {
-      "tagKey": "#优先级",
-      "color": "",
-      "backgroundColor": ""
+      "tagKey": "#紧急",
+      "color": "rgba(12, 11, 11, 1)",
+      "backgroundColor": "rgba(250, 231, 65, 1)"
     },
     {
-      "tagKey": "",
-      "color": "",
-      "backgroundColor": ""
+      "tagKey": "#重要",
+      "color": "rgba(245, 241, 241, 1)",
+      "backgroundColor": "rgba(240, 19, 19, 0.55)"
+    },
+    {
+      "tagKey": "#高等优先级",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(250, 65, 65, 0.86)"
+    },
+    {
+      "tagKey": "#中等优先级",
+      "color": "rgba(2, 2, 2, 1)",
+      "backgroundColor": "rgba(250, 234, 65, 0.49)"
+    },
+    {
+      "tagKey": "#低等优先级",
+      "color": "rgba(26, 26, 27, 1)",
+      "backgroundColor": "rgba(133, 222, 69, 0.32)"
     }
   ],
   "link-date-to-daily-note": true,

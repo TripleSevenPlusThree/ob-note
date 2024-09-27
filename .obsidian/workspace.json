@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/未命名看板.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               }
             }
           }
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/未命名看板.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/未命名看板.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,10 +290,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "9cd8315710797cc7",
+  "active": "c9be1b3314b5926e",
   "lastOpenFiles": [
-    "Kanban/2024-09-28.md",
     "Kanban/未命名看板.md",
+    "Kanban/2024-09-28.md",
     "InformationRepository/信息17.md",
     "KnowledgeBase/经济.md",
     "Diary/2024-09-22.md",
