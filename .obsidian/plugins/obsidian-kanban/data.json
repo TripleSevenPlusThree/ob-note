@@ -14,10 +14,10 @@
   "tag-colors": [],
   "link-date-to-daily-note": true,
   "tag-sort": [],
-  "move-tags": true,
-  "tag-action": "obsidian",
+  "tag-action": "kanban",
   "full-list-lane-width": false,
   "move-dates": true,
   "move-task-metadata": true,
-  "inline-metadata-position": "footer"
+  "inline-metadata-position": "footer",
+  "move-tags": true
 }
