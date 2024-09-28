@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 9.896091044037606,
+        "dimension": 11.799410029498524,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息18.md"
+                "file": "template/模型/讲话.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 90.1039089559624,
+        "dimension": 88.20058997050147,
         "children": [
           {
             "id": "9cd8315710797cc7",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-09-27.md",
+                "file": "template/模型/讲话.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息18.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息18.md",
+                "file": "template/模型/讲话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息18.md",
+                "file": "template/模型/讲话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,23 +301,25 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c9be1b3314b5926e",
+  "active": "9cd8315710797cc7",
   "lastOpenFiles": [
+    "Diary/2024-09-28.md",
+    "Diary/2024-09-27.md",
+    "Kanban/未命名看板.md",
+    "KnowledgeBase/赚钱之道.md",
+    "KnowledgeBase/管理.md",
+    "InformationRepository/信息18.md",
+    "InformationRepository/信息16.md",
+    "InformationRepository/信息17.md",
     "InformationRepository/信息9.md",
     "InformationRepository/信息8.md",
-    "InformationRepository/信息16.md",
     "InformationRepository/信息15.md",
     "InformationRepository/信息14.md",
     "InformationRepository/信息13.md",
     "InformationRepository/信息12.md",
     "InformationRepository/信息11.md",
     "InformationRepository/信息10.md",
-    "InformationRepository/信息18.md",
-    "KnowledgeBase/赚钱之道.md",
-    "Kanban/未命名看板.md",
-    "Diary/2024-09-27.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "InformationRepository/信息17.md",
     "Kanban/2024-09-28.md",
     "KnowledgeBase/经济.md",
     "Diary/2024-09-22.md",
@@ -332,8 +333,6 @@
     "InformationRepository/信息7.md",
     "InformationRepository/信息6.md",
     "InformationRepository/信息5.md",
-    "InformationRepository/信息4.md",
-    "InformationRepository/信息3.md",
     "attachment/0197D0B2.png",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
