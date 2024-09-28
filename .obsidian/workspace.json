@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/解决问题.md"
+                "file": "Diary/2024-09-28.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "Diary/2024-09-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "Diary/2024-09-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "Diary/2024-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,9 +303,11 @@
   },
   "active": "9cd8315710797cc7",
   "lastOpenFiles": [
-    "template/模型/讲话.md",
-    "Diary/2024-09-28.md",
     "Diary/2024-09-27.md",
+    "Diary/2024-09-28.md",
+    "Diary/2024-09-22.md",
+    "template/模型/解决问题.md",
+    "template/模型/讲话.md",
     "Kanban/未命名看板.md",
     "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/管理.md",
@@ -323,7 +325,6 @@
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/2024-09-28.md",
     "KnowledgeBase/经济.md",
-    "Diary/2024-09-22.md",
     "Kanban/未命名看板 1.md",
     "Kanban/d.md",
     "Kanban/未命名.canvas",
@@ -332,7 +333,6 @@
     "Diary/看板/未命名.canvas",
     "未命名.canvas",
     "InformationRepository/信息7.md",
-    "InformationRepository/信息6.md",
     "attachment/0197D0B2.png",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
