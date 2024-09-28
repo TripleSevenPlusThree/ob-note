@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "InformationRepository/信息18.md"
               }
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "InformationRepository/信息18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,6 +57,22 @@
             "state": {
               "type": "custom-frames-微信读书",
               "state": {}
+            }
+          },
+          {
+            "id": "41a2d125cd6e54f7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/未命名看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              }
             }
           },
           {
@@ -188,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "InformationRepository/信息18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "InformationRepository/信息18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,12 +302,22 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8e20264463e91529",
+  "active": "c9be1b3314b5926e",
   "lastOpenFiles": [
+    "InformationRepository/信息9.md",
+    "InformationRepository/信息8.md",
+    "InformationRepository/信息16.md",
+    "InformationRepository/信息15.md",
+    "InformationRepository/信息14.md",
+    "InformationRepository/信息13.md",
+    "InformationRepository/信息12.md",
+    "InformationRepository/信息11.md",
+    "InformationRepository/信息10.md",
+    "InformationRepository/信息18.md",
     "KnowledgeBase/赚钱之道.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "Diary/2024-09-27.md",
     "Kanban/未命名看板.md",
+    "Diary/2024-09-27.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "InformationRepository/信息17.md",
     "Kanban/2024-09-28.md",
     "KnowledgeBase/经济.md",
@@ -300,24 +326,14 @@
     "Kanban/d.md",
     "Kanban/未命名.canvas",
     "Diary/未命名看板.md",
-    "InformationRepository/信息16.md",
     "Kanban",
     "Diary/看板/未命名.canvas",
     "未命名.canvas",
-    "InformationRepository/信息15.md",
-    "InformationRepository/信息14.md",
-    "InformationRepository/信息12.md",
-    "InformationRepository/信息13.md",
-    "InformationRepository/信息11.md",
-    "InformationRepository/信息10.md",
-    "InformationRepository/信息9.md",
-    "InformationRepository/信息8.md",
     "InformationRepository/信息7.md",
     "InformationRepository/信息6.md",
     "InformationRepository/信息5.md",
     "InformationRepository/信息4.md",
     "InformationRepository/信息3.md",
-    "InformationRepository/信息2.md",
     "attachment/0197D0B2.png",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
