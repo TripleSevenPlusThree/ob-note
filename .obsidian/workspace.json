@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "Diary/2024-09-28.md"
               }
             }
           }
@@ -85,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "Diary/2024-09-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "Diary/2024-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,15 +301,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "9cd8315710797cc7",
   "lastOpenFiles": [
+    "KnowledgeBase/赚钱之道.md",
+    "Kanban/未命名看板.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-09-28.md",
     "Diary/2024-09-27.md",
-    "Kanban/未命名看板.md",
     "Diary/2024-09-22.md",
     "template/模型/解决问题.md",
     "template/模型/讲话.md",
-    "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/管理.md",
     "InformationRepository/信息18.md",
     "InformationRepository/信息16.md",
@@ -323,7 +323,6 @@
     "InformationRepository/信息12.md",
     "InformationRepository/信息11.md",
     "InformationRepository/信息10.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/2024-09-28.md",
     "KnowledgeBase/经济.md",
     "Kanban/未命名看板 1.md",
