@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 11.799410029498524,
+        "dimension": 11.799410029498528,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-09-28.md"
+                "file": "KnowledgeBase/技能总结/计算机科学.md"
               }
             }
           }
@@ -23,7 +23,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 88.20058997050147,
+        "dimension": 88.20058997050148,
         "children": [
           {
             "id": "9cd8315710797cc7",
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-09-28.md",
+                "file": "KnowledgeBase/技能总结/计算机科学.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-09-28.md",
+                "file": "KnowledgeBase/技能总结/计算机科学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-09-28.md",
+                "file": "KnowledgeBase/技能总结/计算机科学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,8 +303,9 @@
   },
   "active": "9cd8315710797cc7",
   "lastOpenFiles": [
-    "Kanban/未命名看板.md",
     "Diary/2024-09-28.md",
+    "KnowledgeBase/技能总结/计算机科学.md",
+    "Kanban/未命名看板.md",
     "Diary/2024-09-22.md",
     "KnowledgeBase/赚钱之道.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -332,7 +333,6 @@
     "Kanban",
     "Diary/看板/未命名.canvas",
     "未命名.canvas",
-    "InformationRepository/信息7.md",
     "attachment/0197D0B2.png",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
