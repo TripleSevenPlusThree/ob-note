@@ -45,5 +45,6 @@
   "move-dates": true,
   "move-task-metadata": true,
   "inline-metadata-position": "footer",
-  "move-tags": true
+  "move-tags": true,
+  "lane-width": 280
 }
