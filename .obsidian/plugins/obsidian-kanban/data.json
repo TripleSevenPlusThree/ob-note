@@ -46,5 +46,5 @@
   "move-task-metadata": true,
   "inline-metadata-position": "footer",
   "move-tags": true,
-  "lane-width": 280
+  "lane-width": 275
 }
