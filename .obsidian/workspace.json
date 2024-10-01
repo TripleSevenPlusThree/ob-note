@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-09-28.md"
+                "file": "Kanban/未命名看板.md"
               }
             }
           }
@@ -69,6 +69,7 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false
                   ]
                 }
@@ -85,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-09-28.md",
+                "file": "Kanban/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-09-28.md",
+                "file": "Kanban/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,11 +303,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "9cd8315710797cc7",
+  "active": "41a2d125cd6e54f7",
   "lastOpenFiles": [
+    "Diary/2024-09-28.md",
     "InformationRepository/信息19.md",
     "InformationRepository/信息16.md",
-    "Diary/2024-09-28.md",
     "InformationRepository/信息18.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/未命名看板.md",
