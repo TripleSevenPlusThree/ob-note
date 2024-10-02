@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/模型/常规问题.md",
+                "file": "KnowledgeBase/管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -324,16 +325,17 @@
   },
   "active": "f07874ce653f22df",
   "lastOpenFiles": [
+    "KnowledgeBase/管理.md",
+    "Diary/2024-09-28.md",
+    "template/模型/常规问题.md",
     "Kanban/赚钱之道-规划.md",
     "KnowledgeBase/赚钱之道.md",
-    "template/模型/常规问题.md",
     "InformationRepository/信息19.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/国庆计划.md",
     "attachment/~$_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生.docx",
-    "Diary/2024-09-28.md",
     "Kanban/未命名看板.md",
     "InformationRepository/信息16.md",
     "InformationRepository/信息18.md",
@@ -347,7 +349,6 @@
     "Diary/2024-09-27.md",
     "template/模型/解决问题.md",
     "template/模型/讲话.md",
-    "KnowledgeBase/管理.md",
     "InformationRepository/信息17.md",
     "InformationRepository/信息9.md",
     "InformationRepository/信息8.md",
