@@ -73,6 +73,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -326,10 +327,10 @@
   },
   "active": "c9be1b3314b5926e",
   "lastOpenFiles": [
+    "Kanban/国庆计划.md",
+    "Kanban/赚钱之道-规划.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息19.md",
-    "Kanban/赚钱之道-规划.md",
-    "Kanban/国庆计划.md",
     "Diary/2024-09-28.md",
     "Kanban/未命名看板.md",
     "InformationRepository/信息16.md",
