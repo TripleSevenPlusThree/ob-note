@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "template/模型/常规问题.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息19.md",
+                "file": "template/模型/常规问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "template/模型/常规问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "template/模型/常规问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,12 +325,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "61ce6a7a4e1bc386",
+  "active": "9cd8315710797cc7",
   "lastOpenFiles": [
+    "InformationRepository/信息19.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "KnowledgeBase/赚钱之道.md",
     "Kanban/赚钱之道-规划.md",
     "Kanban/国庆计划.md",
-    "KnowledgeBase/赚钱之道.md",
-    "InformationRepository/信息19.md",
     "attachment/~$_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生.docx",
@@ -346,7 +346,6 @@
     "attachment/PixPin_2024-09-29_11-45-13.png",
     "attachment/PixPin_2024-09-29_11-40-40.png",
     "Diary/2024-09-22.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-09-27.md",
     "template/模型/解决问题.md",
     "template/模型/讲话.md",
