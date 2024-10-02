@@ -13,9 +13,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -109,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,7 +225,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,13 +322,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "a7945632cd014b12",
+  "active": "f07874ce653f22df",
   "lastOpenFiles": [
+    "KnowledgeBase/赚钱之道.md",
     "attachment/~$_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生.docx",
     "Kanban/赚钱之道-规划.md",
-    "KnowledgeBase/赚钱之道.md",
     "Kanban/国庆计划.md",
     "InformationRepository/信息19.md",
     "Diary/2024-09-28.md",
@@ -375,7 +372,6 @@
     "InformationRepository",
     "KnowledgeBase/程序",
     "Tags",
-    "template/模型",
     "Excalidraw/未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
