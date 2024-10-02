@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#内容ppt模版制作",
+                "query": "简历",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -327,6 +327,8 @@
   },
   "active": "a7945632cd014b12",
   "lastOpenFiles": [
+    "attachment/~$_内容运营实习生 1.docx",
+    "attachment/简历_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生.docx",
     "Kanban/赚钱之道-规划.md",
     "KnowledgeBase/赚钱之道.md",
@@ -374,8 +376,6 @@
     "KnowledgeBase/程序",
     "Tags",
     "template/模型",
-    "template/模板",
-    "attachment/test.drawio",
     "Excalidraw/未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
