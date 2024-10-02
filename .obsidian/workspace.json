@@ -13,9 +13,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "template/模型/常规问题.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -108,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +225,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/常规问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/常规问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,12 +322,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "9cd8315710797cc7",
+  "active": "f07874ce653f22df",
   "lastOpenFiles": [
+    "Kanban/赚钱之道-规划.md",
+    "KnowledgeBase/赚钱之道.md",
+    "template/模型/常规问题.md",
     "InformationRepository/信息19.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "KnowledgeBase/赚钱之道.md",
-    "Kanban/赚钱之道-规划.md",
     "Kanban/国庆计划.md",
     "attachment/~$_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生 1.docx",
