@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/管理.md"
+                "file": "Kanban/国庆计划.md"
               }
             }
           }
@@ -108,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "Kanban/国庆计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "Kanban/国庆计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +327,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "9cd8315710797cc7",
+  "active": "41a2d125cd6e54f7",
   "lastOpenFiles": [
     "KnowledgeBase/管理.md",
     "Diary/2024-09-28.md",
