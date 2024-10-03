@@ -13,7 +13,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KnowledgeBase/管理.md"
+              }
             }
           }
         ]
@@ -29,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "KnowledgeBase/管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KnowledgeBase/管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,6 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KnowledgeBase/管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,12 +324,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "f07874ce653f22df",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
+    "KnowledgeBase/管理.md",
+    "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息18.md",
     "InformationRepository/信息19.md",
-    "KnowledgeBase/管理.md",
     "Diary/2024-09-28.md",
     "Kanban/赚钱之道-规划.md",
     "Kanban/国庆计划.md",
@@ -370,7 +375,6 @@
     "FuturePlanning",
     "InformationRepository",
     "KnowledgeBase/程序",
-    "Tags",
     "Excalidraw/未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
