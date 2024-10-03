@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/国庆计划.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               }
             }
           }
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/国庆计划.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/国庆计划.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,16 +327,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "41a2d125cd6e54f7",
+  "active": "61ce6a7a4e1bc386",
   "lastOpenFiles": [
+    "Kanban/赚钱之道-规划.md",
+    "Kanban/国庆计划.md",
     "KnowledgeBase/管理.md",
     "Diary/2024-09-28.md",
     "template/模型/常规问题.md",
-    "Kanban/赚钱之道-规划.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息19.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "Kanban/国庆计划.md",
     "attachment/~$_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生.docx",
