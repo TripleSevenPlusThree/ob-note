@@ -13,9 +13,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -26,12 +24,12 @@
         "dimension": 88.20058997050145,
         "children": [
           {
-            "id": "9cd8315710797cc7",
+            "id": "d66408c698b6b3e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "Diary/2024-09-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -228,7 +225,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +286,7 @@
         "dimension": 45.23809523809524,
         "children": [
           {
-            "id": "5def6a4c08022b93",
+            "id": "9cd8315710797cc7",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -304,8 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,14 +321,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "61ce6a7a4e1bc386",
+  "active": "f07874ce653f22df",
   "lastOpenFiles": [
+    "Diary/2024-09-28.md",
+    "Excalidraw/日常.png",
+    "Excalidraw/日常.md",
+    "KnowledgeBase/管理.md",
+    "KnowledgeBase/赚钱之道.md",
     "Kanban/赚钱之道-规划.md",
     "Kanban/国庆计划.md",
-    "KnowledgeBase/管理.md",
-    "Diary/2024-09-28.md",
     "template/模型/常规问题.md",
-    "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息19.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/~$_内容运营实习生 1.docx",
@@ -361,8 +357,6 @@
     "InformationRepository/信息13.md",
     "InformationRepository/信息12.md",
     "InformationRepository/信息11.md",
-    "InformationRepository/信息10.md",
-    "Kanban/2024-09-28.md",
     "Kanban/未命名.canvas",
     "Kanban",
     "Diary/看板/未命名.canvas",
@@ -370,7 +364,6 @@
     "attachment/0197D0B2.png",
     "书籍",
     "attachment/PixPin_2024-09-09_22-01-13.png",
-    "Excalidraw/日常.png",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
