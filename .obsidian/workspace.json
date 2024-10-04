@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "Kanban/国庆计划.md"
               }
             }
           }
@@ -109,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -227,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "Kanban/国庆计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "Kanban/国庆计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +304,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,17 +327,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "61ce6a7a4e1bc386",
+  "active": "41a2d125cd6e54f7",
   "lastOpenFiles": [
+    "Kanban/赚钱之道-规划.md",
+    "KnowledgeBase/赚钱之道.md",
+    "Kanban/国庆计划.md",
     "KnowledgeBase/管理.md",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
-    "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息18.md",
     "InformationRepository/信息19.md",
     "Diary/2024-09-28.md",
-    "Kanban/赚钱之道-规划.md",
-    "Kanban/国庆计划.md",
     "Excalidraw/日常.png",
     "Excalidraw/日常.md",
     "template/模型/常规问题.md",
