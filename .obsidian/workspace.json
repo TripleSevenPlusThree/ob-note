@@ -13,9 +13,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/2024-10-04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -108,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -227,7 +225,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,18 +321,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "f07874ce653f22df",
   "lastOpenFiles": [
-    "KnowledgeBase/管理.md",
+    "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-04.md",
+    "Diary/2024-09-28.md",
     "Kanban/国庆计划.md",
     "Kanban/赚钱之道-规划.md",
-    "KnowledgeBase/赚钱之道.md",
+    "KnowledgeBase/管理.md",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
     "InformationRepository/信息18.md",
     "InformationRepository/信息19.md",
-    "Diary/2024-09-28.md",
     "Excalidraw/日常.png",
     "Excalidraw/日常.md",
     "template/模型/常规问题.md",
