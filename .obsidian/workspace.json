@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/管理.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               }
             }
           }
@@ -108,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,10 +325,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "61ce6a7a4e1bc386",
   "lastOpenFiles": [
-    "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "KnowledgeBase/管理.md",
+    "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息18.md",
@@ -374,7 +375,6 @@
     "attachment/PixPin_2024-08-17_21-09-07.png",
     "FuturePlanning",
     "InformationRepository",
-    "KnowledgeBase/程序",
     "Excalidraw/未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
