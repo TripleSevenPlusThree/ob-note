@@ -226,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diary/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,6 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
