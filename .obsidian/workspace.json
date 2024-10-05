@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "Diary/2024-09-16.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "Diary/2024-09-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "Diary/2024-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
+                "file": "Diary/2024-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,8 +302,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,16 +324,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "Diary/2024-09-15.md",
+    "Diary/2024-09-12.md",
     "Diary/2024-10-05.md",
+    "Kanban/赚钱之道-规划.md",
+    "KnowledgeBase/赚钱之道.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-10-04.md",
     "Diary/2024-09-28.md",
     "template/模型/讲话.md",
     "Kanban/国庆计划.md",
-    "Kanban/赚钱之道-规划.md",
-    "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/管理.md",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
@@ -363,8 +363,6 @@
     "InformationRepository/信息8.md",
     "InformationRepository/信息15.md",
     "InformationRepository/信息14.md",
-    "InformationRepository/信息13.md",
-    "InformationRepository/信息12.md",
     "Kanban/未命名.canvas",
     "Kanban",
     "Diary/看板/未命名.canvas",
