@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-05.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               }
             }
           }
@@ -108,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,11 +326,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "d7244801564c3322",
   "lastOpenFiles": [
+    "Diary/2024-10-05.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-10-04.md",
     "Diary/2024-09-28.md",
-    "Diary/2024-10-05.md",
     "template/模型/讲话.md",
     "Kanban/国庆计划.md",
     "Kanban/赚钱之道-规划.md",
@@ -342,7 +344,6 @@
     "Excalidraw/日常.png",
     "Excalidraw/日常.md",
     "template/模型/常规问题.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/~$_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生 1.docx",
     "attachment/简历_内容运营实习生.docx",
