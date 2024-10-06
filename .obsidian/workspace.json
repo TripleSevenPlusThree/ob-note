@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/国庆计划.md"
+                "file": "KnowledgeBase/管理.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "KnowledgeBase/管理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,8 +100,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/国庆计划.md",
+                "file": "KnowledgeBase/管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/国庆计划.md",
+                "file": "KnowledgeBase/管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,12 +315,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "41a2d125cd6e54f7",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
     "Diary/2024-10-05.md",
+    "Kanban/国庆计划.md",
+    "KnowledgeBase/管理.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/赚钱之道-规划.md",
-    "Kanban/国庆计划.md",
     "Diary/2024-08-14.md",
     "Diary/2024-08-23.md",
     "Diary/2024-09-12.md",
@@ -333,7 +333,6 @@
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-10-04.md",
     "template/模型/讲话.md",
-    "KnowledgeBase/管理.md",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
     "InformationRepository/信息18.md",
