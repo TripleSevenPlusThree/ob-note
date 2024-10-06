@@ -13,7 +13,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diary/2024-10-05.md"
+              }
             }
           }
         ]
@@ -37,7 +39,7 @@
             }
           },
           {
-            "id": "61ce6a7a4e1bc386",
+            "id": "23c19a17bbd4ccbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,14 +49,6 @@
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f07874ce653f22df",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-微信读书",
-              "state": {}
             }
           },
           {
@@ -106,8 +100,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -302,8 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,9 +316,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "f07874ce653f22df",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-05.md",
+    "Kanban/赚钱之道-规划.md",
+    "Kanban/国庆计划.md",
     "Diary/2024-08-14.md",
     "Diary/2024-08-23.md",
     "Diary/2024-09-12.md",
@@ -336,12 +330,9 @@
     "Diary/2024-09-16.md",
     "Diary/2024-09-07.md",
     "Diary/2024-09-15.md",
-    "Kanban/赚钱之道-规划.md",
-    "KnowledgeBase/赚钱之道.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-10-04.md",
     "template/模型/讲话.md",
-    "Kanban/国庆计划.md",
     "KnowledgeBase/管理.md",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
