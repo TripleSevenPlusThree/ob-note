@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-05.md"
+                "file": "Kanban/国庆计划.md"
               }
             }
           }
@@ -100,7 +100,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "Kanban/国庆计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "Kanban/国庆计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,14 +313,13 @@
       "obsidian-custom-frames:Open 秘塔ai": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "pkmer:Open Pkmer Market": false,
-      "obsidian-custom-frames:Open 微信读书": false,
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "41a2d125cd6e54f7",
   "lastOpenFiles": [
-    "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-05.md",
+    "KnowledgeBase/赚钱之道.md",
     "Kanban/赚钱之道-规划.md",
     "Kanban/国庆计划.md",
     "Diary/2024-08-14.md",
