@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/赚钱之道-规划.md"
+                "file": "Diary/2024-10-07.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "Diary/2024-10-07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,8 +100,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/赚钱之道-规划.md",
+                "file": "Diary/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/赚钱之道-规划.md",
+                "file": "Diary/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,17 +316,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "2c936734d6c4b0b3",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "Kanban/国庆计划.md",
     "Diary/2024-10-05.md",
+    "Kanban/赚钱之道-规划.md",
+    "Kanban/国庆计划.md",
     "Diary/2024-10-07.md",
     "InformationRepository/信息19.md",
     "InformationRepository/信息20.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "KnowledgeBase/管理.md",
     "KnowledgeBase/赚钱之道.md",
-    "Kanban/赚钱之道-规划.md",
     "Diary/2024-08-14.md",
     "Diary/2024-08-23.md",
     "Diary/2024-09-12.md",
