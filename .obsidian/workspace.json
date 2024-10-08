@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-07.md"
+                "file": "InformationRepository/信息20.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-07.md",
+                "file": "InformationRepository/信息20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-07.md",
+                "file": "InformationRepository/信息20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-07.md",
+                "file": "InformationRepository/信息20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,9 +317,10 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "Diary/2024-10-07.md",
+    "InformationRepository/信息20.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "Diary/2024-10-05.md",
-    "Diary/2024-10-07.md",
     "KnowledgeBase/管理.md",
     "Kanban/国庆计划.md",
     "KnowledgeBase/赚钱之道.md",
@@ -365,7 +366,6 @@
     "attachment/PixPin_2024-08-18_22-23-15.png",
     "attachment/PixPin_2024-08-17_21-09-07.png",
     "FuturePlanning",
-    "InformationRepository",
     "Excalidraw/未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
