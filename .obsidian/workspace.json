@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息20.md"
+                "file": "Diary/2024-10-07.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息20.md",
+                "file": "Diary/2024-10-07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationRepository/信息20.md",
+                "file": "Diary/2024-10-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationRepository/信息20.md",
+                "file": "Diary/2024-10-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,8 +319,9 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "Diary/2024-10-07.md",
+    "InformationRepository/信息19.md",
     "InformationRepository/信息20.md",
+    "Diary/2024-10-07.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "Diary/2024-10-05.md",
     "KnowledgeBase/管理.md",
@@ -339,7 +342,6 @@
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
     "InformationRepository/信息18.md",
-    "InformationRepository/信息19.md",
     "Excalidraw/日常.png",
     "Excalidraw/日常.md",
     "template/模型/常规问题.md",
