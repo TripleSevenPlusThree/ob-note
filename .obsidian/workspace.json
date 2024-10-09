@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-07.md"
+                "file": "Diary/2024-10-05.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-07.md",
+                "file": "Diary/2024-10-05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-07.md",
+                "file": "Diary/2024-10-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-07.md",
+                "file": "Diary/2024-10-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,10 +318,11 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "Diary/2024-10-05.md",
-    "Kanban/赚钱之道-规划.md",
-    "Kanban/国庆计划.md",
     "Diary/2024-10-07.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Kanban/赚钱之道-规划.md",
+    "Diary/2024-10-05.md",
+    "Kanban/国庆计划.md",
     "InformationRepository/信息19.md",
     "InformationRepository/信息20.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
@@ -335,7 +336,6 @@
     "Diary/2024-09-16.md",
     "Diary/2024-09-07.md",
     "Diary/2024-09-15.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-10-04.md",
     "template/模型/讲话.md",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
