@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-05.md"
+                "file": "Diary/2024-10-09.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "Diary/2024-10-09.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "Diary/2024-10-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-05.md",
+                "file": "Diary/2024-10-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,14 +318,15 @@
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
     "Diary/2024-10-07.md",
+    "Diary/2024-10-09.md",
+    "KnowledgeBase/管理.md",
+    "InformationRepository/信息20.md",
+    "Diary/2024-10-05.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/赚钱之道-规划.md",
-    "Diary/2024-10-05.md",
     "Kanban/国庆计划.md",
     "InformationRepository/信息19.md",
-    "InformationRepository/信息20.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
-    "KnowledgeBase/管理.md",
     "KnowledgeBase/赚钱之道.md",
     "Diary/2024-08-14.md",
     "Diary/2024-08-23.md",
@@ -355,7 +355,6 @@
     "attachment/PixPin_2024-09-29_11-44-18.png",
     "attachment/PixPin_2024-09-29_11-45-13.png",
     "attachment/PixPin_2024-09-29_11-40-40.png",
-    "Diary/2024-09-27.md",
     "Kanban/未命名.canvas",
     "Kanban",
     "Diary/看板/未命名.canvas",
