@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-09.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               }
             }
           }
@@ -100,7 +100,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-09.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-09.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,10 +316,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
-    "Diary/2024-10-07.md",
     "Diary/2024-10-09.md",
+    "Diary/2024-10-07.md",
     "KnowledgeBase/管理.md",
     "InformationRepository/信息20.md",
     "Diary/2024-10-05.md",
