@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -295,7 +296,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,16 +321,16 @@
   "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
     "Diary/2024-10-09.md",
+    "KnowledgeBase/赚钱之道.md",
+    "Kanban/国庆计划.md",
+    "Kanban/赚钱之道-规划.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "InformationRepository/信息20.md",
+    "InformationRepository/信息19.md",
     "Diary/2024-10-07.md",
     "KnowledgeBase/管理.md",
-    "InformationRepository/信息20.md",
     "Diary/2024-10-05.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "Kanban/赚钱之道-规划.md",
-    "Kanban/国庆计划.md",
-    "InformationRepository/信息19.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
-    "KnowledgeBase/赚钱之道.md",
     "Diary/2024-08-14.md",
     "Diary/2024-08-23.md",
     "Diary/2024-09-12.md",
