@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "Kanban/国庆计划.md"
               }
             }
           }
@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -219,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "Kanban/国庆计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "Kanban/国庆计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +296,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,11 +318,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "41a2d125cd6e54f7",
   "lastOpenFiles": [
+    "KnowledgeBase/赚钱之道.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "Excalidraw/学会提问.md",
-    "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息10.md",
     "InformationRepository/信息11.md",
     "InformationRepository/信息12.md",
@@ -365,7 +367,6 @@
     "attachment/PixPin_2024-09-09_22-01-13.png",
     "KnowledgeBase",
     "attachment/PixPin_2024-08-18_22-23-15.png",
-    "attachment/PixPin_2024-08-17_21-09-07.png",
     "FuturePlanning",
     "Excalidraw/未命名.canvas",
     "未命名 2.canvas",
