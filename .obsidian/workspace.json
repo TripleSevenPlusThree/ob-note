@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-11.md"
+                "file": "template/模型/讲话.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-11.md",
+                "file": "template/模型/讲话.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-11.md",
+                "file": "template/模型/讲话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-11.md",
+                "file": "template/模型/讲话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,14 +318,14 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "Diary/2024-10-09.md",
     "Diary/2024-10-11.md",
+    "KnowledgeBase/赚钱之道.md",
+    "Diary/2024-10-09.md",
     "Diary/2024-10-07.md",
     "KnowledgeBase/程序/C++/STL初识/stl常用算法.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "InformationRepository/信息10.md",
     "Kanban/国庆计划.md",
-    "KnowledgeBase/赚钱之道.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "Excalidraw/学会提问.md",
     "InformationRepository/信息11.md",
