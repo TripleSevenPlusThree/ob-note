@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -294,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,7 +317,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "ec047eefbc155b98",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
     "template/模型/解决问题.md",
     "template/模型/常规问题.md",
