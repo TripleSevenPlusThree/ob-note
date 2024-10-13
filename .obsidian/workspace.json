@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 11.799410029498528,
+        "dimension": 9.891196834817013,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -23,7 +23,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 88.20058997050145,
+        "dimension": 90.10880316518298,
         "children": [
           {
             "id": "d66408c698b6b3e4",
@@ -197,8 +197,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -316,7 +315,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "dc61fc345c210628",
+  "active": "ec047eefbc155b98",
   "lastOpenFiles": [
     "Diary/2024-10-11.md",
     "Diary/2024-10-13.md",
