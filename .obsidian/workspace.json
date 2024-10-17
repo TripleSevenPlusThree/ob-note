@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "Diary/2024-10-17.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/经济.md",
+                "file": "Diary/2024-10-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,8 +100,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "Diary/2024-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "Diary/2024-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,13 +315,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
     "InformationRepository/信息22.md",
-    "Diary/2024-10-13.md",
-    "Diary/2024-10-15.md",
     "KnowledgeBase/赚钱之道.md",
+    "Diary/2024-10-15.md",
+    "Diary/2024-10-17.md",
+    "InformationRepository/信息18.md",
+    "InformationRepository/信息16.md",
+    "InformationRepository/信息17.md",
     "KnowledgeBase/经济.md",
+    "Diary/2024-10-13.md",
     "InformationRepository/信息21.md",
     "template/模型/解决问题.md",
     "template/模型/常规问题.md",
@@ -341,10 +344,6 @@
     "InformationRepository/信息12.md",
     "InformationRepository/信息13.md",
     "InformationRepository/信息14.md",
-    "InformationRepository/信息15.md",
-    "InformationRepository/信息16.md",
-    "InformationRepository/信息17.md",
-    "InformationRepository/信息18.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
