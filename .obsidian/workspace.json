@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 9.891196834817013,
+        "dimension": 9.89119683481701,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-13.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               }
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-13.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-13.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-13.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,12 +318,12 @@
   },
   "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
+    "InformationRepository/信息22.md",
+    "Diary/2024-10-13.md",
     "Diary/2024-10-15.md",
     "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/经济.md",
-    "Diary/2024-10-13.md",
     "InformationRepository/信息21.md",
-    "InformationRepository/信息22.md",
     "template/模型/解决问题.md",
     "template/模型/常规问题.md",
     "KnowledgeBase/管理.md",
