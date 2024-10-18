@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-17.md"
+                "file": "template/模型/讲话.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-17.md",
+                "file": "template/模型/讲话.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-17.md",
+                "file": "template/模型/讲话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-10-17.md",
+                "file": "template/模型/讲话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,10 +317,10 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "Diary/2024-10-17.md",
     "InformationRepository/信息22.md",
     "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-15.md",
-    "Diary/2024-10-17.md",
     "InformationRepository/信息18.md",
     "InformationRepository/信息16.md",
     "InformationRepository/信息17.md",
