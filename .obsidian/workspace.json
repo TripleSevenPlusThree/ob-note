@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/模型/讲话.md",
+                "file": "Diary/2024-10-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "讲话"
+              "title": "2024-10-18"
             }
           },
           {
@@ -104,16 +104,18 @@
             "id": "d7244801564c3322",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "KnowledgeBase/赚钱之道.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "未来确定的乐观主义者-规划"
+              "icon": "lucide-file",
+              "title": "赚钱之道"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -335,7 +338,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,13 +360,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "Diary/2024-10-17.md",
-    "Diary/2024-10-18.md",
-    "Diary/2024-10-15.md",
-    "KnowledgeBase/赚钱之道.md",
     "template/模型/讲话.md",
+    "KnowledgeBase/赚钱之道.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Diary/2024-10-18.md",
+    "Diary/2024-10-17.md",
+    "Diary/2024-10-15.md",
     "InformationRepository/信息22.md",
     "InformationRepository/信息18.md",
     "InformationRepository/信息16.md",
@@ -384,7 +389,6 @@
     "Excalidraw/学会提问.md",
     "InformationRepository/信息11.md",
     "InformationRepository/信息12.md",
-    "InformationRepository/信息13.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
