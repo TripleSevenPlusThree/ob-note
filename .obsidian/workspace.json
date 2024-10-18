@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 9.89119683481701,
+        "dimension": 9.891196834817007,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,8 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/讲话.md"
-              }
+                "file": "KnowledgeBase/赚钱之道.md"
+              },
+              "icon": "lucide-list",
+              "title": "赚钱之道 的大纲"
             }
           }
         ]
@@ -35,7 +37,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "讲话"
             }
           },
           {
@@ -48,7 +52,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "赚钱之道"
             }
           },
           {
@@ -69,7 +75,9 @@
                     false
                   ]
                 }
-              }
+              },
+              "icon": "lucide-trello",
+              "title": "赚钱之道-规划"
             }
           },
           {
@@ -87,7 +95,9 @@
                     false
                   ]
                 }
-              }
+              },
+              "icon": "lucide-trello",
+              "title": "国庆计划"
             }
           },
           {
@@ -97,10 +107,13 @@
               "type": "excalidraw",
               "state": {
                 "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -136,7 +151,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -144,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -155,7 +174,9 @@
               "state": {
                 "sortOrder": "alphabeticalReverse",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ]
@@ -170,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-通义千问",
-              "state": {}
+              "state": {},
+              "icon": "lucide-cake-slice",
+              "title": "通义千问"
             }
           },
           {
@@ -178,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-kimi",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bot",
+              "title": "kimi"
             }
           },
           {
@@ -186,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-dpl",
-              "state": {}
+              "state": {},
+              "icon": "lucide-book-a",
+              "title": "DPL"
             }
           },
           {
@@ -194,14 +221,17 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-秘塔ai",
-              "state": {}
+              "state": {},
+              "icon": "lucide-search",
+              "title": "秘塔ai"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -218,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/模型/讲话.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +256,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "赚钱之道 的反向链接列表"
             }
           },
           {
@@ -235,10 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/模型/讲话.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "赚钱之道 的出链列表"
             }
           },
           {
@@ -246,7 +280,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -254,7 +290,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -270,7 +308,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ]
@@ -287,14 +327,17 @@
               "type": "image",
               "state": {
                 "file": "Excalidraw/日常.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "日常"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,8 +358,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
+    "template/模型/讲话.md",
     "Diary/2024-10-17.md",
     "InformationRepository/信息22.md",
     "KnowledgeBase/赚钱之道.md",
@@ -331,7 +375,6 @@
     "template/模型/常规问题.md",
     "KnowledgeBase/管理.md",
     "Diary/2024-10-11.md",
-    "template/模型/讲话.md",
     "Diary/2024-10-09.md",
     "Diary/2024-10-07.md",
     "KnowledgeBase/程序/C++/STL初识/stl常用算法.md",
