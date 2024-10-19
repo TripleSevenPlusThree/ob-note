@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息23.md"
+                "file": "Diary/2024-10-18.md"
               },
               "icon": "lucide-list",
-              "title": "信息23 的大纲"
+              "title": "2024-10-18 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息23.md",
+                "file": "Diary/2024-10-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息23"
+              "title": "2024-10-18"
             }
           },
           {
@@ -357,6 +357,10 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "Diary/2024-10-19.md",
+    "InformationRepository/信息16.md",
+    "InformationRepository/信息19.md",
+    "InformationRepository/信息20.md",
     "Diary/2024-10-18.md",
     "InformationRepository/信息23.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -366,7 +370,6 @@
     "template/模型/讲话.md",
     "InformationRepository/信息22.md",
     "InformationRepository/信息18.md",
-    "InformationRepository/信息16.md",
     "InformationRepository/信息17.md",
     "KnowledgeBase/经济.md",
     "Diary/2024-10-13.md",
@@ -380,10 +383,7 @@
     "KnowledgeBase/程序/C++/STL初识/stl常用算法.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "InformationRepository/信息10.md",
-    "Kanban/国庆计划.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
-    "Excalidraw/学会提问.md",
-    "InformationRepository/信息11.md",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
