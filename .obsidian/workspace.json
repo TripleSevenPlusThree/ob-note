@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-20.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-20 的大纲"
+              "title": "赚钱之道 的大纲"
             }
           }
         ]
@@ -112,7 +112,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -334,7 +336,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,11 +358,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
+    "Diary/2024-10-20.md",
     "Diary/2024-09-28.md",
     "Diary/2024-10-05.md",
-    "Diary/2024-10-20.md",
     "KnowledgeBase/经济.md",
     "KnowledgeBase/管理.md",
     "KnowledgeBase/赚钱之道.md",
