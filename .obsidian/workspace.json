@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/管理.md"
+                "file": "Diary/2024-10-20.md"
               },
               "icon": "lucide-list",
-              "title": "管理 的大纲"
+              "title": "2024-10-20 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "Diary/2024-10-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "管理"
+              "title": "2024-10-20"
             }
           },
           {
@@ -334,8 +334,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,6 +357,7 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "KnowledgeBase/管理.md",
     "Diary/2024-10-20.md",
     "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-19.md",
@@ -382,7 +382,6 @@
     "InformationRepository/信息21.md",
     "template/模型/解决问题.md",
     "template/模型/常规问题.md",
-    "KnowledgeBase/管理.md",
     "Diary/2024-10-09.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
