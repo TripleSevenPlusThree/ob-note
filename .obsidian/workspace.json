@@ -334,8 +334,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,8 +357,10 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "KnowledgeBase/经济.md",
+    "Diary/2024-09-28.md",
+    "Diary/2024-10-05.md",
     "Diary/2024-10-20.md",
+    "KnowledgeBase/经济.md",
     "KnowledgeBase/管理.md",
     "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-19.md",
@@ -367,7 +368,6 @@
     "Diary/2024-10-18.md",
     "Diary/2024-10-11.md",
     "Diary/2024-10-15.md",
-    "Diary/2024-10-05.md",
     "Kanban/赚钱之道-规划.md",
     "Kanban/国庆计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -383,7 +383,6 @@
     "InformationRepository/信息21.md",
     "template/模型/解决问题.md",
     "template/模型/常规问题.md",
-    "Diary/2024-10-09.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
