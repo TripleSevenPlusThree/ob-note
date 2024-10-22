@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 11.848341232227488,
+        "dimension": 9.896091044037606,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 88.15165876777252,
+        "dimension": 90.1039089559624,
         "children": [
           {
             "id": "d66408c698b6b3e4",
@@ -315,8 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,13 +336,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "8e20264463e91529",
   "lastOpenFiles": [
-    "KnowledgeBase/讲好故事，讲好例子.md",
-    "template/模型/讲话.md",
-    "Diary/2024-10-20.md",
+    "Diary/2024-08-14.md",
     "KnowledgeBase/赚钱之道.md",
+    "template/模型/讲话.md",
     "Kanban/赚钱之道-规划.md",
+    "KnowledgeBase/讲好故事，讲好例子.md",
+    "Diary/2024-10-20.md",
     "Kanban/国庆计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-09-28.md",
@@ -364,7 +364,6 @@
     "InformationRepository/信息17.md",
     "Diary/2024-10-13.md",
     "InformationRepository/信息21.md",
-    "template/模型/解决问题.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
