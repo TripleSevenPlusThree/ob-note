@@ -48,13 +48,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md",
+                "file": "Diary/2024-10-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "赚钱之道"
+              "title": "2024-10-24"
             }
           },
           {
@@ -112,7 +112,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-10-18.md",
+                "file": "Diary/2024-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +258,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-10-18 的反向链接列表"
+              "title": "2024-10-24 的反向链接列表"
             }
           },
           {
@@ -335,8 +336,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -357,19 +357,19 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
+    "Diary/2024-10-22.md",
     "KnowledgeBase/赚钱之道.md",
+    "Diary/2024-10-24.md",
     "Kanban/零散计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "Diary/2024-10-24.md",
     "Kanban/国庆计划.md",
     "Kanban/赚钱之道-规划.md",
     "Diary/2024-10-20.md",
     "InformationRepository/信息23.md",
     "KnowledgeBase/技能总结/Excel.md",
     "InformationRepository/信息21.md",
-    "Diary/2024-10-22.md",
     "template/模型/讲话.md",
     "Diary/2024-08-14.md",
     "KnowledgeBase/讲好故事，讲好例子.md",
