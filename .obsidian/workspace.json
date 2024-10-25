@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-24.md"
+                "file": "KnowledgeBase/技能总结/Excel.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-24 的大纲"
+              "title": "Excel 的大纲"
             }
           }
         ]
@@ -48,13 +48,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-24.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-24"
+              "title": "赚钱之道"
             }
           },
           {
@@ -78,6 +78,21 @@
               },
               "icon": "lucide-trello",
               "title": "赚钱之道-规划"
+            }
+          },
+          {
+            "id": "8fd1aa679cdd8869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KnowledgeBase/技能总结/Excel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Excel"
             }
           },
           {
@@ -113,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -358,11 +372,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
-    "Diary/2024-10-22.md",
     "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-24.md",
+    "Diary/2024-10-22.md",
     "Kanban/零散计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/国庆计划.md",
