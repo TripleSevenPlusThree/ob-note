@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-24.md"
+                "file": "KnowledgeBase/技能总结/Excel.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-24 的大纲"
+              "title": "Excel 的大纲"
             }
           }
         ]
@@ -127,7 +127,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -372,8 +373,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "8fd1aa679cdd8869",
   "lastOpenFiles": [
+    "Diary/2024-10-24.md",
     "Diary/2024-10-18.md",
     "Diary/2024-10-26.md",
     "KnowledgeBase/技能总结/Excel.md",
@@ -386,7 +388,6 @@
     "Diary/2024-10-20.md",
     "Diary/2024-10-13.md",
     "Diary/2024-10-15.md",
-    "Diary/2024-10-24.md",
     "Diary/2024-10-22.md",
     "Diary/2024-10-19.md",
     "Diary/2024-10-17.md",
