@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 7.547169811320759,
+        "dimension": 9.886307464162135,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/技能总结/Excel.md"
+                "file": "Diary/2024-10-18.md"
               },
               "icon": "lucide-list",
-              "title": "Excel 的大纲"
+              "title": "2024-10-18 的大纲"
             }
           }
         ]
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 92.45283018867924,
+        "dimension": 90.11369253583787,
         "children": [
           {
             "id": "d66408c698b6b3e4",
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-26.md",
+                "file": "Diary/2024-10-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-26"
+              "title": "2024-10-18"
             }
           },
           {
@@ -127,8 +127,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,7 +244,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -350,7 +350,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -371,12 +372,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8fd1aa679cdd8869",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "Diary/2024-10-26.md",
+    "KnowledgeBase/技能总结/Excel.md",
     "Kanban/赚钱之道-规划.md",
     "Kanban/零散计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "Diary/2024-10-26.md",
     "Diary/2024-10-05.md",
     "Diary/2024-10-11.md",
     "Diary/2024-10-07.md",
@@ -395,7 +397,6 @@
     "InformationRepository/信息-10月份.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息23.md",
-    "KnowledgeBase/技能总结/Excel.md",
     "Kanban/国庆计划.md",
     "InformationRepository/信息21.md",
     "template/模型/讲话.md",
