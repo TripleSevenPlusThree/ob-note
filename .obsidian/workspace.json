@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-26.md"
+                "file": "KnowledgeBase/程序/python/选择多文件操作.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-26 的大纲"
+              "title": "选择多文件操作 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-26.md",
+                "file": "KnowledgeBase/程序/python/选择多文件操作.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-26"
+              "title": "选择多文件操作"
             }
           },
           {
@@ -372,8 +372,10 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "InformationRepository/信息-10月份.md",
+    "KnowledgeBase/程序/python/基础知识.md",
+    "KnowledgeBase/程序/python/测试.md",
     "Diary/2024-10-26.md",
+    "InformationRepository/信息-10月份.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息23.md",
     "Diary/2024-10-24.md",
@@ -396,8 +398,6 @@
     "Diary/2024-10-18.md",
     "Diary/2024-10-11.md",
     "Diary/2024-10-15.md",
-    "InformationRepository/信息16.md",
-    "InformationRepository/信息19.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
