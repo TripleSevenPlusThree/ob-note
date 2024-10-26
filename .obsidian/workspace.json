@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-26.md"
+                "file": "KnowledgeBase/技能总结/Excel.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-26 的大纲"
+              "title": "Excel 的大纲"
             }
           }
         ]
@@ -127,7 +127,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -350,8 +350,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -372,21 +371,24 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "8fd1aa679cdd8869",
   "lastOpenFiles": [
-    "Diary/2024-10-18.md",
+    "Kanban/赚钱之道-规划.md",
+    "Kanban/零散计划.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-10-26.md",
+    "Diary/2024-10-05.md",
+    "Diary/2024-10-11.md",
+    "Diary/2024-10-07.md",
+    "Diary/2024-10-20.md",
+    "Diary/2024-10-13.md",
+    "Diary/2024-10-18.md",
+    "Diary/2024-10-15.md",
     "Diary/2024-10-24.md",
     "Diary/2024-10-22.md",
-    "Diary/2024-10-20.md",
     "Diary/2024-10-19.md",
     "Diary/2024-10-17.md",
-    "Diary/2024-10-15.md",
-    "Diary/2024-10-13.md",
-    "Diary/2024-10-11.md",
     "Diary/2024-10-09.md",
-    "Diary/2024-10-07.md",
-    "Diary/2024-10-05.md",
     "KnowledgeBase/程序/python/选择多文件操作.md",
     "KnowledgeBase/程序/python/基础知识.md",
     "KnowledgeBase/程序/python/测试.md",
@@ -394,10 +396,7 @@
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息23.md",
     "KnowledgeBase/技能总结/Excel.md",
-    "Kanban/零散计划.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/国庆计划.md",
-    "Kanban/赚钱之道-规划.md",
     "InformationRepository/信息21.md",
     "template/模型/讲话.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
