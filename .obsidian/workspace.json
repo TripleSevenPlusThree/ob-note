@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/技能总结/Excel.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               },
               "icon": "lucide-list",
-              "title": "Excel 的大纲"
+              "title": "赚钱之道 的大纲"
             }
           }
         ]
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -371,13 +371,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8fd1aa679cdd8869",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
+    "Kanban/赚钱之道-规划.md",
     "Diary/2024-10-24.md",
     "KnowledgeBase/技能总结/Excel.md",
     "Diary/2024-10-18.md",
     "Diary/2024-10-26.md",
-    "Kanban/赚钱之道-规划.md",
     "Kanban/零散计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Diary/2024-10-05.md",
