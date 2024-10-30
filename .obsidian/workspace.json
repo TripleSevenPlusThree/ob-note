@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息10.md"
+                "file": "InformationRepository/信息19.md"
               },
               "icon": "lucide-list",
-              "title": "信息10 的大纲"
+              "title": "信息19 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息10.md",
+                "file": "InformationRepository/信息19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息10"
+              "title": "信息19"
             }
           },
           {
@@ -373,7 +373,17 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "InformationRepository/信息1.md",
+    "InformationRepository/信息-2024.10.md",
+    "InformationRepository/信息18.md",
+    "InformationRepository/信息17.md",
+    "InformationRepository/信息16.md",
+    "InformationRepository/信息15.md",
+    "InformationRepository/信息14.md",
+    "InformationRepository/信息-2024.9.md",
+    "InformationRepository/信息-10月份.md",
+    "InformationRepository/信息12.md",
+    "InformationRepository/信息11.md",
+    "InformationRepository/信息10.md",
     "InformationRepository/信息9.md",
     "template/模板/信息处理.md",
     "KnowledgeBase/赚钱之道.md",
@@ -386,19 +396,9 @@
     "InformationRepository/信息3.md",
     "InformationRepository/信息2.md",
     "InformationRepository/信息23.md",
-    "InformationRepository/信息-10月份.md",
     "Kanban/赚钱之道-规划.md",
     "KnowledgeBase/技能总结/Excel.md",
     "Diary/2024-10-18.md",
-    "Diary/2024-10-26.md",
-    "Kanban/零散计划.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "Diary/2024-10-05.md",
-    "Diary/2024-10-11.md",
-    "Diary/2024-10-07.md",
-    "Diary/2024-10-20.md",
-    "Diary/2024-10-13.md",
-    "Diary/2024-10-15.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
