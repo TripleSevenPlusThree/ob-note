@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息1.md"
+                "file": "InformationRepository/信息10.md"
               },
               "icon": "lucide-list",
-              "title": "信息1 的大纲"
+              "title": "信息10 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-24.md",
+                "file": "InformationRepository/信息10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-24"
+              "title": "信息10"
             }
           },
           {
@@ -48,13 +48,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息1.md",
+                "file": "KnowledgeBase/赚钱之道.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息1"
+              "title": "赚钱之道"
             }
           },
           {
@@ -127,8 +127,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -372,10 +371,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "InformationRepository/信息8.md",
     "InformationRepository/信息1.md",
+    "InformationRepository/信息9.md",
+    "template/模板/信息处理.md",
+    "KnowledgeBase/赚钱之道.md",
+    "Diary/2024-10-24.md",
+    "InformationRepository/信息8.md",
     "InformationRepository/信息7.md",
     "InformationRepository/信息6.md",
     "InformationRepository/信息5.md",
@@ -384,9 +387,7 @@
     "InformationRepository/信息2.md",
     "InformationRepository/信息23.md",
     "InformationRepository/信息-10月份.md",
-    "KnowledgeBase/赚钱之道.md",
     "Kanban/赚钱之道-规划.md",
-    "Diary/2024-10-24.md",
     "KnowledgeBase/技能总结/Excel.md",
     "Diary/2024-10-18.md",
     "Diary/2024-10-26.md",
@@ -398,8 +399,6 @@
     "Diary/2024-10-20.md",
     "Diary/2024-10-13.md",
     "Diary/2024-10-15.md",
-    "Diary/2024-10-22.md",
-    "Diary/2024-10-19.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
