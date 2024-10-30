@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息19.md"
+                "file": "InformationRepository/信息-2024.10.md"
               },
               "icon": "lucide-list",
-              "title": "信息19 的大纲"
+              "title": "信息-2024.10 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息19.md",
+                "file": "InformationRepository/信息-2024.10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息19"
+              "title": "信息-2024.10"
             }
           },
           {
@@ -373,6 +373,7 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "InformationRepository/信息19.md",
     "InformationRepository/信息-2024.10.md",
     "InformationRepository/信息18.md",
     "InformationRepository/信息17.md",
@@ -398,7 +399,6 @@
     "InformationRepository/信息23.md",
     "Kanban/赚钱之道-规划.md",
     "KnowledgeBase/技能总结/Excel.md",
-    "Diary/2024-10-18.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
