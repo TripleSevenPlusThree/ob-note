@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息23.md"
+                "file": "InformationRepository/信息1.md"
               },
               "icon": "lucide-list",
-              "title": "信息23 的大纲"
+              "title": "信息1 的大纲"
             }
           }
         ]
@@ -48,13 +48,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息23.md",
+                "file": "InformationRepository/信息1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息23"
+              "title": "信息1"
             }
           },
           {
@@ -350,7 +350,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -373,6 +374,15 @@
   },
   "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
+    "InformationRepository/信息8.md",
+    "InformationRepository/信息1.md",
+    "InformationRepository/信息7.md",
+    "InformationRepository/信息6.md",
+    "InformationRepository/信息5.md",
+    "InformationRepository/信息4.md",
+    "InformationRepository/信息3.md",
+    "InformationRepository/信息2.md",
+    "InformationRepository/信息23.md",
     "InformationRepository/信息-10月份.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/赚钱之道-规划.md",
@@ -390,15 +400,6 @@
     "Diary/2024-10-15.md",
     "Diary/2024-10-22.md",
     "Diary/2024-10-19.md",
-    "Diary/2024-10-17.md",
-    "Diary/2024-10-09.md",
-    "KnowledgeBase/程序/python/选择多文件操作.md",
-    "KnowledgeBase/程序/python/基础知识.md",
-    "KnowledgeBase/程序/python/测试.md",
-    "InformationRepository/信息23.md",
-    "Kanban/国庆计划.md",
-    "InformationRepository/信息21.md",
-    "template/模型/讲话.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
