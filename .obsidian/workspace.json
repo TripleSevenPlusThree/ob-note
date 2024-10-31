@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               },
               "icon": "lucide-list",
-              "title": "赚钱之道 的大纲"
+              "title": "未来确定的乐观主义者-规划 的大纲"
             }
           }
         ]
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -372,8 +372,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "d7244801564c3322",
   "lastOpenFiles": [
+    "KnowledgeBase/赚钱之道.md",
     "Kanban/赚钱之道-规划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/解决问题.md",
@@ -397,7 +398,6 @@
     "InformationRepository/信息10.md",
     "InformationRepository/信息9.md",
     "template/模板/信息处理.md",
-    "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-24.md",
     "InformationRepository/信息8.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
