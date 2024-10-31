@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/零散计划.md"
+                "file": "InformationRepository/信息-2024.10.md"
               },
               "icon": "lucide-list",
-              "title": "零散计划 的大纲"
+              "title": "信息-2024.10 的大纲"
             }
           }
         ]
@@ -127,8 +127,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -372,11 +371,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
+    "Kanban/零散计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/技能总结/Excel.md",
-    "Kanban/零散计划.md",
     "InformationRepository/信息-2024.10.md",
     "InformationRepository/信息-2024.9.md",
     "InformationRepository/信息23.md",
