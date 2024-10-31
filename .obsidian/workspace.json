@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               },
               "icon": "lucide-list",
-              "title": "未来确定的乐观主义者-规划 的大纲"
+              "title": "赚钱之道 的大纲"
             }
           }
         ]
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -372,10 +372,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
-    "template/模型/解决问题.md",
+    "Kanban/赚钱之道-规划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "template/模型/解决问题.md",
     "Kanban/零散计划.md",
     "KnowledgeBase/技能总结/Excel.md",
     "InformationRepository/信息-2024.10.md",
@@ -399,7 +400,6 @@
     "KnowledgeBase/赚钱之道.md",
     "Diary/2024-10-24.md",
     "InformationRepository/信息8.md",
-    "InformationRepository/信息7.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
