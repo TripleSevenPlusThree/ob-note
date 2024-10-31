@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "Diary/2024-10-31.md"
               },
               "icon": "lucide-list",
-              "title": "未来确定的乐观主义者-规划 的大纲"
+              "title": "2024-10-31 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息-2024.10.md",
+                "file": "Diary/2024-10-31.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息-2024.10"
+              "title": "2024-10-31"
             }
           },
           {
@@ -127,8 +127,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,10 +159,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "简历",
+                "query": "tag:#内容PPT让领导满意",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -245,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -351,8 +349,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -373,15 +370,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
+    "InformationRepository/信息-2024.10.md",
+    "Kanban/零散计划.md",
+    "Diary/2024-10-31.md",
+    "Kanban/未命名看板.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/赚钱之道-规划.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "template/模型/解决问题.md",
-    "Kanban/零散计划.md",
     "KnowledgeBase/技能总结/Excel.md",
-    "InformationRepository/信息-2024.10.md",
     "InformationRepository/信息-2024.9.md",
     "InformationRepository/信息23.md",
     "InformationRepository/信息22.md",
@@ -399,8 +398,6 @@
     "InformationRepository/信息10.md",
     "InformationRepository/信息9.md",
     "template/模板/信息处理.md",
-    "Diary/2024-10-24.md",
-    "InformationRepository/信息8.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
