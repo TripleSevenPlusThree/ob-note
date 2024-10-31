@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息-2024.10.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               },
               "icon": "lucide-list",
-              "title": "信息-2024.10 的大纲"
+              "title": "未来确定的乐观主义者-规划 的大纲"
             }
           }
         ]
@@ -127,7 +127,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -244,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884
+    "width": 651.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -371,10 +373,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d66408c698b6b3e4",
+  "active": "d7244801564c3322",
   "lastOpenFiles": [
-    "Kanban/零散计划.md",
+    "template/模型/解决问题.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Kanban/零散计划.md",
     "KnowledgeBase/技能总结/Excel.md",
     "InformationRepository/信息-2024.10.md",
     "InformationRepository/信息-2024.9.md",
@@ -398,7 +401,6 @@
     "Diary/2024-10-24.md",
     "InformationRepository/信息8.md",
     "InformationRepository/信息7.md",
-    "InformationRepository/信息6.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
