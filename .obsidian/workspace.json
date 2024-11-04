@@ -244,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -350,8 +349,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,19 +372,19 @@
   },
   "active": "d66408c698b6b3e4",
   "lastOpenFiles": [
-    "Diary/2024-11-02.md",
-    "Diary/2024-11-04.md",
-    "Diary/2024-10-31.md",
-    "Kanban/零散计划.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/赚钱之道.md",
+    "KnowledgeBase/技能总结/Excel.md",
+    "Kanban/零散计划.md",
+    "Diary/2024-11-04.md",
+    "Diary/2024-11-02.md",
+    "Diary/2024-10-31.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
     "attachment/a5c1411587a65a21b05b640f5c75de5.jpg",
     "InformationRepository/信息-2024.10.md",
     "Kanban/未命名看板.md",
     "Kanban/赚钱之道-规划.md",
     "template/模型/解决问题.md",
-    "KnowledgeBase/技能总结/Excel.md",
     "InformationRepository/信息-2024.9.md",
     "InformationRepository/信息23.md",
     "InformationRepository/信息22.md",
