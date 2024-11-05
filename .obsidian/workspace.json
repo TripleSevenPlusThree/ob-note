@@ -245,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -375,8 +374,9 @@
   },
   "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
-    "Diary/2024-11-04.md",
+    "KnowledgeBase/经济.md",
     "project/经济与社会发展研究项目.md",
+    "Diary/2024-11-04.md",
     "KnowledgeBase/赚钱之道.md",
     "project/简历_内容运营实习生.pdf",
     "project/PixPin_2024-11-04_19-14-07.png",
