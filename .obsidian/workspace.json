@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/经济与社会发展研究项目.md"
+                "file": "InformationRepository/信息-2024.9.md"
               },
               "icon": "lucide-list",
-              "title": "经济与社会发展研究项目 的大纲"
+              "title": "信息-2024.9 的大纲"
             }
           }
         ]
@@ -48,13 +48,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/经济与社会发展研究项目.md",
+                "file": "InformationRepository/信息-2024.9.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "经济与社会发展研究项目"
+              "title": "信息-2024.9"
             }
           },
           {
@@ -245,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -375,8 +374,9 @@
   },
   "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
-    "KnowledgeBase/经济.md",
+    "InformationRepository/信息-2024.10.md",
     "project/经济与社会发展研究项目.md",
+    "KnowledgeBase/经济.md",
     "Diary/2024-11-04.md",
     "KnowledgeBase/赚钱之道.md",
     "project/简历_内容运营实习生.pdf",
@@ -393,7 +393,6 @@
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
     "attachment/a5c1411587a65a21b05b640f5c75de5.jpg",
-    "InformationRepository/信息-2024.10.md",
     "Kanban/未命名看板.md",
     "Kanban/赚钱之道-规划.md",
     "template/模型/解决问题.md",
