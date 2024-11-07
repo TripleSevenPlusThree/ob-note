@@ -58,6 +58,18 @@
             }
           },
           {
+            "id": "ab680f23048cefa0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "1d59e456bee206bc",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -372,7 +384,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "ab680f23048cefa0",
   "lastOpenFiles": [
     "attachment/微信图片_20241106170231.jpg",
     "attachment/PixPin_2024-11-06_16-47-24.png",
