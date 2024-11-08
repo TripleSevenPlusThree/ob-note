@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               },
               "icon": "lucide-list",
-              "title": "未来确定的乐观主义者-规划 的大纲"
+              "title": "赚钱之道 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -364,8 +364,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "1d59e456bee206bc",
   "lastOpenFiles": [
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/赚钱之道.md",
     "project/经济与社会发展研究项目.md",
     "Kanban/赚钱之道-规划.md",
@@ -388,7 +389,6 @@
     "Kanban/零散计划.md",
     "Diary/2024-11-02.md",
     "Diary/2024-10-31.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
     "attachment/a5c1411587a65a21b05b640f5c75de5.jpg",
     "Kanban/未命名看板.md",
