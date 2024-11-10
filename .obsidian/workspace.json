@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "Kanban/零散计划.md"
               },
               "icon": "lucide-list",
-              "title": "赚钱之道 的大纲"
+              "title": "零散计划 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -364,11 +364,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "1d59e456bee206bc",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "KnowledgeBase/赚钱之道.md",
     "project/经济与社会发展研究项目.md",
+    "KnowledgeBase/赚钱之道.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/赚钱之道-规划.md",
     "Diary/2024-11-04.md",
     "attachment/微信图片_20241106170231.jpg",
