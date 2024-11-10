@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/零散计划.md"
+                "file": "InformationRepository/信息-2024.11.md"
               },
               "icon": "lucide-list",
-              "title": "零散计划 的大纲"
+              "title": "信息-2024.11 的大纲"
             }
           }
         ]
@@ -91,20 +91,15 @@
             "id": "e2ed2f0ec7f0e4fa",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/零散计划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "InformationRepository/信息-2024.11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "零散计划"
+              "icon": "lucide-file",
+              "title": "信息-2024.11"
             }
           },
           {
@@ -366,6 +361,8 @@
   },
   "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "Kanban/零散计划.md",
+    "InformationRepository/信息-2024.11.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/赚钱之道.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -386,7 +383,6 @@
     "project/简历_基本版.docx",
     "project",
     "KnowledgeBase/技能总结/Excel.md",
-    "Kanban/零散计划.md",
     "Diary/2024-11-02.md",
     "Diary/2024-10-31.md",
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
