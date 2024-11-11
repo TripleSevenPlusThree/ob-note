@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/经济与社会发展研究项目.md"
+                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
               },
               "icon": "lucide-list",
-              "title": "经济与社会发展研究项目 的大纲"
+              "title": "未来确定的乐观主义者-规划 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -363,16 +363,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "d7244801564c3322",
   "lastOpenFiles": [
-    "KnowledgeBase/赚钱之道.md",
+    "project/经济与社会发展研究项目.md",
+    "Kanban/零散计划.md",
     "InformationRepository/信息-2024.11.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "KnowledgeBase/赚钱之道.md",
     "Diary/2024-11-04.md",
     "Diary/2024-11-02.md",
-    "Kanban/零散计划.md",
     "KnowledgeBase/技能总结/Excel.md",
-    "project/经济与社会发展研究项目.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/赚钱之道-规划.md",
     "attachment/微信图片_20241106170231.jpg",
     "attachment/PixPin_2024-11-06_16-47-24.png",
