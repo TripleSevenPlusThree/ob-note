@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/零散计划.md"
+                "file": "project/经济与社会发展研究项目.md"
               },
               "icon": "lucide-list",
-              "title": "零散计划 的大纲"
+              "title": "经济与社会发展研究项目 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-11-04.md",
+                "file": "InformationRepository/信息-2024.11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-04"
+              "title": "信息-2024.11"
             }
           },
           {
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -342,8 +342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -364,14 +363,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
-    "KnowledgeBase/技能总结/Excel.md",
-    "Kanban/零散计划.md",
+    "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息-2024.11.md",
     "Diary/2024-11-04.md",
+    "Diary/2024-11-02.md",
+    "Kanban/零散计划.md",
+    "KnowledgeBase/技能总结/Excel.md",
     "project/经济与社会发展研究项目.md",
-    "KnowledgeBase/赚钱之道.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/赚钱之道-规划.md",
     "attachment/微信图片_20241106170231.jpg",
@@ -388,7 +388,6 @@
     "project/简历_基本版 1.docx",
     "project/简历_基本版.docx",
     "project",
-    "Diary/2024-11-02.md",
     "Diary/2024-10-31.md",
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
     "attachment/a5c1411587a65a21b05b640f5c75de5.jpg",
