@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "KnowledgeBase/程序/数据结构与算法/问题求解.md"
               },
               "icon": "lucide-list",
-              "title": "未来确定的乐观主义者-规划 的大纲"
+              "title": "问题求解 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InformationRepository/信息-2024.11.md",
+                "file": "KnowledgeBase/程序/数据结构与算法/问题求解.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息-2024.11"
+              "title": "问题求解"
             }
           },
           {
@@ -119,8 +119,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#内容PPT让领导满意",
+                "query": "机器学习",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -363,12 +362,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
-    "project/经济与社会发展研究项目.md",
-    "Kanban/零散计划.md",
+    "KnowledgeBase/技能总结/计算机科学.md",
     "InformationRepository/信息-2024.11.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "project/经济与社会发展研究项目.md",
+    "Kanban/零散计划.md",
     "KnowledgeBase/赚钱之道.md",
     "Diary/2024-11-04.md",
     "Diary/2024-11-02.md",
@@ -403,7 +403,6 @@
     "InformationRepository/信息16.md",
     "InformationRepository/信息15.md",
     "InformationRepository/信息14.md",
-    "InformationRepository/信息-10月份.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
