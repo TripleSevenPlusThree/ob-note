@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/经济与社会发展研究项目.md"
+                "file": "Kanban/零散计划.md"
               },
               "icon": "lucide-list",
-              "title": "经济与社会发展研究项目 的大纲"
+              "title": "零散计划 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5119791030884,
-    "collapsed": true
+    "width": 651.5119791030884
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -365,13 +364,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
-    "InformationRepository/信息-2024.11.md",
     "KnowledgeBase/技能总结/数据分析.md",
+    "project/经济与社会发展研究项目.md",
+    "KnowledgeBase/程序/项目(project)/c++线程池/c++线程库的基本使用.md",
+    "KnowledgeBase/程序/C++/STL初识/仿函数.md",
+    "KnowledgeBase/程序/数据库-MySQL/数据库基础概念.md",
+    "InformationRepository/信息-2024.11.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/零散计划.md",
-    "project/经济与社会发展研究项目.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/程序/数据结构与算法/问题求解.md",
     "KnowledgeBase/技能总结/计算机科学.md",
@@ -403,9 +405,6 @@
     "InformationRepository/信息20.md",
     "InformationRepository/信息19.md",
     "InformationRepository/信息18.md",
-    "InformationRepository/信息17.md",
-    "InformationRepository/信息16.md",
-    "InformationRepository/信息15.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
