@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/技能总结/Excel.md"
+                "file": "KnowledgeBase/技能总结/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "Excel 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -78,13 +78,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/技能总结/Excel.md",
+                "file": "KnowledgeBase/技能总结/数据分析.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel"
+              "title": "数据分析"
             }
           },
           {
@@ -376,7 +376,7 @@
     "Kanban/零散计划.md",
     "Diary/2024-11-04.md",
     "Diary/2024-11-02.md",
-    "KnowledgeBase/技能总结/Excel.md",
+    "KnowledgeBase/技能总结/数据分析.md",
     "Kanban/赚钱之道-规划.md",
     "attachment/微信图片_20241106170231.jpg",
     "attachment/PixPin_2024-11-06_16-47-24.png",
