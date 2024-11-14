@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationRepository/信息-2024.11.md"
+                "file": "KnowledgeBase/技能总结/Excel.md"
               },
               "icon": "lucide-list",
-              "title": "信息-2024.11 的大纲"
+              "title": "Excel 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -365,10 +365,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "8fd1aa679cdd8869",
   "lastOpenFiles": [
-    "project/经济与社会发展研究项目.md",
     "InformationRepository/信息-2024.11.md",
+    "project/经济与社会发展研究项目.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/程序/数据结构与算法/问题求解.md",
