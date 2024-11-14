@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/技能总结/数据分析.md"
+                "file": "Kanban/零散计划.md"
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "零散计划 的大纲"
             }
           }
         ]
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -365,8 +365,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8fd1aa679cdd8869",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "KnowledgeBase/技能总结/数据分析.md",
     "InformationRepository/信息-2024.11.md",
     "project/经济与社会发展研究项目.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -376,7 +377,6 @@
     "Kanban/零散计划.md",
     "Diary/2024-11-04.md",
     "Diary/2024-11-02.md",
-    "KnowledgeBase/技能总结/数据分析.md",
     "Kanban/赚钱之道-规划.md",
     "attachment/微信图片_20241106170231.jpg",
     "attachment/PixPin_2024-11-06_16-47-24.png",
