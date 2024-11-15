@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/零散计划.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "零散计划 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -376,15 +376,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
+    "Kanban/零散计划.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/技能总结/数据分析.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息-2024.11.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "Excalidraw/日常.png",
-    "Kanban/零散计划.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DML.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DDL.md",
