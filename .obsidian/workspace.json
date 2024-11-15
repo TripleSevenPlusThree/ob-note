@@ -249,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 672.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -379,8 +378,9 @@
   },
   "active": "00e683f39c830161",
   "lastOpenFiles": [
-    "Kanban/零散计划.md",
+    "template/模型/解决问题.md",
     "Excalidraw/数据分析.md",
+    "Kanban/零散计划.md",
     "KnowledgeBase/技能总结/数据分析.md",
     "KnowledgeBase/赚钱之道.md",
     "InformationRepository/信息-2024.11.md",
