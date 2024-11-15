@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/零散计划.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "零散计划 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -40,6 +40,18 @@
               },
               "icon": "lucide-file",
               "title": "多表查询"
+            }
+          },
+          {
+            "id": "00e683f39c830161",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/数据分析.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "数据分析"
             }
           },
           {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -364,16 +376,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
+    "Excalidraw/日常.png",
+    "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
+    "Kanban/零散计划.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DML.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DDL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
     "KnowledgeBase/程序/数据库-MySQL/数据库基础概念.md",
     "InformationRepository/信息-2024.11.md",
-    "Kanban/零散计划.md",
     "KnowledgeBase/技能总结/数据分析.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/项目(project)/c++线程池/c++线程库的基本使用.md",
@@ -403,13 +417,10 @@
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
     "attachment/a5c1411587a65a21b05b640f5c75de5.jpg",
     "Kanban/未命名看板.md",
-    "template/模型/解决问题.md",
-    "InformationRepository/信息23.md",
     "attachment/PixPin_2024-10-10_22-27-08.png",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks.zip",
-    "Excalidraw/日常.png",
     "attachment/PixPin_2024-09-29_11-51-33.png",
     "attachment/PixPin_2024-09-29_11-46-27.png",
     "Kanban/未命名.canvas",
