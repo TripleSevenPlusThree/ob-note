@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/技能总结/数据分析.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
               "title": "数据分析 的大纲"
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -376,11 +376,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8fd1aa679cdd8869",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
+    "KnowledgeBase/赚钱之道.md",
+    "KnowledgeBase/技能总结/数据分析.md",
     "Excalidraw/数据分析.md",
-    "Excalidraw/日常.png",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
+    "Excalidraw/日常.png",
     "Kanban/零散计划.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DML.md",
@@ -388,11 +390,9 @@
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
     "KnowledgeBase/程序/数据库-MySQL/数据库基础概念.md",
     "InformationRepository/信息-2024.11.md",
-    "KnowledgeBase/技能总结/数据分析.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/项目(project)/c++线程池/c++线程库的基本使用.md",
     "KnowledgeBase/程序/C++/STL初识/仿函数.md",
-    "KnowledgeBase/赚钱之道.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/程序/数据结构与算法/问题求解.md",
     "KnowledgeBase/技能总结/计算机科学.md",
