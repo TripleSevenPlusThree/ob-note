@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/经济与社会发展研究项目.md"
+                "file": "Diary/2024-11-17.md"
               },
               "icon": "lucide-list",
-              "title": "经济与社会发展研究项目 的大纲"
+              "title": "2024-11-17 的大纲"
             }
           }
         ]
@@ -131,8 +131,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -376,11 +375,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "project/经济与社会发展研究项目.md",
     "Diary/2024-11-17.md",
     "Diary/2024-11-16.md",
-    "project/经济与社会发展研究项目.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/零散计划.md",
     "Diary/2024-11-04.md",
