@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/零散计划.md"
+                "file": "Diary/2024-11-16.md"
               },
               "icon": "lucide-list",
-              "title": "零散计划 的大纲"
+              "title": "2024-11-16 的大纲"
             }
           }
         ]
@@ -131,8 +131,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -375,8 +374,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "Kanban/零散计划.md",
     "Diary/2024-11-16.md",
     "Diary/2024-11-04.md",
     "template/模型/解决问题.md",
@@ -386,7 +386,6 @@
     "KnowledgeBase/管理.md",
     "InformationRepository/信息-2024.11.md",
     "KnowledgeBase/赚钱之道.md",
-    "Kanban/零散计划.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "Excalidraw/日常.png",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
