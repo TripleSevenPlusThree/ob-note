@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 6.029544769369913,
+        "dimension": 11.990407673860911,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "Diary/2024-11-16.md"
               },
               "icon": "lucide-list",
-              "title": "未来确定的乐观主义者-规划 的大纲"
+              "title": "2024-11-16 的大纲"
             }
           }
         ]
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 93.9704552306301,
+        "dimension": 88.00959232613909,
         "children": [
           {
             "id": "7debac62db5ddc92",
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/模型/解决问题.md",
+                "file": "Diary/2024-11-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "解决问题"
+              "title": "2024-11-16"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,8 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 672.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -355,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,10 +374,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d7244801564c3322",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
-    "Excalidraw/数据分析.md",
+    "Diary/2024-11-04.md",
+    "Diary/2024-11-16.md",
     "template/模型/解决问题.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Excalidraw/数据分析.md",
     "KnowledgeBase/技能总结/数据分析.md",
     "KnowledgeBase/管理.md",
     "InformationRepository/信息-2024.11.md",
@@ -396,10 +396,8 @@
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/项目(project)/c++线程池/c++线程库的基本使用.md",
     "KnowledgeBase/程序/C++/STL初识/仿函数.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/程序/数据结构与算法/问题求解.md",
     "KnowledgeBase/技能总结/计算机科学.md",
-    "Diary/2024-11-04.md",
     "Diary/2024-11-02.md",
     "Kanban/赚钱之道-规划.md",
     "attachment/微信图片_20241106170231.jpg",
@@ -416,7 +414,6 @@
     "project/简历_基本版 1.docx",
     "project/简历_基本版.docx",
     "project",
-    "Diary/2024-10-31.md",
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
     "attachment/a5c1411587a65a21b05b640f5c75de5.jpg",
     "attachment/PixPin_2024-10-10_22-27-08.png",
