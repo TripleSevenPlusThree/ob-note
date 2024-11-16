@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据分析.md"
+                "file": "template/模型/解决问题.md"
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "解决问题 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/管理.md",
+                "file": "template/模型/解决问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "管理"
+              "title": "解决问题"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -377,11 +376,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "00e683f39c830161",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
     "KnowledgeBase/管理.md",
-    "InformationRepository/信息-2024.11.md",
     "Excalidraw/数据分析.md",
+    "InformationRepository/信息-2024.11.md",
     "KnowledgeBase/赚钱之道.md",
     "template/模型/解决问题.md",
     "Kanban/零散计划.md",
