@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-11-16.md"
+                "file": "project/经济与社会发展研究项目.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-16 的大纲"
+              "title": "经济与社会发展研究项目 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-11-16.md",
+                "file": "Diary/2024-11-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-16"
+              "title": "2024-11-17"
             }
           },
           {
@@ -131,7 +131,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -354,8 +355,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,10 +376,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Diary/2024-11-17.md",
     "Diary/2024-11-16.md",
+    "project/经济与社会发展研究项目.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Kanban/零散计划.md",
     "Diary/2024-11-04.md",
     "template/模型/解决问题.md",
@@ -395,7 +397,6 @@
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DDL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
     "KnowledgeBase/程序/数据库-MySQL/数据库基础概念.md",
-    "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/项目(project)/c++线程池/c++线程库的基本使用.md",
     "KnowledgeBase/程序/C++/STL初识/仿函数.md",
     "KnowledgeBase/程序/数据结构与算法/问题求解.md",
@@ -408,7 +409,6 @@
     "attachment/PixPin_2024-11-06_15-59-16.png",
     "InformationRepository/信息-2024.10.md",
     "InformationRepository/信息-2024.9.md",
-    "KnowledgeBase/经济.md",
     "project/简历_内容运营实习生.pdf",
     "project/PixPin_2024-11-04_19-14-07.png",
     "project/电力电子作业.xlsx",
