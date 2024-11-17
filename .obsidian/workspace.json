@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据分析.md"
+                "file": "KnowledgeBase/赚钱之道.md"
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "赚钱之道 的大纲"
             }
           }
         ]
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -377,12 +377,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "00e683f39c830161",
+  "active": "1d59e456bee206bc",
   "lastOpenFiles": [
     "Diary/2024-11-16.md",
+    "Excalidraw/数据分析.md",
     "Diary/2024-11-17.md",
     "KnowledgeBase/赚钱之道.md",
-    "Excalidraw/数据分析.md",
     "KnowledgeBase/技能总结/数据分析.md",
     "Kanban/零散计划.md",
     "project/经济与社会发展研究项目.md",
