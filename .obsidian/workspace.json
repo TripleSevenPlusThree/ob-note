@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-11-16.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-16 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -131,7 +131,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -376,8 +377,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
+    "Diary/2024-11-16.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "Excalidraw/数据分析.md",
     "Kanban/零散计划.md",
@@ -395,7 +397,6 @@
     "KnowledgeBase/程序/数据库-MySQL/运维/日志.md",
     "KnowledgeBase/程序/数据库-MySQL/运维/分库分表.md",
     "KnowledgeBase/程序/数据库-MySQL/运维/读写分离.md",
-    "Diary/2024-11-16.md",
     "KnowledgeBase/技能总结/数据分析.md",
     "Diary/2024-11-17.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
