@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/经济与社会发展研究项目.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "经济与社会发展研究项目 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -90,13 +90,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/技能总结/数据分析.md",
+                "file": "KnowledgeBase/技能总结/数据分析具体工具.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据分析"
+              "title": "数据分析具体工具"
             }
           },
           {
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -377,18 +377,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "23c19a17bbd4ccbc",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "Kanban/零散计划.md",
+    "project/经济与社会发展研究项目.md",
     "KnowledgeBase/赚钱之道.md",
     "Excalidraw/数据分析.md",
-    "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/约束.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/事务.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
-    "KnowledgeBase/技能总结/数据分析.md",
-    "Kanban/零散计划.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DML.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DDL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
