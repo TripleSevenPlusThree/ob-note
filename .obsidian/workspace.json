@@ -249,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -354,7 +355,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,16 +379,16 @@
   },
   "active": "00e683f39c830161",
   "lastOpenFiles": [
+    "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
+    "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/约束.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/事务.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
-    "Excalidraw/数据分析.md",
     "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/技能总结/数据分析.md",
     "Kanban/零散计划.md",
-    "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DML.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DDL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
