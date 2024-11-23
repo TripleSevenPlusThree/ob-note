@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据分析.md"
+                "file": "Diary/2024-11-23.md"
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "2024-11-23 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
+                "file": "Diary/2024-11-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多表查询"
+              "title": "2024-11-23"
             }
           },
           {
@@ -131,8 +131,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,17 +374,19 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "00e683f39c830161",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "Diary/2024-11-20.md",
+    "Diary/2024-11-23.md",
+    "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
+    "Excalidraw/数据分析.md",
+    "project/经济与社会发展研究项目.md",
     "Kanban/零散计划.md",
     "KnowledgeBase/赚钱之道.md",
-    "project/经济与社会发展研究项目.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "Excalidraw/数据分析.md",
     "Diary/2024-09-07.md",
     "Diary/2024-09-12.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
-    "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DML.md",
@@ -394,7 +394,6 @@
     "KnowledgeBase/程序/数据库-MySQL/基础/约束.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/事务.md",
     "Diary/2024-11-16.md",
-    "Diary/2024-11-20.md",
     "Diary/2024-11-17.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
     "KnowledgeBase/程序/数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
@@ -403,7 +402,6 @@
     "KnowledgeBase/程序/数据库-MySQL/进阶/存储引擎.md",
     "KnowledgeBase/程序/数据库-MySQL/进阶/索引.md",
     "KnowledgeBase/程序/数据库-MySQL/进阶/锁.md",
-    "KnowledgeBase/程序/数据库-MySQL/进阶/MySQL管理.md",
     "Excalidraw/日常.png",
     "attachment/微信图片_20241106170231.jpg",
     "attachment/PixPin_2024-11-06_16-47-24.png",
