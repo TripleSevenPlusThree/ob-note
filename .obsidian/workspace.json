@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "多表查询 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -40,18 +40,6 @@
               },
               "icon": "lucide-file",
               "title": "多表查询"
-            }
-          },
-          {
-            "id": "ec4b3bfd8b7287b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -366,8 +354,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,10 +375,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "ec4b3bfd8b7287b8",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
-    "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
+    "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "Diary/2024-11-23.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/赚钱之道.md",
