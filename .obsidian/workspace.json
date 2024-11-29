@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据分析.md"
+                "file": "Kanban/零散计划.md"
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "零散计划 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-11-28.md",
+                "file": "Diary/2024-11-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-28"
+              "title": "2024-11-20"
             }
           },
           {
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -249,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 672.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -355,8 +354,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,18 +375,20 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "00e683f39c830161",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "Excalidraw/数据分析.md",
+    "Diary/2024-11-20.md",
+    "Diary/2024-11-17.md",
+    "Diary/2024-11-16.md",
+    "Diary/2024-11-23.md",
     "Diary/2024-11-28.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
-    "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "InformationRepository/信息-2024.11.md",
     "Kanban/零散计划.md",
-    "Diary/2024-11-23.md",
     "KnowledgeBase/赚钱之道.md",
-    "Diary/2024-11-20.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Diary/2024-09-07.md",
@@ -398,8 +398,6 @@
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DDL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/约束.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/事务.md",
-    "Diary/2024-11-16.md",
-    "Diary/2024-11-17.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
     "KnowledgeBase/程序/数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
     "KnowledgeBase/程序/数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
