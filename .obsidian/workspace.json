@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 10,
+        "dimension": 18.181818181818183,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 90,
+        "dimension": 81.81818181818181,
         "children": [
           {
             "id": "7debac62db5ddc92",
@@ -378,6 +378,7 @@
   },
   "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "attachment/PixPin_2024-11-30_19-28-18.png",
     "attachment/PixPin_2024-11-30_19-14-56.png",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/机器学习.md",
@@ -423,7 +424,6 @@
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "attachment/PixPin_2024-09-29_11-51-33.png",
-    "attachment/PixPin_2024-09-29_11-46-27.png",
     "Kanban/未命名.canvas",
     "Diary/看板/未命名.canvas",
     "未命名.canvas",
