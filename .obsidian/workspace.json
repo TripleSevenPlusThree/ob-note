@@ -248,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -375,7 +376,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "a7945632cd014b12",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
     "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/机器学习.md",
