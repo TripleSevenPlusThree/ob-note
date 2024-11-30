@@ -163,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "机器学习",
+                "query": "tag:#PCA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -375,7 +375,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
     "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/机器学习.md",
