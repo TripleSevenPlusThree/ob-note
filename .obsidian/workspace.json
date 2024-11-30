@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductRequirementsDocument（PRD)/网状结构社群.md"
+                "file": "Diary/2024-11-30.md"
               },
               "icon": "lucide-list",
-              "title": "网状结构社群 的大纲"
+              "title": "2024-11-30 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductRequirementsDocument（PRD)/网状结构社群.md",
+                "file": "Diary/2024-11-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网状结构社群"
+              "title": "2024-11-30"
             }
           },
           {
@@ -376,8 +376,11 @@
   },
   "active": "7debac62db5ddc92",
   "lastOpenFiles": [
-    "template/模型/商业计划书.md",
+    "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
+    "Diary/2024-11-30.md",
+    "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "ProductRequirementsDocument（PRD)/网状结构社群.md",
+    "template/模型/商业计划书.md",
     "ProductRequirementsDocument（PRD)",
     "InformationRepository/信息-2024.11.md",
     "Diary/2024-11-20.md",
@@ -389,8 +392,6 @@
     "Diary/2024-11-23.md",
     "Diary/2024-11-28.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
-    "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
-    "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "KnowledgeBase/赚钱之道.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
@@ -402,7 +403,6 @@
     "KnowledgeBase/程序/数据库-MySQL/基础/事务.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
     "KnowledgeBase/程序/数据库-MySQL/进阶/视图、存储过程，触发器/总结.md",
-    "KnowledgeBase/程序/数据库-MySQL/进阶/视图、存储过程，触发器/存储过程.md",
     "Excalidraw/日常.png",
     "attachment/微信图片_20241106170231.jpg",
     "attachment/PixPin_2024-11-06_16-47-24.png",
