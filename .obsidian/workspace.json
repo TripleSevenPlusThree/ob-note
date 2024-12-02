@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/程序/机器学习.md"
+                "file": "project/经济与社会发展研究项目.md"
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "经济与社会发展研究项目 的大纲"
             }
           }
         ]
@@ -131,7 +131,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -376,8 +377,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "23c19a17bbd4ccbc",
   "lastOpenFiles": [
+    "Excalidraw/数据分析.md",
+    "KnowledgeBase/程序/机器学习.md",
     "attachment/PixPin_2024-12-02_20-31-05.png",
     "attachment/PixPin_2024-12-01_22-40-46.png",
     "attachment/PixPin_2024-12-01_22-36-45.png",
@@ -388,9 +391,6 @@
     "attachment/PixPin_2024-12-01_22-16-17.png",
     "attachment/PixPin_2024-12-01_22-06-17.png",
     "attachment/PixPin_2024-12-01_21-55-17.png",
-    "attachment/PixPin_2024-12-01_21-47-59.png",
-    "Excalidraw/数据分析.md",
-    "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "Diary/2024-11-30.md",
     "project/经济与社会发展研究项目.md",
