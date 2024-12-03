@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 18.181818181818183,
+        "dimension": 9.995002498750624,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/程序/机器学习.md"
+                "file": "Kanban/零散计划.md"
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "零散计划 的大纲"
             }
           }
         ]
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 81.81818181818181,
+        "dimension": 90.00499750124938,
         "children": [
           {
             "id": "7debac62db5ddc92",
@@ -131,7 +131,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 672.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -354,8 +354,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,11 +375,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
-    "project/经济与社会发展研究项目.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/机器学习.md",
+    "project/经济与社会发展研究项目.md",
     "attachment/PixPin_2024-12-02_20-31-05.png",
     "attachment/PixPin_2024-12-01_22-40-46.png",
     "attachment/PixPin_2024-12-01_22-36-45.png",
@@ -395,7 +395,6 @@
     "Diary/2024-11-30.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/零散计划.md",
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "ProductRequirementsDocument（PRD)/网状结构社群.md",
     "template/模型/商业计划书.md",
