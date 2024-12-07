@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/零散计划.md"
+                "file": "Diary/2024-12-07.md"
               },
               "icon": "lucide-list",
-              "title": "零散计划 的大纲"
+              "title": "2024-12-07 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
+                "file": "Diary/2024-12-07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DQL"
+              "title": "2024-12-07"
             }
           },
           {
@@ -146,8 +146,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -392,9 +391,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "Diary/2024-12-04.md",
+    "Diary/2024-12-07.md",
+    "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "KnowledgeBase/程序/机器学习.md",
+    "Kanban/零散计划.md",
     "attachment/PixPin_2024-12-07_14-54-44.png",
     "Excalidraw/数据分析.md",
     "attachment/PixPin_2024-12-06_19-13-42.png",
@@ -403,11 +406,9 @@
     "attachment/PixPin_2024-12-06_19-05-45.png",
     "attachment/PixPin_2024-12-06_18-58-36.png",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "attachment/PixPin_2024-12-05_21-21-56.png",
     "attachment/PixPin_2024-12-05_21-22-28.png",
     "attachment/PixPin_2024-12-05_16-03-00.png",
-    "Diary/2024-12-04.md",
     "Diary/2024-11-30.md",
     "project/经济与社会发展研究项目.md",
     "Diary/2024-11-28.md",
@@ -416,7 +417,6 @@
     "Diary/2024-11-04.md",
     "Diary/2024-11-16.md",
     "KnowledgeBase/赚钱之道.md",
-    "Kanban/零散计划.md",
     "attachment/PixPin_2024-12-02_20-31-05.png",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "ProductRequirementsDocument（PRD)/网状结构社群.md",
