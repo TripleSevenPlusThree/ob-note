@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/程序/机器学习.md"
+                "file": "Diary/2024-12-07.md"
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "2024-12-07 的大纲"
             }
           }
         ]
@@ -146,8 +146,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -391,10 +390,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
-    "Diary/2024-12-07.md",
     "KnowledgeBase/程序/机器学习.md",
+    "Diary/2024-12-07.md",
     "project/经济与社会发展研究项目.md",
     "Diary/2024-10-07.md",
     "Diary/2024-10-05.md",
