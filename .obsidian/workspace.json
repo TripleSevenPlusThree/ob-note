@@ -370,7 +370,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -393,6 +394,7 @@
   },
   "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "attachment/PixPin_2024-12-08_15-55-49.png",
     "Diary/2024-12-07.md",
     "KnowledgeBase/程序/机器学习.md",
     "project/经济与社会发展研究项目.md",
@@ -427,7 +429,6 @@
     "Diary/2024-11-30.md",
     "Diary/2024-11-28.md",
     "Diary/2024-11-20.md",
-    "Diary/2024-11-23.md",
     "attachment/PixPin_2024-12-02_20-31-05.png",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
