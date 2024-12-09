@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-09 23.15.17.excalidraw.md"
+                "file": "KnowledgeBase/程序/机器学习.md"
               },
               "icon": "lucide-list",
-              "title": "Drawing 2024-12-09 23.15.17.excalidraw 的大纲"
+              "title": "机器学习 的大纲"
             }
           }
         ]
@@ -48,10 +48,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-09 23.15.17.excalidraw.md"
+                "file": "Excalidraw/思维链-可视化推理.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-09 23.15.17.excalidraw"
+              "title": "思维链-可视化推理"
             }
           },
           {
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -388,16 +388,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "814af5f3c3881458",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-09 23.15.17.excalidraw.md",
+    "Diary/2024-12-07.md",
+    "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/未命名.canvas",
     "KnowledgeBase/赚钱之道.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/机器学习.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "Diary/2024-12-07.md",
     "Kanban/零散计划.md",
     "attachment/PixPin_2024-12-08_21-01-14.png",
     "attachment/PixPin_2024-12-08_21-00-32.png",
