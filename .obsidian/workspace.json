@@ -264,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 672.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -394,12 +393,12 @@
   },
   "active": "7debac62db5ddc92",
   "lastOpenFiles": [
-    "Diary/2024-12-07.md",
     "Excalidraw/数据分析.md",
-    "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/赚钱之道.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "KnowledgeBase/程序/机器学习.md",
+    "Diary/2024-12-07.md",
     "Kanban/零散计划.md",
     "attachment/PixPin_2024-12-08_21-01-14.png",
     "attachment/PixPin_2024-12-08_21-00-32.png",
