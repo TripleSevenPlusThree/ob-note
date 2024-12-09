@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据分析.md"
+                "file": "KnowledgeBase/程序/机器学习.md"
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "机器学习 的大纲"
             }
           }
         ]
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -392,14 +392,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "00e683f39c830161",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "Diary/2024-12-07.md",
+    "Excalidraw/数据分析.md",
+    "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/赚钱之道.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Kanban/零散计划.md",
-    "KnowledgeBase/程序/机器学习.md",
-    "Diary/2024-12-07.md",
     "attachment/PixPin_2024-12-08_21-01-14.png",
     "attachment/PixPin_2024-12-08_21-00-32.png",
     "attachment/PixPin_2024-12-08_20-45-06.png",
@@ -426,7 +427,6 @@
     "Diary/2024-11-02.md",
     "Diary/2024-12-04.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
-    "Excalidraw/数据分析.md",
     "Diary/2024-11-30.md",
     "Diary/2024-11-28.md",
     "Diary/2024-11-20.md",
