@@ -261,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -390,6 +391,7 @@
   },
   "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "attachment/PixPin_2024-12-10_10-41-55.png",
     "Diary/2024-12-07.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/未命名.canvas",
@@ -426,7 +428,6 @@
     "Diary/2024-12-04.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "Diary/2024-11-30.md",
-    "Diary/2024-11-28.md",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
     "project/电力电子作业.xlsx",
