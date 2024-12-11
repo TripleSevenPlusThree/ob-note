@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/程序/机器学习.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -389,10 +389,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
-    "Excalidraw/思维链-可视化推理.md",
     "KnowledgeBase/程序/机器学习.md",
+    "Kanban/零散计划.md",
+    "Excalidraw/思维链-可视化推理.md",
     "attachment/PixPin_2024-12-10_21-06-04.png",
     "attachment/PixPin_2024-12-10_19-36-21.png",
     "attachment/PixPin_2024-12-10_12-36-02.png",
@@ -409,7 +410,6 @@
     "project/经济与社会发展研究项目.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "Kanban/零散计划.md",
     "Diary/2024-10-07.md",
     "Diary/2024-10-05.md",
     "Diary/2024-10-04.md",
