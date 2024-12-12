@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 9.995002498750624,
+        "dimension": 10,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/思维链-可视化推理.md"
+                "file": "KnowledgeBase/程序/机器学习.md"
               },
               "icon": "lucide-list",
-              "title": "思维链-可视化推理 的大纲"
+              "title": "机器学习 的大纲"
             }
           }
         ]
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 90.00499750124938,
+        "dimension": 90,
         "children": [
           {
             "id": "d36ca5933b01c553",
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -389,13 +389,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "814af5f3c3881458",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "Excalidraw/思维链-可视化推理.md",
+    "KnowledgeBase/程序/机器学习.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/赚钱之道.md",
-    "KnowledgeBase/程序/机器学习.md",
     "Kanban/零散计划.md",
-    "Excalidraw/思维链-可视化推理.md",
     "attachment/PixPin_2024-12-10_21-06-04.png",
     "attachment/PixPin_2024-12-10_19-36-21.png",
     "attachment/PixPin_2024-12-10_12-36-02.png",
