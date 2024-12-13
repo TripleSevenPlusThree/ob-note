@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/赚钱之道.md"
+                "file": "Excalidraw/思维链-可视化推理.md"
               },
               "icon": "lucide-list",
-              "title": "赚钱之道 的大纲"
+              "title": "思维链-可视化推理 的大纲"
             }
           }
         ]
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -389,15 +389,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "1d59e456bee206bc",
+  "active": "814af5f3c3881458",
   "lastOpenFiles": [
+    "KnowledgeBase/程序/机器学习.md",
+    "Excalidraw/思维链-可视化推理.md",
+    "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Kanban/零散计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Excalidraw/数据分析.md",
-    "KnowledgeBase/程序/机器学习.md",
-    "Excalidraw/思维链-可视化推理.md",
-    "KnowledgeBase/赚钱之道.md",
     "attachment/PixPin_2024-12-10_21-06-04.png",
     "attachment/PixPin_2024-12-10_19-36-21.png",
     "attachment/PixPin_2024-12-10_12-36-02.png",
