@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/程序/机器学习.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -388,26 +389,25 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
+    "KnowledgeBase/程序/机器学习.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Kanban/零散计划.md",
     "attachment/PixPin_2024-12-13_19-22-28.png",
     "attachment/PixPin_2024-12-13_18-41-20.png",
     "Excalidraw/思维链-可视化推理.md",
-    "KnowledgeBase/程序/机器学习.md",
     "attachment/PixPin_2024-12-13_18-39-38.png",
     "attachment/PixPin_2024-12-13_18-38-20.png",
     "attachment/PixPin_2024-12-13_18-38-08.png",
     "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "Kanban/零散计划.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Excalidraw/数据分析.md",
     "attachment/PixPin_2024-12-10_21-06-04.png",
     "attachment/PixPin_2024-12-10_19-36-21.png",
     "attachment/PixPin_2024-12-10_12-36-02.png",
     "attachment/PixPin_2024-12-10_12-35-30.png",
     "attachment/PixPin_2024-12-10_12-33-45.png",
-    "attachment/PixPin_2024-12-10_11-35-40.png",
     "Diary/2024-12-07.md",
     "Excalidraw/未命名.canvas",
     "project/经济与社会发展研究项目.md",
