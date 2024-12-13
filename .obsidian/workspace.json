@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/思维链-可视化推理.md"
+                "file": "KnowledgeBase/程序/机器学习.md"
               },
               "icon": "lucide-list",
-              "title": "思维链-可视化推理 的大纲"
+              "title": "机器学习 的大纲"
             }
           }
         ]
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -389,11 +389,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "814af5f3c3881458",
+  "active": "7debac62db5ddc92",
   "lastOpenFiles": [
+    "attachment/PixPin_2024-12-13_18-41-20.png",
+    "Excalidraw/思维链-可视化推理.md",
     "KnowledgeBase/程序/机器学习.md",
     "attachment/PixPin_2024-12-13_18-39-38.png",
-    "Excalidraw/思维链-可视化推理.md",
     "attachment/PixPin_2024-12-13_18-38-20.png",
     "attachment/PixPin_2024-12-13_18-38-08.png",
     "KnowledgeBase/赚钱之道.md",
