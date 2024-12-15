@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 10,
+        "dimension": 6.709158000670916,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 90,
+        "dimension": 93.29084199932909,
         "children": [
           {
             "id": "d36ca5933b01c553",
@@ -261,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -392,12 +393,12 @@
   "lastOpenFiles": [
     "Excalidraw/思维链-可视化推理.md",
     "KnowledgeBase/程序/机器学习.md",
+    "KnowledgeBase/赚钱之道.md",
+    "Kanban/零散计划.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/投资.md",
     "Diary/2024-12-07.md",
-    "KnowledgeBase/赚钱之道.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "Kanban/零散计划.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/PixPin_2024-12-13_19-22-28.png",
     "attachment/PixPin_2024-12-13_18-41-20.png",
