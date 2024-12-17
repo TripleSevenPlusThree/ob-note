@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/讲话.md"
+                "file": "Excalidraw/思维链-可视化推理.md"
               },
               "icon": "lucide-list",
-              "title": "讲话 的大纲"
+              "title": "思维链-可视化推理 的大纲"
             }
           }
         ]
@@ -143,7 +143,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -388,10 +389,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "814af5f3c3881458",
   "lastOpenFiles": [
-    "InformationRepository/信息-2024-12.md",
     "Excalidraw/数据分析.md",
+    "template/模型/讲话.md",
+    "InformationRepository/信息-2024-12.md",
     "InformationRepository/信息-2024.11.md",
     "Diary/2024-12-15.md",
     "Diary/2024-12-07.md",
@@ -426,7 +428,6 @@
     "Diary/2024-10-15.md",
     "Diary/2024-10-31.md",
     "Diary/2024-11-16.md",
-    "Diary/2024-11-04.md",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
     "project/电力电子作业.xlsx",
