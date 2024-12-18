@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/思维链-可视化推理.md"
+                "file": "Kanban/零散计划.md"
               },
               "icon": "lucide-list",
-              "title": "思维链-可视化推理 的大纲"
+              "title": "零散计划 的大纲"
             }
           }
         ]
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -389,9 +389,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "814af5f3c3881458",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
     "Excalidraw/数据分析.md",
+    "Excalidraw/思维链-可视化推理.md",
     "template/模型/讲话.md",
     "InformationRepository/信息-2024-12.md",
     "InformationRepository/信息-2024.11.md",
@@ -399,7 +400,6 @@
     "Diary/2024-12-07.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/程序/机器学习.md",
-    "Excalidraw/思维链-可视化推理.md",
     "KnowledgeBase/投资.md",
     "KnowledgeBase/赚钱之道.md",
     "Kanban/零散计划.md",
