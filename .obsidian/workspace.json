@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/零散计划.md"
+                "file": "Excalidraw/投资.md"
               },
               "icon": "lucide-list",
-              "title": "零散计划 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -52,6 +52,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "数据分析"
+            }
+          },
+          {
+            "id": "11e0c84860e44534",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/投资.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "投资"
             }
           },
           {
@@ -144,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -389,20 +401,21 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "11e0c84860e44534",
   "lastOpenFiles": [
     "Excalidraw/数据分析.md",
+    "Excalidraw/投资.md",
     "Excalidraw/思维链-可视化推理.md",
+    "KnowledgeBase/程序/机器学习.md",
+    "Kanban/零散计划.md",
     "template/模型/讲话.md",
     "InformationRepository/信息-2024-12.md",
     "InformationRepository/信息-2024.11.md",
     "Diary/2024-12-15.md",
     "Diary/2024-12-07.md",
     "project/经济与社会发展研究项目.md",
-    "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/投资.md",
     "KnowledgeBase/赚钱之道.md",
-    "Kanban/零散计划.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/PixPin_2024-12-13_19-22-28.png",
@@ -427,7 +440,6 @@
     "Diary/2024-10-18.md",
     "Diary/2024-10-15.md",
     "Diary/2024-10-31.md",
-    "Diary/2024-11-16.md",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
     "project/电力电子作业.xlsx",
