@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KnowledgeBase/程序/机器学习.md"
+                "file": "Excalidraw/投资.md"
               },
               "icon": "lucide-list",
-              "title": "机器学习 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -401,12 +401,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "7debac62db5ddc92",
+  "active": "11e0c84860e44534",
   "lastOpenFiles": [
     "Excalidraw/数据分析.md",
+    "KnowledgeBase/程序/机器学习.md",
     "Excalidraw/投资.md",
     "Excalidraw/思维链-可视化推理.md",
-    "KnowledgeBase/程序/机器学习.md",
     "Kanban/零散计划.md",
     "template/模型/讲话.md",
     "InformationRepository/信息-2024-12.md",
