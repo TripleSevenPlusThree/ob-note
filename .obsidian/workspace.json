@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/投资.md"
+                "file": "Excalidraw/思维链-可视化推理.md"
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "思维链-可视化推理 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/模型/讲话.md",
+                "file": "InformationRepository/信息-2024.10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "讲话"
+              "title": "信息-2024.10"
             }
           },
           {
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -401,14 +401,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "11e0c84860e44534",
+  "active": "814af5f3c3881458",
   "lastOpenFiles": [
+    "InformationRepository/信息-2024.10.md",
+    "template/模型/讲话.md",
+    "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/机器学习.md",
-    "Excalidraw/投资.md",
     "Excalidraw/思维链-可视化推理.md",
     "Kanban/零散计划.md",
-    "template/模型/讲话.md",
     "InformationRepository/信息-2024-12.md",
     "InformationRepository/信息-2024.11.md",
     "Diary/2024-12-15.md",
@@ -439,7 +440,6 @@
     "Diary/2024-10-19.md",
     "Diary/2024-10-18.md",
     "Diary/2024-10-15.md",
-    "Diary/2024-10-31.md",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
     "project/电力电子作业.xlsx",
