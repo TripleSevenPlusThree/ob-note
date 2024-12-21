@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/投资.md"
+                "file": "Diary/2024-12-20.md"
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "2024-12-20 的大纲"
             }
           }
         ]
@@ -140,8 +140,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -386,8 +385,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "11e0c84860e44534",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
     "Diary/2024-12-20.md",
     "Excalidraw/思维链-可视化推理.md",
@@ -395,7 +395,6 @@
     "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/赚钱之道.md",
     "template/模型/讲话.md",
-    "Excalidraw/投资.md",
     "Kanban/零散计划.md",
     "InformationRepository/信息-2024.12.md",
     "InformationRepository/信息-2024.11.md",
