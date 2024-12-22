@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-12-20.md"
+                "file": "Excalidraw/思维链-可视化推理.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-20 的大纲"
+              "title": "思维链-可视化推理 的大纲"
             }
           }
         ]
@@ -140,7 +140,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -385,11 +386,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "814af5f3c3881458",
   "lastOpenFiles": [
+    "attachment/0d7ec202012c9d8cf3cc228b3aa2604.png",
+    "attachment/f510bff1f5b62c3a0eced161dbb41fd.png",
+    "Diary/2024-12-20.md",
     "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
-    "Diary/2024-12-20.md",
     "Excalidraw/思维链-可视化推理.md",
     "InformationRepository/信息-2024.10.md",
     "KnowledgeBase/程序/机器学习.md",
@@ -413,7 +416,6 @@
     "attachment/PixPin_2024-12-10_19-36-21.png",
     "attachment/PixPin_2024-12-10_12-36-02.png",
     "attachment/PixPin_2024-12-10_12-35-30.png",
-    "attachment/PixPin_2024-12-10_12-33-45.png",
     "Excalidraw/未命名.canvas",
     "Diary/2024-10-07.md",
     "Diary/2024-10-05.md",
@@ -423,7 +425,6 @@
     "Diary/2024-10-22.md",
     "Diary/2024-10-20.md",
     "Diary/2024-10-19.md",
-    "Diary/2024-10-18.md",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
     "project/电力电子作业.xlsx",
