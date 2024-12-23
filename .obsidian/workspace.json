@@ -206,8 +206,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1c02be069f0c51a5",
@@ -384,7 +383,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "b9e1908d3f0182bc",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
     "Diary/2024-12-20.md",
     "Diary/2024-12-23.md",

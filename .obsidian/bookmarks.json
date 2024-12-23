@@ -162,7 +162,14 @@
     {
       "type": "group",
       "ctime": 1734921807724,
-      "items": [],
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1734921828063,
+          "path": "Diary/2024-12-23.md",
+          "title": "小菜园与美团决策"
+        }
+      ],
       "title": "股票"
     }
   ]
