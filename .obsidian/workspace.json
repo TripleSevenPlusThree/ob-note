@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-12-23.md"
+                "file": "Diary/2024-12-20.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-23 的大纲"
+              "title": "2024-12-20 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-12-23.md",
+                "file": "Diary/2024-12-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-23"
+              "title": "2024-12-20"
             }
           },
           {
@@ -383,10 +383,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "a7945632cd014b12",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
-    "Diary/2024-12-20.md",
     "Diary/2024-12-23.md",
+    "Diary/2024-12-20.md",
     "Excalidraw/思维链-可视化推理.md",
     "attachment/0d7ec202012c9d8cf3cc228b3aa2604.png",
     "attachment/f510bff1f5b62c3a0eced161dbb41fd.png",
