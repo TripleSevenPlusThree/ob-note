@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-12-24.md"
+                "file": "Excalidraw/数据分析.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-24 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -140,7 +140,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -363,7 +364,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -384,16 +386,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
-    "Diary/2024-12-23.md",
+    "Excalidraw/思维链-可视化推理.md",
     "Diary/2024-12-24.md",
+    "Diary/2024-12-23.md",
     "Diary/2024-12-20.md",
     "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "Excalidraw/思维链-可视化推理.md",
     "attachment/0d7ec202012c9d8cf3cc228b3aa2604.png",
     "attachment/f510bff1f5b62c3a0eced161dbb41fd.png",
     "InformationRepository/信息-2024.10.md",
