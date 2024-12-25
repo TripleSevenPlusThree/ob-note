@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据分析.md"
+                "file": "Diary/2024-06-03.md"
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "2024-06-03 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-12-24.md",
+                "file": "Diary/2024-06-03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-24"
+              "title": "2024-06-03"
             }
           },
           {
@@ -140,8 +140,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 672.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -364,8 +362,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,12 +383,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "00e683f39c830161",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
-    "Excalidraw/投资.md",
-    "Excalidraw/数据分析.md",
-    "Excalidraw/思维链-可视化推理.md",
     "Diary/2024-12-24.md",
+    "Excalidraw/数据分析.md",
+    "Excalidraw/投资.md",
+    "Excalidraw/思维链-可视化推理.md",
     "Diary/2024-12-23.md",
     "Diary/2024-12-20.md",
     "KnowledgeBase/程序/机器学习.md",
