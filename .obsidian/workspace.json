@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-12-27.md"
+                "file": "Diary/2024-12-07.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-27 的大纲"
+              "title": "2024-12-07 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-12-27.md",
+                "file": "Diary/2024-12-07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-27"
+              "title": "2024-12-07"
             }
           },
           {
@@ -386,6 +386,10 @@
   },
   "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "Diary/2024-12-04.md",
+    "Diary/2024-12-07.md",
+    "Diary/2024-12-24.md",
+    "Diary/2024-12-23.md",
     "Diary/2024-12-20.md",
     "Diary/2024-12-27.md",
     "Excalidraw/投资.md",
@@ -394,9 +398,7 @@
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "KnowledgeBase/程序/机器学习.md",
     "Excalidraw/思维链-可视化推理.md",
-    "Diary/2024-12-23.md",
     "Diary/2024-06-03.md",
-    "Diary/2024-12-24.md",
     "attachment/0d7ec202012c9d8cf3cc228b3aa2604.png",
     "attachment/f510bff1f5b62c3a0eced161dbb41fd.png",
     "InformationRepository/信息-2024.10.md",
@@ -405,7 +407,6 @@
     "InformationRepository/信息-2024.12.md",
     "InformationRepository/信息-2024.11.md",
     "Diary/2024-12-15.md",
-    "Diary/2024-12-07.md",
     "project/经济与社会发展研究项目.md",
     "KnowledgeBase/投资.md",
     "FuturePlanning/未来确定的乐观主义者-规划.md",
@@ -422,7 +423,6 @@
     "Diary/2024-10-05.md",
     "Diary/2024-10-04.md",
     "Diary/2024-10-26.md",
-    "Diary/2024-10-24.md",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
     "project/电力电子作业.xlsx",
