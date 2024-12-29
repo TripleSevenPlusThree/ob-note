@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/投资.md"
+                "file": "Kanban/零散计划.md"
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "零散计划 的大纲"
             }
           }
         ]
@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -385,17 +385,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "11e0c84860e44534",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Kanban/零散计划.md",
+    "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
     "InformationRepository/信息-2024.11.md",
     "InformationRepository/信息-2024.12.md",
     "InformationRepository/信息-2024.10.md",
     "InformationRepository/信息-2024.9.md",
     "Diary/2024-12-07.md",
-    "Excalidraw/投资.md",
-    "Kanban/零散计划.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "Excalidraw/思维链-可视化推理.md",
     "Diary/2024-12-04.md",
     "Diary/2024-12-24.md",
