@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/投资.md"
+                "file": "Kanban/2025年度计划-专注，深入.md"
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "2025年度计划-专注，深入 的大纲"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/零散计划.md",
+                "file": "Kanban/2025年度计划-专注，深入.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -125,7 +125,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "零散计划"
+              "title": "2025年度计划-专注，深入"
             }
           },
           {
@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -386,27 +386,27 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "11e0c84860e44534",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "Excalidraw/投资.md",
+    "Excalidraw/数据分析.md",
+    "Excalidraw/思维链-可视化推理.md",
+    "KnowledgeBase/程序/机器学习.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/PixPin_2024-12-31_21-37-59.png",
     "attachment/PixPin_2024-12-31_21-39-05.png",
-    "Excalidraw/数据分析.md",
     "Diary/2024-12-23.md",
     "InformationRepository/信息-2024.9.md",
-    "Excalidraw/投资.md",
     "InformationRepository/信息-2024.10.md",
     "InformationRepository/信息-2024.11.md",
-    "Kanban/零散计划.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
+    "Kanban/2025年度计划-专注，深入.md",
     "InformationRepository/信息-2024.12.md",
     "Diary/2024-12-07.md",
-    "Excalidraw/思维链-可视化推理.md",
     "Diary/2024-12-04.md",
     "Diary/2024-12-24.md",
     "Diary/2024-12-20.md",
     "Diary/2024-12-27.md",
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "KnowledgeBase/程序/机器学习.md",
     "Diary/2024-06-03.md",
     "attachment/0d7ec202012c9d8cf3cc228b3aa2604.png",
     "attachment/f510bff1f5b62c3a0eced161dbb41fd.png",
@@ -421,7 +421,6 @@
     "attachment/PixPin_2024-12-13_18-38-20.png",
     "attachment/PixPin_2024-12-13_18-38-08.png",
     "attachment/PixPin_2024-12-10_21-06-04.png",
-    "attachment/PixPin_2024-12-10_19-36-21.png",
     "Excalidraw/未命名.canvas",
     "Diary/2024-10-07.md",
     "Diary/2024-10-05.md",
