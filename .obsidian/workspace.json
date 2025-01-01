@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-12-23.md"
+                "file": "project/CreationofDataAnalysisArticles/开栏的话.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-23 的大纲"
+              "title": "开栏的话 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-12-23.md",
+                "file": "project/CreationofDataAnalysisArticles/开栏的话.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-23"
+              "title": "开栏的话"
             }
           },
           {
@@ -384,14 +384,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "a7945632cd014b12",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "project/经济与社会发展研究项目.md",
+    "project/CreationofDataAnalysisArticles/开栏的话.md",
+    "project/网状结构社群.md",
+    "Diary/2024-12-23.md",
     "Kanban/2025年度计划-专注，深入.md",
     "Excalidraw/未来确定的乐观主义者-规划.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
-    "Diary/2024-12-23.md",
     "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "attachment/PixPin_2024-12-31_21-37-59.png",
@@ -411,7 +414,6 @@
     "KnowledgeBase/赚钱之道.md",
     "template/模型/讲话.md",
     "Diary/2024-12-15.md",
-    "project/经济与社会发展研究项目.md",
     "KnowledgeBase/投资.md",
     "attachment/PixPin_2024-12-13_19-22-28.png",
     "attachment/PixPin_2024-12-13_18-41-20.png",
@@ -421,7 +423,6 @@
     "attachment/PixPin_2024-12-10_21-06-04.png",
     "Excalidraw/未命名.canvas",
     "Diary/2024-10-07.md",
-    "Diary/2024-10-05.md",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
     "project/电力电子作业.xlsx",
