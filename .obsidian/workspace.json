@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/2025年度计划-专注，深入.md"
+                "file": "Diary/2024-12-23.md"
               },
               "icon": "lucide-list",
-              "title": "2025年度计划-专注，深入 的大纲"
+              "title": "2024-12-23 的大纲"
             }
           }
         ]
@@ -134,14 +134,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FuturePlanning/未来确定的乐观主义者-规划.md"
+                "file": "Excalidraw/未来确定的乐观主义者-规划.md"
               },
               "icon": "excalidraw-icon",
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 672.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -386,16 +384,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
+    "Kanban/2025年度计划-专注，深入.md",
+    "Excalidraw/未来确定的乐观主义者-规划.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
     "Diary/2024-12-23.md",
-    "Kanban/2025年度计划-专注，深入.md",
     "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "FuturePlanning/未来确定的乐观主义者-规划.md",
     "attachment/PixPin_2024-12-31_21-37-59.png",
     "attachment/PixPin_2024-12-31_21-39-05.png",
     "InformationRepository/信息-2024.9.md",
