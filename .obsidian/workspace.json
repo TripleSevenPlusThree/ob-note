@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/开栏的话.md"
+                "file": "Excalidraw/投资.md"
               },
               "icon": "lucide-list",
-              "title": "开栏的话 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -140,7 +140,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -384,10 +385,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "11e0c84860e44534",
   "lastOpenFiles": [
-    "project/经济与社会发展研究项目.md",
     "project/CreationofDataAnalysisArticles/开栏的话.md",
+    "project/经济与社会发展研究项目.md",
     "project/网状结构社群.md",
     "Diary/2024-12-23.md",
     "Kanban/2025年度计划-专注，深入.md",
