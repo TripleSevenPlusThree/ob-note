@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/投资.md"
+                "file": "project/CreationofDataAnalysisArticles/开栏的话.md"
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "开栏的话 的大纲"
             }
           }
         ]
@@ -140,8 +140,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -385,20 +385,20 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "11e0c84860e44534",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
-    "attachment/PixPin_2025-01-02_10-36-05.png",
+    "Kanban/2025年度计划-专注，深入.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "Excalidraw/数据分析.md",
     "project/CreationofDataAnalysisArticles/开栏的话.md",
+    "Excalidraw/投资.md",
+    "attachment/PixPin_2025-01-02_10-36-05.png",
     "project/经济与社会发展研究项目.md",
     "project/网状结构社群.md",
     "Diary/2024-12-23.md",
-    "Kanban/2025年度计划-专注，深入.md",
     "Excalidraw/未来确定的乐观主义者-规划.md",
     "Excalidraw/思维链-可视化推理.md",
-    "Excalidraw/投资.md",
-    "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/机器学习.md",
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
     "attachment/PixPin_2024-12-31_21-37-59.png",
     "attachment/PixPin_2024-12-31_21-39-05.png",
     "InformationRepository/信息-2024.9.md",
@@ -422,7 +422,6 @@
     "attachment/PixPin_2024-12-13_18-39-38.png",
     "attachment/PixPin_2024-12-13_18-38-20.png",
     "attachment/PixPin_2024-12-13_18-38-08.png",
-    "attachment/PixPin_2024-12-10_21-06-04.png",
     "Excalidraw/未命名.canvas",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
