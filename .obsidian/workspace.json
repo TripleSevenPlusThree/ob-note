@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/桃李面包.md"
+                "file": "Excalidraw/投资.md"
               },
               "icon": "lucide-list",
-              "title": "桃李面包 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -58,15 +58,12 @@
             "id": "11e0c84860e44534",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/桃李面包.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/投资.md"
               },
-              "icon": "lucide-file",
-              "title": "桃李面包"
+              "icon": "excalidraw-icon",
+              "title": "投资"
             }
           },
           {
@@ -261,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -390,12 +388,12 @@
   },
   "active": "11e0c84860e44534",
   "lastOpenFiles": [
-    "Excalidraw/投资.md",
     "project/CreationofDataAnalysisArticles/桃李面包.md",
+    "Excalidraw/数据分析.md",
     "project/CreationofDataAnalysisArticles/开栏的话.md",
+    "Excalidraw/投资.md",
     "Kanban/2025年度计划-专注，深入.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "Excalidraw/数据分析.md",
     "attachment/PixPin_2025-01-02_10-36-05.png",
     "project/经济与社会发展研究项目.md",
     "project/网状结构社群.md",
