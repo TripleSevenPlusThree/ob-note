@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/投资.md"
+                "file": "Kanban/2025年度计划-专注，深入.md"
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "2025年度计划-专注，深入 的大纲"
             }
           }
         ]
@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -386,12 +386,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "11e0c84860e44534",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "Excalidraw/投资.md",
     "project/CreationofDataAnalysisArticles/桃李面包.md",
     "Excalidraw/数据分析.md",
     "project/CreationofDataAnalysisArticles/开栏的话.md",
-    "Excalidraw/投资.md",
     "Kanban/2025年度计划-专注，深入.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "attachment/PixPin_2025-01-02_10-36-05.png",
