@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/桃李面包.md"
+                "file": "Excalidraw/投资.md"
               },
               "icon": "lucide-list",
-              "title": "桃李面包 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -140,7 +140,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -385,8 +386,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
+    "KnowledgeBase/程序/机器学习.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "Kanban/2025年度计划-专注，深入.md",
+    "Excalidraw/未来确定的乐观主义者-规划.md",
     "Excalidraw/投资.md",
     "project/CreationofDataAnalysisArticles/桃李面包.md",
     "attachment/图片3 1.png",
@@ -395,13 +400,9 @@
     "attachment/chart (6).png",
     "attachment/图片2.png",
     "attachment/图片1.png",
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "KnowledgeBase/程序/机器学习.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/数据分析.md",
-    "Kanban/2025年度计划-专注，深入.md",
     "attachment/微信图片_20250120172259 1.jpg",
-    "Excalidraw/未来确定的乐观主义者-规划.md",
     "InformationRepository/信息-2024.12.md",
     "attachment/微信图片_20250123111051.jpg",
     "attachment/微信图片_20250120173027.jpg",
