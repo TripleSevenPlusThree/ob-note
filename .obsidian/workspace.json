@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/未命名.md"
+                "file": "Diary/2025-02-07.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "2025-02-07 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-12-27.md",
+                "file": "Diary/2025-02-07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-27"
+              "title": "2025-02-07"
             }
           },
           {
@@ -155,8 +155,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,8 +377,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -400,12 +398,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "48ee61ebbd8dce06",
   "lastOpenFiles": [
-    "project/CreationofDataAnalysisArticles/桃李面包.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
-    "Kanban/2025年度计划-专注，深入.md",
+    "Diary/2025-02-07.md",
     "Diary/2024-12-27.md",
+    "project/CreationofDataAnalysisArticles/桃李面包.md",
+    "Kanban/2025年度计划-专注，深入.md",
     "Diary/2024-12-23.md",
     "Diary/2024-12-24.md",
     "Diary/2024-12-20.md",
@@ -427,7 +426,6 @@
     "Diary/2024-10-18.md",
     "Diary/2024-10-17.md",
     "Diary/2024-10-15.md",
-    "Diary/2024-10-13.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
