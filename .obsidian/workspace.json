@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 12.012012012012011,
+        "dimension": 6.709158000670916,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-12-27.md"
+                "file": "project/CreationofDataAnalysisArticles/桃李面包.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-27 的大纲"
+              "title": "桃李面包 的大纲"
             }
           }
         ]
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 87.98798798798799,
+        "dimension": 93.29084199932909,
         "children": [
           {
             "id": "48ee61ebbd8dce06",
@@ -155,7 +155,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,7 +273,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -377,7 +379,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -398,8 +401,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "48ee61ebbd8dce06",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "Kanban/2025年度计划-专注，深入.md",
+    "Diary/2024-12-27.md",
     "Diary/2024-12-23.md",
     "Diary/2024-12-24.md",
     "Diary/2024-12-20.md",
@@ -424,8 +429,6 @@
     "Diary/2024-10-13.md",
     "Diary/2024-10-11.md",
     "Diary/2024-10-07.md",
-    "Diary/2024-10-05.md",
-    "Diary/2024-10-04.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
