@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-10-24.md"
+                "file": "project/CreationofDataAnalysisArticles/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-24 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ]
@@ -48,13 +48,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-10-24.md",
+                "file": "project/CreationofDataAnalysisArticles/未命名.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-24"
+              "title": "未命名"
             }
           },
           {
@@ -379,7 +379,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -402,11 +403,11 @@
   },
   "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "Diary/2024-10-24.md",
+    "Diary/2025-02-07.md",
     "Diary/2024-08-23.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
-    "Diary/2024-10-24.md",
     "Diary/2024-11-23.md",
-    "Diary/2025-02-07.md",
     "Diary/2024-12-07.md",
     "project/CreationofDataAnalysisArticles/桃李面包.md",
     "Diary/2024-12-27.md",
