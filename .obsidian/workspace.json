@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/未命名.md"
+                "file": "Excalidraw/投资.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,7 +273,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -378,7 +379,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -399,10 +401,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
-    "project/CreationofDataAnalysisArticles/桃李面包.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
+    "project/CreationofDataAnalysisArticles/桃李面包.md",
     "Diary/2024-10-24.md",
     "Diary/2025-02-07.md",
     "Diary/2024-08-23.md",
