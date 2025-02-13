@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/未命名.md"
+                "file": "Diary/2024-10-24.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "2024-10-24 的大纲"
             }
           }
         ]
@@ -48,13 +48,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/未命名.md",
+                "file": "Diary/2024-10-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "2024-10-24"
             }
           },
           {
@@ -379,8 +379,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -403,11 +402,12 @@
   },
   "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "Diary/2024-08-23.md",
+    "project/CreationofDataAnalysisArticles/未命名.md",
     "Diary/2024-10-24.md",
     "Diary/2024-11-23.md",
     "Diary/2025-02-07.md",
     "Diary/2024-12-07.md",
-    "project/CreationofDataAnalysisArticles/未命名.md",
     "project/CreationofDataAnalysisArticles/桃李面包.md",
     "Diary/2024-12-27.md",
     "Kanban/2025年度计划-专注，深入.md",
@@ -428,7 +428,6 @@
     "Diary/2024-10-19.md",
     "Diary/2024-10-18.md",
     "Diary/2024-10-17.md",
-    "Diary/2024-10-15.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
