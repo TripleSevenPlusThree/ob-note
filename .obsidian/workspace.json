@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/投资.md"
+                "file": "Kanban/2025年度计划-专注，深入.md"
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "2025年度计划-专注，深入 的大纲"
             }
           }
         ]
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -273,8 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 672.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -379,7 +378,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -400,12 +400,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c5572249cd87a345",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "Excalidraw/投资.md",
+    "project/网状结构社群.md",
+    "project/CreationofDataAnalysisArticles/未命名.md",
+    "project/经济与社会发展研究项目.md",
+    "project/决策与复盘反思",
     "Diary/2025-02-14.md",
     "Diary/2025-02-07.md",
-    "project/CreationofDataAnalysisArticles/未命名.md",
-    "Excalidraw/投资.md",
     "project/CreationofDataAnalysisArticles/桃李面包.md",
     "Diary/2024-10-24.md",
     "Diary/2024-08-23.md",
@@ -426,8 +429,6 @@
     "Diary/2024-11-02.md",
     "Diary/2024-10-26.md",
     "Diary/2024-10-22.md",
-    "Diary/2024-10-20.md",
-    "Diary/2024-10-19.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
@@ -448,7 +449,6 @@
     "project",
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
     "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
-    "attachment/Yi Ru Ji Wang _Bu Bian De Ren X - SoBooks 1.zip",
     "Kanban/未命名.canvas",
     "Diary/看板/未命名.canvas",
     "未命名.canvas",
