@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025-02-14.md"
+                "file": "Excalidraw/投资.md"
               },
               "icon": "lucide-list",
-              "title": "2025-02-14 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -61,15 +61,12 @@
             "id": "c5572249cd87a345",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Diary/2025-02-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/投资.md"
               },
-              "icon": "lucide-file",
-              "title": "2025-02-14"
+              "icon": "excalidraw-icon",
+              "title": "投资"
             }
           },
           {
@@ -405,12 +402,12 @@
   },
   "active": "c5572249cd87a345",
   "lastOpenFiles": [
-    "Excalidraw/投资.md",
     "Diary/2025-02-14.md",
+    "Diary/2025-02-07.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
+    "Excalidraw/投资.md",
     "project/CreationofDataAnalysisArticles/桃李面包.md",
     "Diary/2024-10-24.md",
-    "Diary/2025-02-07.md",
     "Diary/2024-08-23.md",
     "Diary/2024-11-23.md",
     "Diary/2024-12-07.md",
