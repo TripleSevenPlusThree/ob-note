@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 6.709158000670916,
+        "dimension": 6.027727546714889,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-06-27.md"
+                "file": "Excalidraw/现金流+资产配置.md"
               },
               "icon": "lucide-list",
-              "title": "2024-06-27 的大纲"
+              "title": "现金流+资产配置 的大纲"
             }
           }
         ]
@@ -25,7 +25,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 93.29084199932909,
+        "dimension": 93.97227245328511,
         "children": [
           {
             "id": "48ee61ebbd8dce06",
@@ -144,6 +144,18 @@
             }
           },
           {
+            "id": "92b5df659ec0fa15",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/现金流+资产配置.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "现金流+资产配置"
+            }
+          },
+          {
             "id": "d7244801564c3322",
             "type": "leaf",
             "state": {
@@ -155,7 +167,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -400,12 +413,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "48ee61ebbd8dce06",
+  "active": "92b5df659ec0fa15",
   "lastOpenFiles": [
+    "Kanban/2025年度计划-专注，深入.md",
+    "Excalidraw/现金流+资产配置.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "Excalidraw/思维链-可视化推理.md",
+    "Diary/2024-06-27.md",
     "Diary/2025-02-07.md",
     "Excalidraw/投资.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
-    "Kanban/2025年度计划-专注，深入.md",
     "project/网状结构社群.md",
     "project/经济与社会发展研究项目.md",
     "project/决策与复盘反思",
@@ -425,10 +442,6 @@
     "Diary/2024-11-17.md",
     "Diary/2024-11-16.md",
     "Diary/2024-11-04.md",
-    "Diary/2024-10-31.md",
-    "Diary/2024-11-02.md",
-    "Diary/2024-10-26.md",
-    "Diary/2024-10-22.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
