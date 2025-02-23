@@ -14,10 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/现金流+资产配置.md"
+                "file": "Diary/2025-02-23.md"
               },
               "icon": "lucide-list",
-              "title": "现金流+资产配置 的大纲"
+              "title": "2025-02-23 的大纲"
             }
           }
         ]
@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-06-27.md",
+                "file": "Diary/2025-02-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-06-27"
+              "title": "2025-02-23"
             }
           },
           {
@@ -167,8 +167,7 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -413,13 +412,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "92b5df659ec0fa15",
+  "active": "48ee61ebbd8dce06",
   "lastOpenFiles": [
-    "Kanban/2025年度计划-专注，深入.md",
+    "Diary/2024-06-27.md",
+    "Diary/2025-02-23.md",
     "Excalidraw/现金流+资产配置.md",
+    "Kanban/2025年度计划-专注，深入.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Excalidraw/思维链-可视化推理.md",
-    "Diary/2024-06-27.md",
     "Diary/2025-02-07.md",
     "Excalidraw/投资.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
@@ -441,7 +441,6 @@
     "Diary/2024-11-20.md",
     "Diary/2024-11-17.md",
     "Diary/2024-11-16.md",
-    "Diary/2024-11-04.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
