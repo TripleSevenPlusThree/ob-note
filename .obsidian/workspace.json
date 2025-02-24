@@ -14,7 +14,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025-02-23.md"
+                "file": "Diary/2025-02-23.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "2025-02-23 的大纲"
@@ -35,11 +38,23 @@
               "state": {
                 "file": "Diary/2025-02-23.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2025-02-23"
+            }
+          },
+          {
+            "id": "afbbe266a6ce4cca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           },
           {
@@ -167,7 +182,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -412,7 +428,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "48ee61ebbd8dce06",
+  "active": "afbbe266a6ce4cca",
   "lastOpenFiles": [
     "Diary/2024-06-27.md",
     "Diary/2025-02-23.md",

@@ -11,5 +11,6 @@
     "页边距留白",
     "字重",
     "checklist界面设置"
-  ]
+  ],
+  "showRibbon": true
 }
