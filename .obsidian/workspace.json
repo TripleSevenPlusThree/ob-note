@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/现金流+资产配置.md",
+                "file": "Excalidraw/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "现金流+资产配置 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -416,13 +416,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "92b5df659ec0fa15",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
+    "Excalidraw/现金流+资产配置.md",
     "Diary/2025-02-24.md",
     "Diary/2025-02-23.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
     "Excalidraw/投资.md",
-    "Excalidraw/现金流+资产配置.md",
     "Diary/2024-06-27.md",
     "Kanban/2025年度计划-专注，深入.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
