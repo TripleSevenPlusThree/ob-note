@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025-02-24.md",
+                "file": "Excalidraw/现金流+资产配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-02-24 的大纲"
+              "title": "现金流+资产配置 的大纲"
             }
           }
         ]
@@ -170,7 +170,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -393,7 +394,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -414,10 +416,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "48ee61ebbd8dce06",
+  "active": "92b5df659ec0fa15",
   "lastOpenFiles": [
-    "Diary/2025-02-23.md",
     "Diary/2025-02-24.md",
+    "Diary/2025-02-23.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
     "Excalidraw/投资.md",
     "Excalidraw/现金流+资产配置.md",
