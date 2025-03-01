@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/模型/讲话.md",
+                "file": "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "讲话 的大纲"
+              "title": "《最重要的事，只有一件》读后感 的大纲"
             }
           }
         ]
@@ -170,7 +170,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,7 +289,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242
+    "width": 672.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -415,8 +417,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "48ee61ebbd8dce06",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "template/模型/讲话.md",
     "Diary/2025-02-24.md",
     "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
@@ -443,7 +446,6 @@
     "Diary/2024-12-20.md",
     "Diary/2024-12-04.md",
     "Diary/2024-11-30.md",
-    "Diary/2024-11-20.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
