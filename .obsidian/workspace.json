@@ -204,7 +204,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PCA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
