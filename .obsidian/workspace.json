@@ -16,7 +16,7 @@
               "state": {
                 "file": "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -417,7 +417,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "74425fc156e19ec8",
   "lastOpenFiles": [
     "template/模型/讲话.md",
     "Diary/2025-02-24.md",
