@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
+                "file": "Kanban/2025年度计划-专注，深入.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "《最重要的事，只有一件》读后感 的大纲"
+              "title": "2025年度计划-专注，深入 的大纲"
             }
           }
         ]
@@ -116,8 +116,8 @@
               "state": {
                 "file": "KnowledgeBase/程序/机器学习.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "机器学习"
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -417,19 +417,22 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "74425fc156e19ec8",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
-    "template/模型/讲话.md",
-    "Diary/2025-02-24.md",
-    "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
-    "project/CreationofDataAnalysisArticles/未命名.md",
+    "Excalidraw/未来确定的乐观主义者-规划.md",
     "Kanban/2025年度计划-专注，深入.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "KnowledgeBase/程序/机器学习.md",
+    "Excalidraw/思维链-可视化推理.md",
+    "Excalidraw/数据分析.md",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/投资.md",
+    "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
+    "template/模型/讲话.md",
+    "Diary/2025-02-24.md",
+    "project/CreationofDataAnalysisArticles/未命名.md",
     "Diary/2025-02-23.md",
     "Diary/2024-06-27.md",
-    "Excalidraw/思维链-可视化推理.md",
     "Diary/2025-02-07.md",
     "project/网状结构社群.md",
     "project/经济与社会发展研究项目.md",
@@ -443,9 +446,6 @@
     "Diary/2024-12-27.md",
     "Diary/2024-12-23.md",
     "Diary/2024-12-24.md",
-    "Diary/2024-12-20.md",
-    "Diary/2024-12-04.md",
-    "Diary/2024-11-30.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
