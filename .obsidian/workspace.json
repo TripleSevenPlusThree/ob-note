@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/2025年度计划-专注，深入.md",
+                "file": "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025年度计划-专注，深入 的大纲"
+              "title": "《最重要的事，只有一件》读后感 的大纲"
             }
           }
         ]
@@ -61,6 +61,18 @@
             }
           },
           {
+            "id": "00e683f39c830161",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/数据分析.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "数据分析"
+            }
+          },
+          {
             "id": "c5572249cd87a345",
             "type": "leaf",
             "state": {
@@ -85,19 +97,7 @@
             }
           },
           {
-            "id": "00e683f39c830161",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/数据分析.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "数据分析"
-            }
-          },
-          {
-            "id": "814af5f3c3881458",
+            "id": "4e3a9e3bcb67b712",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -417,18 +417,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
-    "Excalidraw/未来确定的乐观主义者-规划.md",
-    "Kanban/2025年度计划-专注，深入.md",
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "KnowledgeBase/程序/机器学习.md",
-    "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/数据分析.md",
-    "Excalidraw/现金流+资产配置.md",
     "Excalidraw/投资.md",
+    "Excalidraw/现金流+资产配置.md",
     "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
     "template/模型/讲话.md",
+    "Excalidraw/思维链-可视化推理.md",
+    "KnowledgeBase/程序/机器学习.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "Kanban/2025年度计划-专注，深入.md",
+    "Excalidraw/未来确定的乐观主义者-规划.md",
     "Diary/2025-02-24.md",
     "project/CreationofDataAnalysisArticles/未命名.md",
     "Diary/2025-02-23.md",
