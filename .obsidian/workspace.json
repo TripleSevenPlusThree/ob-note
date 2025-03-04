@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
+                "file": "Excalidraw/现金流+资产配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "《最重要的事，只有一件》读后感 的大纲"
+              "title": "现金流+资产配置 的大纲"
             }
           }
         ]
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -417,7 +417,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "92b5df659ec0fa15",
   "lastOpenFiles": [
     "Excalidraw/数据分析.md",
     "Excalidraw/投资.md",
