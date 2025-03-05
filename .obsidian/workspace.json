@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 6.027727546714889,
+        "dimension": 9.492168960607499,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/现金流+资产配置.md",
+                "file": "project/经济与社会发展研究项目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "现金流+资产配置 的大纲"
+              "title": "经济与社会发展研究项目 的大纲"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 93.97227245328511,
+        "dimension": 90.5078310393925,
         "children": [
           {
             "id": "48ee61ebbd8dce06",
@@ -88,12 +88,15 @@
             "id": "92b5df659ec0fa15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/现金流+资产配置.md"
+                "file": "project/经济与社会发展研究项目.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "现金流+资产配置"
+              "icon": "lucide-file",
+              "title": "经济与社会发展研究项目"
             }
           },
           {
@@ -183,7 +186,6 @@
       {
         "id": "38180af5ff201fb7",
         "type": "tabs",
-        "dimension": 37.94347564642213,
         "children": [
           {
             "id": "a7945632cd014b12",
@@ -239,58 +241,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "1c02be069f0c51a5",
-        "type": "tabs",
-        "dimension": 62.05652435357787,
-        "children": [
-          {
-            "id": "ec047eefbc155b98",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-通义千问",
-              "state": {},
-              "icon": "lucide-cake-slice",
-              "title": "通义千问"
-            }
-          },
-          {
-            "id": "dc61fc345c210628",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-kimi",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "kimi"
-            }
-          },
-          {
-            "id": "ab2202394af511b9",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-dpl",
-              "state": {},
-              "icon": "lucide-book-a",
-              "title": "DPL"
-            }
-          },
-          {
-            "id": "1e1fe18f717f12e6",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-秘塔ai",
-              "state": {},
-              "icon": "lucide-search",
-              "title": "秘塔ai"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 672.5201950073242,
-    "collapsed": true
+    "width": 575.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -395,8 +349,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.5,
-    "collapsed": true
+    "width": 612.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -417,11 +370,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "92b5df659ec0fa15",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
+    "project/网状结构社群.md",
+    "project/经济与社会发展研究项目.md",
+    "Excalidraw/现金流+资产配置.md",
+    "project/shortArticles",
     "Excalidraw/数据分析.md",
     "Excalidraw/投资.md",
-    "Excalidraw/现金流+资产配置.md",
     "project/CreationofDataAnalysisArticles/《最重要的事，只有一件》读后感.md",
     "template/模型/讲话.md",
     "Excalidraw/思维链-可视化推理.md",
@@ -434,8 +390,6 @@
     "Diary/2025-02-23.md",
     "Diary/2024-06-27.md",
     "Diary/2025-02-07.md",
-    "project/网状结构社群.md",
-    "project/经济与社会发展研究项目.md",
     "project/决策与复盘反思",
     "Diary/2025-02-14.md",
     "project/CreationofDataAnalysisArticles/桃李面包.md",
@@ -445,7 +399,6 @@
     "Diary/2024-12-07.md",
     "Diary/2024-12-27.md",
     "Diary/2024-12-23.md",
-    "Diary/2024-12-24.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
@@ -465,7 +418,6 @@
     "project/简历_基本版.docx",
     "project",
     "attachment/经济发展与公共政策研究所项目_刘源锋_“简历”.pdf",
-    "attachment/”经典阅读“书目6：《在武昌、深圳、珠海、上海等地的谈话要点.pdf",
     "Kanban/未命名.canvas",
     "Diary/看板/未命名.canvas",
     "未命名.canvas",
