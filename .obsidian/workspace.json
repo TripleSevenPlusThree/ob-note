@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationOfArticles/未命名 1.md",
+                "file": "Excalidraw/现金流+资产配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "现金流+资产配置 的大纲"
             }
           }
         ]
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242
+    "width": 575.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -361,10 +362,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "92b5df659ec0fa15",
   "lastOpenFiles": [
-    "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/CreationOfArticles/未命名 1.md",
+    "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
     "project/CreationOfArticles/做分类",
     "project/CreationOfArticles/桃李面包.md",
