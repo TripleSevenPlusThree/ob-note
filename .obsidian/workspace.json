@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/CreationOfArticles/未命名 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -70,6 +69,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "数据分析"
+            }
+          },
+          {
+            "id": "7c7e50f3c9b16c58",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
@@ -171,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -364,11 +375,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "7aa86d6902ee9ba1",
   "lastOpenFiles": [
     "Diary/2024-06-03.md",
-    "Diary/2025-02-14.md",
+    "Excalidraw/数据分析.md",
     "project/CreationOfArticles/未命名 1.md",
+    "Diary/2025-02-14.md",
     "Excalidraw/现金流+资产配置.md",
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
@@ -378,7 +390,6 @@
     "template/模型/常规问题.md",
     "Excalidraw/日常.png",
     "Excalidraw/投资.md",
-    "Excalidraw/数据分析.md",
     "project/shortArticles/3-05.md",
     "attachment/0iRn5yIpNA.jpg",
     "attachment/bqrBg2hEv0.jpg",
