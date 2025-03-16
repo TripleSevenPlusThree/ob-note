@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/现金流+资产配置.md",
+                "file": "Kanban/2025年度计划-专注，深入.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "现金流+资产配置 的大纲"
+              "title": "2025年度计划-专注，深入 的大纲"
             }
           }
         ]
@@ -150,6 +150,7 @@
                   "list-collapse": [
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -171,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -364,11 +365,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "92b5df659ec0fa15",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "Excalidraw/现金流+资产配置.md",
+    "KnowledgeBase/程序/机器学习.md",
+    "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
-    "Excalidraw/现金流+资产配置.md",
     "Diary/2024-06-03.md",
     "project/CreationOfArticles/未命名 1.md",
     "Diary/2025-02-14.md",
@@ -390,9 +394,6 @@
     "project/经济与社会发展研究项目.md",
     "project/网状结构社群.md",
     "project/shortArticles",
-    "Excalidraw/思维链-可视化推理.md",
-    "KnowledgeBase/程序/机器学习.md",
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Kanban/2025年度计划-专注，深入.md",
     "Excalidraw/未来确定的乐观主义者-规划.md",
     "Diary/2025-02-24.md",
