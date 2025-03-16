@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-06-03.md",
+                "file": "Excalidraw/现金流+资产配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2024-06-03 的大纲"
+              "title": "现金流+资产配置 的大纲"
             }
           }
         ]
@@ -170,7 +170,8 @@
               "title": "未来确定的乐观主义者-规划"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -363,13 +364,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "6c19f8a06872816c",
+  "active": "92b5df659ec0fa15",
   "lastOpenFiles": [
-    "project/CreationOfArticles/未命名 1.md",
-    "Diary/2024-06-03.md",
+    "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
-    "Diary/2025-02-14.md",
     "Excalidraw/现金流+资产配置.md",
+    "Diary/2024-06-03.md",
+    "project/CreationOfArticles/未命名 1.md",
+    "Diary/2025-02-14.md",
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
     "project/CreationOfArticles/做分类",
@@ -377,7 +379,6 @@
     "project/CreationOfArticles/开栏的话.md",
     "template/模型/常规问题.md",
     "Excalidraw/日常.png",
-    "Excalidraw/投资.md",
     "project/shortArticles/3-05.md",
     "attachment/0iRn5yIpNA.jpg",
     "attachment/bqrBg2hEv0.jpg",
