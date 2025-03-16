@@ -51,13 +51,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/CreationOfArticles/未命名 1.md",
+                "file": "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "《最重要的事，只有一件》读后感"
             }
           },
           {
@@ -152,6 +152,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -233,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242,
-    "collapsed": true
+    "width": 575.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -356,18 +356,18 @@
   },
   "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
-    "KnowledgeBase/程序/机器学习.md",
+    "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
+    "project/CreationOfArticles/未命名 1.md",
+    "Diary/2024-06-03.md",
     "Kanban/要事第一（每日规划）.md",
+    "KnowledgeBase/程序/机器学习.md",
     "Excalidraw/未来确定的乐观主义者-规划.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
-    "Diary/2024-06-03.md",
-    "project/CreationOfArticles/未命名 1.md",
     "Diary/2025-02-14.md",
-    "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
     "project/CreationOfArticles/做分类",
     "project/CreationOfArticles/桃李面包.md",
