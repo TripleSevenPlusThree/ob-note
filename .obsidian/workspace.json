@@ -158,18 +158,6 @@
               "icon": "lucide-trello",
               "title": "2025年度计划-专注，深入"
             }
-          },
-          {
-            "id": "d7244801564c3322",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/未来确定的乐观主义者-规划.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "未来确定的乐观主义者-规划"
-            }
           }
         ],
         "currentTab": 8
@@ -367,6 +355,8 @@
   },
   "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "Excalidraw/未来确定的乐观主义者-规划.md",
+    "Kanban/2025年度计划-专注，深入.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Excalidraw/现金流+资产配置.md",
     "KnowledgeBase/程序/机器学习.md",
@@ -394,8 +384,6 @@
     "project/经济与社会发展研究项目.md",
     "project/网状结构社群.md",
     "project/shortArticles",
-    "Kanban/2025年度计划-专注，深入.md",
-    "Excalidraw/未来确定的乐观主义者-规划.md",
     "Diary/2025-02-24.md",
     "Diary/2025-02-23.md",
     "Diary/2024-06-27.md",
