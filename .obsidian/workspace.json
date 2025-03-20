@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/要事第一.md",
+                "file": "project/CreationOfArticles/未命名 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "要事第一 的大纲"
+              "title": "未命名 1 的大纲"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
+                "file": "project/CreationOfArticles/未命名 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "《最重要的事，只有一件》读后感"
+              "title": "未命名 1"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -354,16 +354,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
+    "Kanban/要事第一.md",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/思维链-可视化推理.md",
     "KnowledgeBase/程序/机器学习.md",
-    "Kanban/要事第一.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Excalidraw/投资.md",
     "Excalidraw/数据分析.md",
-    "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "Diary/2024-06-03.md",
     "project/CreationOfArticles/未命名 1.md",
     "Excalidraw/未来确定的乐观主义者-规划.md",
