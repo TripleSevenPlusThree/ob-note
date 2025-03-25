@@ -61,18 +61,6 @@
             }
           },
           {
-            "id": "00e683f39c830161",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/数据分析.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "数据分析"
-            }
-          },
-          {
             "id": "c5572249cd87a345",
             "type": "leaf",
             "state": {
@@ -106,6 +94,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "思维链-可视化推理"
+            }
+          },
+          {
+            "id": "00e683f39c830161",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/数据分析.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "数据分析"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
