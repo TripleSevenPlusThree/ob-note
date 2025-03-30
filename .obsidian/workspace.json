@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/投资.md",
+                "file": "Excalidraw/拆解商业模式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "拆解商业模式 的大纲"
             }
           }
         ]
@@ -82,6 +82,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "现金流+资产配置"
+            }
+          },
+          {
+            "id": "9825c9139f74199b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/拆解商业模式.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "拆解商业模式"
             }
           },
           {
@@ -162,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242,
-    "collapsed": true
+    "width": 575.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -355,12 +366,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c5572249cd87a345",
+  "active": "a7945632cd014b12",
   "lastOpenFiles": [
+    "Excalidraw/拆解商业模式.md",
+    "Excalidraw/投资.md",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/数据分析.md",
-    "Excalidraw/投资.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Kanban/要事第一.md",
     "project/CreationOfArticles/未命名 1.md",
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
@@ -370,7 +383,6 @@
     "Diary/2025-02-23.md",
     "Diary/2024-06-03.md",
     "KnowledgeBase/程序/机器学习.md",
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Excalidraw/未来确定的乐观主义者-规划.md",
     "project/CreationOfArticles/做分类",
     "project/CreationOfArticles/桃李面包.md",
@@ -391,7 +403,6 @@
     "Diary/2024-06-27.md",
     "Diary/2025-02-07.md",
     "project/决策与复盘反思",
-    "Diary/2024-10-24.md",
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
