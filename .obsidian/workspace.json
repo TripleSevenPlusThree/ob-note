@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/关税事件.md",
+                "file": "Excalidraw/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "关税事件 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -61,18 +61,6 @@
             }
           },
           {
-            "id": "c5572249cd87a345",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/投资.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "投资"
-            }
-          },
-          {
             "id": "befd47423ecad118",
             "type": "leaf",
             "state": {
@@ -85,6 +73,18 @@
               },
               "icon": "lucide-file",
               "title": "关税事件"
+            }
+          },
+          {
+            "id": "c5572249cd87a345",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/投资.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "投资"
             }
           },
           {
@@ -261,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242
+    "width": 575.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -381,15 +382,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "a7945632cd014b12",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
-    "project/投资总结/关系图.md",
     "project/投资总结/关税事件.md",
+    "project/投资总结/关系图.md",
+    "Diary/2025-02-14.md",
+    "project/CreationOfArticles/未命名 1.md",
     "Excalidraw/投资.md",
     "project/投资总结",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/拆解商业模式.md",
-    "project/CreationOfArticles/未命名 1.md",
     "Kanban/要事第一.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "KnowledgeBase/程序/机器学习.md",
@@ -397,7 +399,6 @@
     "Excalidraw/数据分析.md",
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
-    "Diary/2025-02-14.md",
     "Diary/2025-02-24.md",
     "Diary/2025-02-23.md",
     "Diary/2024-06-03.md",
