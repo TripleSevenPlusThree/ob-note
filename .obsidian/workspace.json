@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/影响力.md",
+                "file": "Excalidraw/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "影响力 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -188,7 +188,8 @@
               "title": "要事第一"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -381,11 +382,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "6c19f8a06872816c",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
+    "project/影响力.md",
     "Diary/2025-02-14.md",
     "Excalidraw/投资.md",
-    "project/影响力.md",
     "project/投资总结/关税事件.md",
     "project/投资总结/关系图.md",
     "project/CreationOfArticles/未命名 1.md",
