@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/要事第一.md",
+                "file": "Excalidraw/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "要事第一 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -382,10 +382,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
     "Kanban/要事第一.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
     "KnowledgeBase/程序/机器学习.md",
     "Excalidraw/投资.md",
     "project/投资总结/关税事件.md",
