@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据分析.md",
+                "file": "project/投资总结/关税事件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "关税事件 的大纲"
             }
           }
         ]
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -382,8 +382,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "00e683f39c830161",
+  "active": "befd47423ecad118",
   "lastOpenFiles": [
+    "Excalidraw/数据分析.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/投资.md",
     "Kanban/要事第一.md",
@@ -397,7 +398,6 @@
     "Diary/2025-02-14.md",
     "project/投资总结/关系图.md",
     "project/投资总结",
-    "Excalidraw/数据分析.md",
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
     "Diary/2025-02-24.md",
