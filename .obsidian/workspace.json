@@ -261,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242
+    "width": 575.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -383,9 +384,9 @@
   },
   "active": "c5572249cd87a345",
   "lastOpenFiles": [
-    "project/投资总结/商业模式与经济发展结构.md",
-    "project/投资总结/投资.md",
     "project/投资总结/关税事件.md",
+    "project/投资总结/投资.md",
+    "project/投资总结/商业模式与经济发展结构.md",
     "Excalidraw/现金流+资产配置.md",
     "project/投资总结/关系图.md",
     "Excalidraw/数据分析.md",
