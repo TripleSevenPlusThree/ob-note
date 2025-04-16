@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/关税事件.md",
+                "file": "project/CreationOfArticles/格林美.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "关税事件 的大纲"
+              "title": "格林美 的大纲"
             }
           }
         ]
@@ -66,13 +66,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/投资总结/关税事件.md",
+                "file": "project/CreationOfArticles/格林美.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "关税事件"
+              "title": "格林美"
             }
           },
           {
@@ -384,10 +384,11 @@
   },
   "active": "befd47423ecad118",
   "lastOpenFiles": [
-    "project/信息整合.md",
     "project/投资总结/投资.md",
-    "project/投资总结/关税事件.md",
+    "project/CreationOfArticles/格林美.md",
     "project/投资总结/商业模式与经济发展结构.md",
+    "project/投资总结/关税事件.md",
+    "project/信息整合.md",
     "Excalidraw/现金流+资产配置.md",
     "project/投资总结/关系图.md",
     "Excalidraw/数据分析.md",
@@ -417,7 +418,6 @@
     "attachment/sBScGS30yq.jpg",
     "Excalidraw/日常.md",
     "template/模型/讲话.md",
-    "project/经济与社会发展研究项目.md",
     "project/shortArticles",
     "project/决策与复盘反思",
     "attachment/图片3 1.png",
