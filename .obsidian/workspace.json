@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "project/CreationOfArticles/格林美.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "格林美 的大纲"
             }
           }
         ]
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -382,10 +382,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c5572249cd87a345",
+  "active": "befd47423ecad118",
   "lastOpenFiles": [
-    "project/CreationOfArticles/格林美.md",
     "project/投资总结/投资.md",
+    "project/CreationOfArticles/格林美.md",
     "project/投资总结/商业模式与经济发展结构.md",
     "project/投资总结/关税事件.md",
     "project/信息整合.md",
