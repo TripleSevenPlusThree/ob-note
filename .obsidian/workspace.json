@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资分析记录/国投电力.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "国投电力 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -261,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242
+    "width": 575.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -381,10 +382,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "befd47423ecad118",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
-    "project/投资分析记录/桃李面包.md",
+    "Kanban/要事第一.md",
     "project/投资分析记录/国投电力.md",
+    "project/投资分析记录/桃李面包.md",
     "project/信息整合.md",
     "project/投资总结/投资.md",
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
@@ -396,7 +398,6 @@
     "project/投资总结/关系图.md",
     "Excalidraw/数据分析.md",
     "Excalidraw/思维链-可视化推理.md",
-    "Kanban/要事第一.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "KnowledgeBase/程序/机器学习.md",
     "project/影响力.md",
