@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.md",
+                "file": "project/投资分析记录/电力行业及企业分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-04-20 22.45.11.excalidraw 的大纲"
+              "title": "电力行业及企业分析 的大纲"
             }
           }
         ]
@@ -112,30 +112,6 @@
             }
           },
           {
-            "id": "4e3a9e3bcb67b712",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/日常.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "日常"
-            }
-          },
-          {
-            "id": "1c8068780c96d0f2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-20 22.45.11.excalidraw"
-            }
-          },
-          {
             "id": "00e683f39c830161",
             "type": "leaf",
             "state": {
@@ -201,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242
+    "width": 575.5201950073242,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -282,7 +259,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 21.096345514950166,
+        "dimension": 21.10803324099723,
         "children": [
           {
             "id": "21f1612ce8e8766e",
@@ -353,7 +330,7 @@
       {
         "id": "217561ee04f87e39",
         "type": "tabs",
-        "dimension": 78.90365448504983,
+        "dimension": 19.667590027700832,
         "children": [
           {
             "id": "48ee61ebbd8dce06",
@@ -368,10 +345,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "97d178397277c67d",
+        "type": "tabs",
+        "dimension": 59.224376731301945,
+        "children": [
+          {
+            "id": "4e3a9e3bcb67b712",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png"
+              },
+              "icon": "lucide-image",
+              "title": "Drawing 2025-04-20 22.45.11.excalidraw"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 612.5
+    "width": 612.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -392,11 +389,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "1c8068780c96d0f2",
+  "active": "befd47423ecad118",
   "lastOpenFiles": [
-    "Excalidraw/日常.md",
+    "project/投资总结/商业模式与经济发展结构.md",
+    "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png",
     "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.md",
     "Excalidraw/思维链-可视化推理.md",
+    "Excalidraw/日常.md",
     "project/投资分析记录/电力行业及企业分析.md",
     "template/模板/商业模式.md",
     "project/影响力.md",
@@ -410,7 +409,6 @@
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/投资分析记录/格林美.md",
     "project/投资分析记录",
-    "project/投资总结/商业模式与经济发展结构.md",
     "project/投资总结/关税事件.md",
     "Excalidraw/现金流+资产配置.md",
     "project/投资总结/关系图.md",
@@ -422,7 +420,6 @@
     "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
     "Diary/2025-02-24.md",
     "Diary/2025-02-23.md",
-    "Diary/2024-06-03.md",
     "project/CreationOfArticles/做分类",
     "attachment/0iRn5yIpNA.jpg",
     "attachment/bqrBg2hEv0.jpg",
@@ -434,7 +431,6 @@
     "attachment/图片3 1.png",
     "attachment/chart (6) 1.png",
     "attachment/图片3.png",
-    "attachment/chart (6).png",
     "Excalidraw/未命名.canvas",
     "ProductRequirementsDocument（PRD)",
     "project/简历_内容运营实习生.pdf",
