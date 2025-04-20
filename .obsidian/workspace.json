@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "project/投资分析记录/电力行业及企业分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "电力行业及企业分析 的大纲"
             }
           }
         ]
@@ -66,13 +66,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/投资分析记录/国投电力.md",
+                "file": "project/投资分析记录/电力行业及企业分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "国投电力"
+              "title": "电力行业及企业分析"
             }
           },
           {
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -382,13 +382,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c5572249cd87a345",
+  "active": "befd47423ecad118",
   "lastOpenFiles": [
+    "project/投资总结/投资.md",
     "Kanban/要事第一.md",
-    "project/投资分析记录/国投电力.md",
+    "project/投资分析记录/电力行业及企业分析.md",
     "project/投资分析记录/桃李面包.md",
     "project/信息整合.md",
-    "project/投资总结/投资.md",
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/投资分析记录/格林美.md",
     "project/投资分析记录",
