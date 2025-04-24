@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资分析记录/电力行业及企业分析.md",
+                "file": "Excalidraw/现金流+资产配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "电力行业及企业分析 的大纲"
+              "title": "现金流+资产配置 的大纲"
             }
           }
         ]
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -389,8 +389,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "92b5df659ec0fa15",
   "lastOpenFiles": [
+    "project/投资分析记录/电力行业及企业分析.md",
     "Kanban/要事第一.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "KnowledgeBase/程序/机器学习.md",
@@ -398,7 +399,6 @@
     "project/投资总结/商业模式与经济发展结构.md",
     "Excalidraw/现金流+资产配置.md",
     "project/投资总结/投资.md",
-    "project/投资分析记录/电力行业及企业分析.md",
     "project/信息整合.md",
     "project/投资总结/关税事件.md",
     "KnowledgeBase/税务.md",
