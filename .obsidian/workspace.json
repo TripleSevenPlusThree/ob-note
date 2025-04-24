@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/要事第一.md",
+                "file": "project/投资分析记录/电力行业及企业分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "要事第一 的大纲"
+              "title": "电力行业及企业分析 的大纲"
             }
           }
         ]
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -389,19 +389,22 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "Kanban/要事第一.md",
+    "KnowledgeBase/技能总结/数据分析具体工具.md",
+    "KnowledgeBase/程序/机器学习.md",
+    "Excalidraw/数据分析.md",
+    "project/投资总结/商业模式与经济发展结构.md",
+    "Excalidraw/现金流+资产配置.md",
     "project/投资总结/投资.md",
     "project/投资分析记录/电力行业及企业分析.md",
     "project/信息整合.md",
     "project/投资总结/关税事件.md",
     "KnowledgeBase/税务.md",
-    "Excalidraw/现金流+资产配置.md",
     "attachment/PixPin_2025-04-21_21-33-08.png",
     "attachment/PixPin_2025-04-21_21-33-21.png",
     "KnowledgeBase/经济.md",
-    "Kanban/要事第一.md",
-    "project/投资总结/商业模式与经济发展结构.md",
     "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png",
     "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.md",
     "Excalidraw/思维链-可视化推理.md",
@@ -416,9 +419,6 @@
     "project/投资分析记录/格林美.md",
     "project/投资分析记录",
     "project/投资总结/关系图.md",
-    "Excalidraw/数据分析.md",
-    "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "KnowledgeBase/程序/机器学习.md",
     "Diary/2025-02-14.md",
     "project/投资总结",
     "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
