@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "Excalidraw/数据分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "数据分析 的大纲"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/信息整合.md",
+                "file": "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "信息整合"
+              "title": "DQL"
             }
           },
           {
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -389,8 +389,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c5572249cd87a345",
+  "active": "00e683f39c830161",
   "lastOpenFiles": [
+    "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
+    "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
+    "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
+    "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
+    "project/信息整合.md",
+    "project/投资总结/投资.md",
     "Excalidraw/现金流+资产配置.md",
     "project/投资分析记录/电力行业及企业分析.md",
     "Kanban/要事第一.md",
@@ -398,8 +404,6 @@
     "KnowledgeBase/程序/机器学习.md",
     "Excalidraw/数据分析.md",
     "project/投资总结/商业模式与经济发展结构.md",
-    "project/投资总结/投资.md",
-    "project/信息整合.md",
     "project/投资总结/关税事件.md",
     "KnowledgeBase/税务.md",
     "attachment/PixPin_2025-04-21_21-33-08.png",
@@ -418,10 +422,7 @@
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
     "project/投资分析记录/格林美.md",
     "project/投资分析记录",
-    "project/投资总结/关系图.md",
-    "Diary/2025-02-14.md",
     "project/投资总结",
-    "project/CreationOfArticles/巴菲特持有大量现金的思考.md",
     "project/CreationOfArticles/做分类",
     "attachment/0iRn5yIpNA.jpg",
     "attachment/bqrBg2hEv0.jpg",
