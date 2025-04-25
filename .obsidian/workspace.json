@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/数据分析.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据分析 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -389,8 +389,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "00e683f39c830161",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
+    "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
@@ -402,7 +403,6 @@
     "Kanban/要事第一.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
     "KnowledgeBase/程序/机器学习.md",
-    "Excalidraw/数据分析.md",
     "project/投资总结/商业模式与经济发展结构.md",
     "project/投资总结/关税事件.md",
     "KnowledgeBase/税务.md",
