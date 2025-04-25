@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "Excalidraw/思维链-可视化推理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "思维链-可视化推理 的大纲"
             }
           }
         ]
@@ -124,6 +124,18 @@
             }
           },
           {
+            "id": "914a12188df0a00c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/思维链-可视化推理.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "思维链-可视化推理"
+            }
+          },
+          {
             "id": "7debac62db5ddc92",
             "type": "leaf",
             "state": {
@@ -177,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -249,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242,
-    "collapsed": true
+    "width": 575.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -389,15 +400,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c5572249cd87a345",
+  "active": "914a12188df0a00c",
   "lastOpenFiles": [
-    "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
+    "project/投资总结/投资.md",
+    "Excalidraw/数据分析.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "project/信息整合.md",
-    "project/投资总结/投资.md",
     "Excalidraw/现金流+资产配置.md",
     "project/投资分析记录/电力行业及企业分析.md",
     "Kanban/要事第一.md",
