@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资分析记录/格林美.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "格林美 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -383,8 +383,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
+    "project/投资分析记录/格林美.md",
     "project/信息整合.md",
     "project/影响力.md",
     "project/投资总结/投资.md",
@@ -395,7 +396,6 @@
     "Kanban/要事第一.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/数据分析.md",
-    "project/投资分析记录/格林美.md",
     "project/投资分析记录/电力行业及企业分析.md",
     "project/投资总结/商业模式与经济发展结构.md",
     "Excalidraw/Drawing 2025-04-30 17.00.19.excalidraw.md",
