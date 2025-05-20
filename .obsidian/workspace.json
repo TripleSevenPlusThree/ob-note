@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025-05-17.md",
+                "file": "Kanban/要事第一.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-05-17 的大纲"
+              "title": "要事第一 的大纲"
             }
           }
         ]
@@ -170,7 +170,8 @@
               "title": "要事第一"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -382,12 +383,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "6c19f8a06872816c",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
-    "project/信息整合.md",
-    "project/投资分析记录/格林美.md",
     "project/投资总结/投资.md",
     "Diary/2025-05-17.md",
+    "project/信息整合.md",
+    "project/投资分析记录/格林美.md",
     "attachment/0CE6E4E4.png",
     "project/影响力.md",
     "Excalidraw/思维链-可视化推理.md",
