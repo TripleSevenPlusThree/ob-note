@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/要事第一.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "要事第一 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -66,13 +65,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/投资分析记录/格林美.md",
+                "file": "project/投资总结/行业.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "格林美"
+              "title": "行业"
             }
           },
           {
@@ -171,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242,
-    "collapsed": true
+    "width": 575.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -383,20 +381,21 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
-    "Diary/2025-05-17.md",
-    "project/信息整合.md",
+    "project/投资总结/行业.md",
     "project/投资分析记录/格林美.md",
+    "project/信息整合.md",
+    "Excalidraw/现金流+资产配置.md",
+    "Excalidraw/系统.md",
+    "Kanban/要事第一.md",
+    "Diary/2025-05-17.md",
     "attachment/0CE6E4E4.png",
     "project/影响力.md",
     "Excalidraw/思维链-可视化推理.md",
-    "Excalidraw/现金流+资产配置.md",
     "project/投资总结/关税事件.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DQL.md",
-    "Excalidraw/系统.md",
-    "Kanban/要事第一.md",
     "Excalidraw/数据分析.md",
     "project/投资分析记录/电力行业及企业分析.md",
     "project/投资总结/商业模式与经济发展结构.md",
