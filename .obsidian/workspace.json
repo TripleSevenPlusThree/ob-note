@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资分析记录/格林美.md",
+                "file": "Excalidraw/系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "格林美 的大纲"
+              "title": "系统 的大纲"
             }
           }
         ]
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -398,8 +398,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8661527c4fdf7edb",
+  "active": "39210b528352201e",
   "lastOpenFiles": [
+    "project/投资总结/投资.md",
     "project/投资总结/行业.md",
     "project/投资分析记录/格林美.md",
     "project/投资分析记录/桃李面包.md",
@@ -407,7 +408,6 @@
     "Diary/2025-05-17.md",
     "project/信息整合.md",
     "attachment/PixPin_2025-05-25_15-03-38.png",
-    "project/投资总结/投资.md",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/系统.md",
