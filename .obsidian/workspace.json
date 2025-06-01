@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资分析记录/格林美.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "格林美 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -398,10 +398,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8661527c4fdf7edb",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
-    "project/投资总结/投资.md",
     "project/投资分析记录/格林美.md",
+    "Kanban/要事第一.md",
+    "project/投资总结/投资.md",
     "project/投资总结/行业.md",
     "project/投资总结/商业模式与经济发展结构.md",
     "project/信息整合.md",
@@ -412,7 +413,6 @@
     "project/投资分析记录/特变电工.md",
     "Diary/2025-05-17.md",
     "attachment/PixPin_2025-05-25_15-03-38.png",
-    "Kanban/要事第一.md",
     "attachment/0CE6E4E4.png",
     "project/影响力.md",
     "project/投资总结/关税事件.md",
