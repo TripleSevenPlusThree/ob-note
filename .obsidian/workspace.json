@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/系统.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "系统 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -398,17 +398,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "39210b528352201e",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
-    "project/投资分析记录/格林美.md",
+    "Excalidraw/现金流+资产配置.md",
     "project/投资总结/投资.md",
+    "project/投资总结/商业模式与经济发展结构.md",
+    "Excalidraw/系统.md",
+    "project/投资分析记录/格林美.md",
     "project/投资总结/行业.md",
     "Kanban/要事第一.md",
     "project/信息整合.md",
     "Diary/2025-05-17.md",
-    "project/投资总结/商业模式与经济发展结构.md",
-    "Excalidraw/现金流+资产配置.md",
-    "Excalidraw/系统.md",
     "Excalidraw/思维链-可视化推理.md",
     "project/投资分析记录/桃李面包.md",
     "project/投资分析记录/特变电工.md",
