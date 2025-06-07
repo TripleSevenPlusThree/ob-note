@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/要事第一.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "要事第一 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -398,8 +398,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "c5572249cd87a345",
   "lastOpenFiles": [
+    "Kanban/要事第一.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/数据分析.md",
     "project/投资总结/投资.md",
@@ -408,7 +409,6 @@
     "Excalidraw/现金流+资产配置.md",
     "project/投资总结/商业模式与经济发展结构.md",
     "Excalidraw/系统.md",
-    "Kanban/要事第一.md",
     "project/信息整合.md",
     "Diary/2025-05-17.md",
     "project/投资分析记录/桃李面包.md",
