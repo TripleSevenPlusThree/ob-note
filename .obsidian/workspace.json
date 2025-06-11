@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/投资总结/行业.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "行业 的大纲"
             }
           }
         ]
@@ -90,13 +91,15 @@
             }
           },
           {
-            "id": "c5572249cd87a345",
+            "id": "d6a092741742899a",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
-              "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "type": "excalidraw",
+              "state": {
+                "file": "project/投资总结/投资.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "投资"
             }
           },
           {
@@ -183,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -395,17 +398,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c5572249cd87a345",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
-    "project/投资分析记录/格林美.md",
     "Excalidraw/系统.md",
+    "Excalidraw/数据分析.md",
+    "project/投资总结/商业模式与经济发展结构.md",
+    "project/投资分析记录/格林美.md",
     "project/投资总结/行业.md",
+    "Excalidraw/现金流+资产配置.md",
     "project/信息整合.md",
     "Kanban/要事第一.md",
-    "Excalidraw/现金流+资产配置.md",
-    "project/投资总结/商业模式与经济发展结构.md",
-    "Excalidraw/数据分析.md",
     "Excalidraw/思维链-可视化推理.md",
     "Diary/2025-05-17.md",
     "project/投资分析记录/桃李面包.md",
