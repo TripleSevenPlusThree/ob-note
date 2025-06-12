@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -397,7 +396,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "0f16558abee13ce5",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "project/投资分析记录/格林美.md",
