@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "project/投资分析记录/工商银行.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "工商银行 的大纲"
             }
           }
         ]
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -398,11 +398,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "8661527c4fdf7edb",
   "lastOpenFiles": [
-    "project/投资分析记录/工商银行.md",
-    "project/投资总结/投资.md",
     "project/投资总结/行业.md",
+    "project/投资总结/投资.md",
+    "project/投资分析记录/工商银行.md",
     "project/投资分析记录/格林美.md",
     "Excalidraw/现金流+资产配置.md",
     "project/信息整合.md",
