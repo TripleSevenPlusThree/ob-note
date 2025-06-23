@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -398,18 +397,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "e9b1050682ee92cc",
   "lastOpenFiles": [
-    "project/投资分析记录/工商银行.md",
-    "project/投资总结/行业.md",
+    "Kanban/要事第一.md",
     "project/投资总结/投资.md",
+    "project/投资总结/行业.md",
+    "project/投资分析记录/工商银行.md",
     "project/投资分析记录/格林美.md",
     "Excalidraw/现金流+资产配置.md",
     "project/信息整合.md",
     "Excalidraw/系统.md",
     "Excalidraw/数据分析.md",
     "project/投资总结/商业模式与经济发展结构.md",
-    "Kanban/要事第一.md",
     "Excalidraw/思维链-可视化推理.md",
     "Diary/2025-05-17.md",
     "project/投资分析记录/桃李面包.md",
