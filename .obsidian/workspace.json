@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/投资总结/行业.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "行业 的大纲"
             }
           }
         ]
@@ -185,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -397,11 +398,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "b1dfdbfd64b8179d",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
-    "project/信息整合.md",
     "project/投资总结/行业.md",
+    "project/信息整合.md",
     "project/投资分析记录/工商银行.md",
     "Diary/2025-06-23.md",
     "Diary/2025-05-17.md",
