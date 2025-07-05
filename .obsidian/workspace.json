@@ -268,7 +268,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 21.10803324099723,
+        "dimension": 51.76630434782609,
         "children": [
           {
             "id": "21f1612ce8e8766e",
@@ -339,7 +339,7 @@
       {
         "id": "217561ee04f87e39",
         "type": "tabs",
-        "dimension": 19.667590027700832,
+        "dimension": 48.23369565217391,
         "children": [
           {
             "id": "48ee61ebbd8dce06",
@@ -351,25 +351,6 @@
               },
               "icon": "lucide-image",
               "title": "日常"
-            }
-          }
-        ]
-      },
-      {
-        "id": "97d178397277c67d",
-        "type": "tabs",
-        "dimension": 59.224376731301945,
-        "children": [
-          {
-            "id": "4e3a9e3bcb67b712",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png"
-              },
-              "icon": "lucide-image",
-              "title": "Drawing 2025-04-20 22.45.11.excalidraw"
             }
           }
         ]
@@ -400,14 +381,15 @@
   },
   "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
+    "project/投资分析记录/工商银行.md",
+    "project/投资总结/行业.md",
+    "Kanban/要事第一.md",
+    "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png",
     "Excalidraw/系统.md",
     "Diary/2025-06-23.md",
-    "project/投资总结/行业.md",
     "project/投资总结/投资.md",
     "project/信息整合.md",
-    "project/投资分析记录/工商银行.md",
     "Diary/2025-05-17.md",
-    "Kanban/要事第一.md",
     "project/投资分析记录/格林美.md",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/数据分析.md",
@@ -429,8 +411,6 @@
     "KnowledgeBase/税务.md",
     "attachment/PixPin_2025-04-21_21-33-08.png",
     "attachment/PixPin_2025-04-21_21-33-21.png",
-    "KnowledgeBase/经济.md",
-    "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png",
     "Excalidraw/日常.png",
     "project/投资分析记录",
     "project/投资总结",
