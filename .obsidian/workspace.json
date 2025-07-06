@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/思维链-可视化推理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "思维链-可视化推理 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -186,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -379,11 +378,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "914a12188df0a00c",
+  "active": "26103e99267a590b",
   "lastOpenFiles": [
-    "project/投资总结/行业.md",
-    "Excalidraw/思维链-可视化推理.md",
     "project/投资总结/投资.md",
+    "Excalidraw/思维链-可视化推理.md",
+    "project/投资总结/行业.md",
     "Kanban/要事第一.md",
     "project/投资分析记录/工商银行.md",
     "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png",
