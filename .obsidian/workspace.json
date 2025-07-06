@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/系统.md",
+                "file": "Kanban/要事第一.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "系统 的大纲"
+              "title": "要事第一 的大纲"
             }
           }
         ]
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -367,18 +367,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "39210b528352201e",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
-    "Excalidraw/现金流+资产配置.md",
+    "Diary/2025-06-23.md",
     "project/投资总结/投资.md",
+    "Excalidraw/现金流+资产配置.md",
     "project/投资总结/商业模式与经济发展结构.md",
+    "Excalidraw/系统.md",
     "Kanban/要事第一.md",
     "project/投资总结/行业.md",
     "Excalidraw/思维链-可视化推理.md",
     "project/投资分析记录/工商银行.md",
     "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png",
-    "Excalidraw/系统.md",
-    "Diary/2025-06-23.md",
     "project/信息整合.md",
     "Diary/2025-05-17.md",
     "project/投资分析记录/格林美.md",
