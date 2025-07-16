@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/投资总结/行业.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "行业 的大纲"
             }
           }
         ]
@@ -173,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -366,8 +367,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "75ef607a12c71ff4",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
+    "project/投资分析记录/工商银行.md",
     "project/投资总结/投资.md",
     "Excalidraw/系统.md",
     "Excalidraw/思维链-可视化推理.md",
@@ -378,7 +380,6 @@
     "project/信息整合.md",
     "attachment/193a91d17c289dea3fad2017.png!raw.jpg",
     "Diary/2025-06-23.md",
-    "project/投资分析记录/工商银行.md",
     "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png",
     "Diary/2025-05-17.md",
     "project/投资分析记录/格林美.md",
