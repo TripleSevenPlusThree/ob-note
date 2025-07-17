@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025-07-17.md",
+                "file": "Excalidraw/日常.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-17 的大纲"
+              "title": "日常 的大纲"
             }
           }
         ]
@@ -36,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025-06-23.md",
+                "file": "Diary/2025-07-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-23"
+              "title": "2025-07-17"
             }
           },
           {
@@ -81,13 +81,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025-07-17.md",
+                "file": "project/投资总结/行业.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-17"
+              "title": "行业"
             }
           },
           {
@@ -173,8 +173,7 @@
               "title": "要事第一"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242,
-    "collapsed": true
+    "width": 575.5201950073242
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -256,7 +254,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 51.76630434782609,
+        "dimension": 23.067408781694496,
         "children": [
           {
             "id": "21f1612ce8e8766e",
@@ -327,7 +325,7 @@
       {
         "id": "217561ee04f87e39",
         "type": "tabs",
-        "dimension": 48.23369565217391,
+        "dimension": 19.29499072356215,
         "children": [
           {
             "id": "48ee61ebbd8dce06",
@@ -342,11 +340,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "641b62dadf8050b4",
+        "type": "tabs",
+        "dimension": 57.63760049474336,
+        "children": [
+          {
+            "id": "6270c937149efd27",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-通义千问",
+              "state": {},
+              "icon": "lucide-cake-slice",
+              "title": "通义千问"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 552.5,
-    "collapsed": true
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,12 +381,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d36ca5933b01c553",
+  "active": "48ee61ebbd8dce06",
   "lastOpenFiles": [
-    "project/投资总结/行业.md",
     "Diary/2025-07-17.md",
-    "project/投资分析记录/工商银行.md",
+    "Diary/2025-06-23.md",
+    "project/投资总结/行业.md",
     "project/投资总结/投资.md",
+    "project/投资分析记录/工商银行.md",
     "Excalidraw/系统.md",
     "Excalidraw/思维链-可视化推理.md",
     "Kanban/要事第一.md",
@@ -380,7 +395,6 @@
     "project/投资总结/商业模式与经济发展结构.md",
     "project/信息整合.md",
     "attachment/193a91d17c289dea3fad2017.png!raw.jpg",
-    "Diary/2025-06-23.md",
     "Excalidraw/Drawing 2025-04-20 22.45.11.excalidraw.png",
     "Diary/2025-05-17.md",
     "project/投资分析记录/格林美.md",
