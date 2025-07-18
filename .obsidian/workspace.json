@@ -6,7 +6,7 @@
       {
         "id": "62ba7842c11d6d26",
         "type": "tabs",
-        "dimension": 7.339449541284404,
+        "dimension": 6.709158000670916,
         "children": [
           {
             "id": "74425fc156e19ec8",
@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/日常.png",
+                "file": "Diary/2025-07-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日常 的大纲"
+              "title": "2025-07-17 的大纲"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "2efdc52b462061bf",
         "type": "tabs",
-        "dimension": 92.66055045871559,
+        "dimension": 93.29084199932909,
         "children": [
           {
             "id": "6c19f8a06872816c",
@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5201950073242
+    "width": 384.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -254,7 +255,7 @@
       {
         "id": "01b29040d1628686",
         "type": "tabs",
-        "dimension": 23.067408781694496,
+        "dimension": 22.263450834879407,
         "children": [
           {
             "id": "21f1612ce8e8766e",
@@ -325,7 +326,7 @@
       {
         "id": "217561ee04f87e39",
         "type": "tabs",
-        "dimension": 19.29499072356215,
+        "dimension": 20.098948670377244,
         "children": [
           {
             "id": "48ee61ebbd8dce06",
@@ -344,7 +345,7 @@
       {
         "id": "641b62dadf8050b4",
         "type": "tabs",
-        "dimension": 57.63760049474336,
+        "dimension": 57.63760049474335,
         "children": [
           {
             "id": "6270c937149efd27",
@@ -360,7 +361,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 625.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,8 +383,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "48ee61ebbd8dce06",
+  "active": "6c19f8a06872816c",
   "lastOpenFiles": [
+    "Excalidraw/日常.png",
     "Diary/2025-07-17.md",
     "Diary/2025-06-23.md",
     "project/投资总结/行业.md",
@@ -412,10 +415,8 @@
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "KnowledgeBase/技能总结/数据分析具体工具.md",
-    "KnowledgeBase/税务.md",
     "attachment/PixPin_2025-04-21_21-33-08.png",
     "attachment/PixPin_2025-04-21_21-33-21.png",
-    "Excalidraw/日常.png",
     "project/投资分析记录",
     "project/投资总结",
     "project/CreationOfArticles/做分类",
