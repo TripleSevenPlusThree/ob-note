@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/要事第一.md",
+                "file": "template/模型/提问能力.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "要事第一 的大纲"
+              "title": "提问能力 的大纲"
             }
           }
         ]
@@ -189,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -399,12 +399,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e2ed2f0ec7f0e4fa",
+  "active": "fab10aa008a3470c",
   "lastOpenFiles": [
+    "Kanban/要事第一.md",
     "Excalidraw/现金流+资产配置.md",
     "project/投资总结/投资.md",
     "project/投资总结/商业模式与经济发展结构.md",
-    "Kanban/要事第一.md",
     "project/投资总结/行业.md",
     "template/模型/提问能力.md",
     "Diary/2025-07-17.md",
