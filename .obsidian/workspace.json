@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "project/投资总结/市场温度.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "市场温度 的大纲"
             }
           }
         ]
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -414,11 +414,15 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "a51d5bba47228bc8",
   "lastOpenFiles": [
-    "project/投资总结/市场温度.md",
-    "project/投资总结/投资.md",
     "project/投资总结/行业.md",
+    "project/投资总结/投资.md",
+    "project/投资总结/市场温度.md",
+    "attachment/商业银行_不良贷款比例_损失类.png",
+    "attachment/A股成交金额.png",
+    "attachment/资金净流入额_A股.png",
+    "attachment/沪深合计_融资余额(1).png",
     "project/信息整合.md",
     "Excalidraw/系统.md",
     "Diary/2025-07-17.md",
@@ -446,15 +450,10 @@
     "KnowledgeBase/程序/机器学习.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/多表查询.md",
     "KnowledgeBase/程序/数据库-MySQL/基础/SQL/DCL.md",
-    "KnowledgeBase/程序/数据库-MySQL/基础/函数.md",
     "attachment/PixPin_2025-04-21_21-33-08.png",
-    "attachment/PixPin_2025-04-21_21-33-21.png",
     "project/投资分析记录",
     "project/投资总结",
     "project/CreationOfArticles/做分类",
-    "attachment/0iRn5yIpNA.jpg",
-    "attachment/bqrBg2hEv0.jpg",
-    "attachment/i7ThQaL8RF.jpg",
     "project/shortArticles",
     "project/决策与复盘反思",
     "Excalidraw/未命名.canvas",
