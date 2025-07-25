@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025-07-17.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-17 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -203,7 +203,8 @@
               "title": "要事第一"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -275,7 +276,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5119791030884
+    "width": 384.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -412,16 +414,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "6c19f8a06872816c",
+  "active": "d6a092741742899a",
   "lastOpenFiles": [
+    "project/投资总结/市场温度.md",
+    "template/模型/提问能力.md",
+    "Diary/2025-07-17.md",
     "Diary/2025-06-23.md",
     "Diary/2025-02-24.md",
     "Diary/2025-02-14.md",
     "Diary/2025-02-07.md",
     "Diary/2025-05-17.md",
-    "Diary/2025-07-17.md",
     "project/投资总结/投资.md",
-    "project/投资总结/市场温度.md",
     "project/投资总结/商业模式与经济发展结构.md",
     "project/投资总结/行业.md",
     "attachment/商业银行_不良贷款比例_损失类.png",
@@ -431,7 +434,6 @@
     "project/信息整合.md",
     "Excalidraw/系统.md",
     "Kanban/要事第一.md",
-    "template/模型/提问能力.md",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/日常.png",
