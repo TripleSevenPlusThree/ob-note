@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/市场温度.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "市场温度 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -414,10 +414,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "a51d5bba47228bc8",
+  "active": "d6a092741742899a",
   "lastOpenFiles": [
-    "project/投资总结/投资.md",
     "project/投资总结/市场温度.md",
+    "project/投资总结/投资.md",
     "project/投资总结/商业模式与经济发展结构.md",
     "project/投资总结/行业.md",
     "attachment/商业银行_不良贷款比例_损失类.png",
