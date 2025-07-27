@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -414,11 +413,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "fe4b51e49ada1a13",
   "lastOpenFiles": [
+    "project/投资总结/投资.md",
     "Diary/2025-07-17.md",
     "project/CreationOfArticles/《最重要的事，只有一件》读后感.md",
-    "project/投资总结/投资.md",
     "project/信息整合.md",
     "project/投资总结/市场温度.md",
     "template/模型/提问能力.md",
