@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/信息整合.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "信息整合 的大纲"
             }
           }
         ]
@@ -203,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -413,7 +414,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "fe4b51e49ada1a13",
+  "active": "befd47423ecad118",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "Diary/2025-07-17.md",
