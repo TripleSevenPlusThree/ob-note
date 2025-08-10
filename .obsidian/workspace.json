@@ -126,13 +126,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/投资总结/错误与反思.md",
+                "file": "project/投资总结/竞争战略-行业研究与企业研究结构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "错误与反思"
+              "title": "竞争战略-行业研究与企业研究结构"
             }
           },
           {
@@ -291,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5119791030884
+    "width": 384.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -430,11 +431,11 @@
   },
   "active": "d6a092741742899a",
   "lastOpenFiles": [
+    "project/投资总结/竞争战略-行业研究与企业研究结构.md",
     "project/投资总结/错误与反思.md",
+    "project/投资总结/投资.md",
     "Diary/2025-02-14.md",
     "Diary/2025-02-24.md",
-    "project/投资总结/投资.md",
-    "project/投资总结/竞争战略-行业研究与企业研究结构.md",
     "project/投资总结/行业.md",
     "Kanban/要事第一.md",
     "project/投资总结/市场温度.md",
