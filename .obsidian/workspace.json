@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -429,11 +428,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "c5f6fa1392ed87a8",
   "lastOpenFiles": [
+    "project/投资总结/投资.md",
     "project/投资总结/市场温度.md",
     "project/信息整合.md",
-    "project/投资总结/投资.md",
     "project/投资总结/竞争战略-行业研究与企业研究结构.md",
     "project/投资总结/错误与反思.md",
     "Diary/2025-02-14.md",
