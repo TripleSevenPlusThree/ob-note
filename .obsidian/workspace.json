@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/信息整合.md",
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "信息整合 的大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -219,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -429,8 +429,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "befd47423ecad118",
+  "active": "d6a092741742899a",
   "lastOpenFiles": [
+    "project/投资总结/商业模式与经济发展结构.md",
     "project/投资总结/投资.md",
     "project/信息整合.md",
     "project/投资总结/竞争战略-行业研究与企业研究结构.md",
@@ -446,7 +447,6 @@
     "Diary/2025-06-23.md",
     "Diary/2025-02-07.md",
     "Diary/2025-05-17.md",
-    "project/投资总结/商业模式与经济发展结构.md",
     "attachment/商业银行_不良贷款比例_损失类.png",
     "attachment/A股成交金额.png",
     "attachment/资金净流入额_A股.png",
