@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/投资总结/行业.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "行业 的大纲"
             }
           }
         ]
@@ -203,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -413,7 +414,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "9b5474ed3f9db984",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "Kanban/要事第一.md",
