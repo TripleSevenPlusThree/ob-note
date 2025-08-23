@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "project/投资总结/商业与经济发展结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "商业与经济发展结构 的大纲"
             }
           }
         ]
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -416,11 +416,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "9825c9139f74199b",
   "lastOpenFiles": [
+    "project/投资总结/投资.md",
     "project/投资总结/商业与经济发展结构.md",
     "project/投资总结/行业.md",
-    "project/投资总结/投资.md",
     "Kanban/要事第一.md",
     "Excalidraw/思维链-可视化推理.md",
     "Excalidraw/系统.md",
