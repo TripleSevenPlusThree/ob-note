@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/投资总结/行业.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "行业 的大纲"
             }
           }
         ]
@@ -204,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -415,13 +416,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d94c64b750e4e906",
+  "active": "d36ca5933b01c553",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
-    "project/投资总结/商业与经济发展结构.md",
-    "Excalidraw/系统.md",
     "project/投资总结/行业.md",
     "Excalidraw/现金流+资产配置.md",
+    "project/投资总结/商业与经济发展结构.md",
+    "Excalidraw/系统.md",
     "Kanban/要事第一.md",
     "project/投资分析记录/工商银行.md",
     "project/投资总结/市场温度.md",
