@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -416,10 +415,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "c3d3971c126b893a",
   "lastOpenFiles": [
-    "project/投资总结/商业与经济发展结构.md",
     "project/投资总结/投资.md",
+    "project/投资总结/商业与经济发展结构.md",
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/系统.md",
     "project/投资总结/行业.md",
