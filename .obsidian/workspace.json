@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/现金流+资产配置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "现金流+资产配置 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -205,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -416,7 +415,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "92b5df659ec0fa15",
+  "active": "951543702e464180",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "Excalidraw/现金流+资产配置.md",
