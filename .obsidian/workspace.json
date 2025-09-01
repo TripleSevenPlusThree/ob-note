@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kanban/要事第一.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "要事第一 的大纲"
             }
           }
         ]
@@ -204,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -415,10 +416,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "ea6fd80a59f871e5",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
-    "project/投资总结/投资.md",
     "Excalidraw/现金流+资产配置.md",
+    "project/投资总结/投资.md",
     "Kanban/要事第一.md",
     "Excalidraw/系统.md",
     "project/投资总结/商业与经济发展结构.md",
