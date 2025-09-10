@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Kanban/要事第一.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "要事第一 的大纲"
             }
           }
         ]
@@ -204,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -415,7 +416,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "aa97582f27e6eea1",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "Kanban/要事第一.md",
