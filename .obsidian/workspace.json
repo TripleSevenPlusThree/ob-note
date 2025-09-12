@@ -136,12 +136,12 @@
             "id": "d6a092741742899a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "project/投资总结/投资.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "投资"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... 投资"
             }
           },
           {
