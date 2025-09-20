@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "project/信息整合.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "信息整合 的大纲"
             }
           }
         ]
@@ -136,12 +136,12 @@
             "id": "d6a092741742899a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "project/投资总结/投资.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... 投资"
+              "icon": "excalidraw-icon",
+              "title": "投资"
             }
           },
           {
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -437,10 +437,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "d6a092741742899a",
+  "active": "befd47423ecad118",
   "lastOpenFiles": [
-    "project/投资总结/行业.md",
     "project/投资总结/投资.md",
+    "project/投资总结/行业.md",
     "project/信息整合.md",
     "project/投资总结/商业与经济发展结构.md",
     "Kanban/要事第一.md",
