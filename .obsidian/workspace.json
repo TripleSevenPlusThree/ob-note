@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/商业与经济发展结构.md",
+                "file": "project/投资分析记录/苏泊尔.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "商业与经济发展结构 的大纲"
+              "title": "苏泊尔 的大纲"
             }
           }
         ]
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -438,11 +438,11 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "31ea62545d87a1e7",
+  "active": "8740f35636ba073f",
   "lastOpenFiles": [
+    "project/投资总结/投资.md",
     "project/投资分析记录/苏泊尔.md",
     "project/投资总结/商业与经济发展结构.md",
-    "project/投资总结/投资.md",
     "Excalidraw/现金流+资产配置.md",
     "project/投资总结/行业.md",
     "project/投资总结/市场温度.md",
