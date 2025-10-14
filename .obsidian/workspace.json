@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -135,12 +136,12 @@
             "id": "d6a092741742899a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "project/投资总结/投资.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "投资"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... 投资"
             }
           },
           {
