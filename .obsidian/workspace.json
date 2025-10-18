@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "project/投资分析记录/苏泊尔.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "苏泊尔 的大纲"
             }
           }
         ]
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -438,7 +438,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "90410cac1ff1ed73",
+  "active": "8740f35636ba073f",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "Kanban/要事第一.md",
