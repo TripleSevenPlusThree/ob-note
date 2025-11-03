@@ -299,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5119791030884
+    "width": 445.5119791030884,
+    "collapsed": true
   },
   "right": {
     "id": "fe2bdb72001b5171",
@@ -439,6 +440,7 @@
   },
   "active": "8740f35636ba073f",
   "lastOpenFiles": [
+    "attachment/PixPin_2025-11-03_15-43-36.jpg",
     "attachment/PixPin_2025-11-03_15-14-21.jpg",
     "project/投资分析记录/国恩股份.md",
     "project/投资分析记录/沃特股份.md",
@@ -474,7 +476,6 @@
     "attachment/商业银行_不良贷款比例_损失类.png",
     "attachment/A股成交金额.png",
     "attachment/资金净流入额_A股.png",
-    "attachment/沪深合计_融资余额(1).png",
     "project/投资分析记录",
     "project/投资总结",
     "project/CreationOfArticles/做分类",
