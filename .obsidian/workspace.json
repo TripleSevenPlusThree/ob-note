@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资分析记录/沃特股份.md",
+                "file": "Diary/2025-11-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "沃特股份 的大纲"
+              "title": "2025-11-01 的大纲"
             }
           }
         ]
@@ -205,8 +205,7 @@
               "title": "要事第一"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -438,10 +437,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8740f35636ba073f",
+  "active": "6c19f8a06872816c",
   "lastOpenFiles": [
-    "Diary/2025-11-01.md",
     "project/投资分析记录/沃特股份.md",
+    "Diary/2025-11-01.md",
     "project/投资总结/行业.md",
     "project/投资总结/商业与经济发展结构.md",
     "attachment/PixPin_2025-11-03_15-43-36.jpg",
