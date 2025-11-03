@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -438,10 +437,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "90410cac1ff1ed73",
+  "active": "d19da3d29fd1143f",
   "lastOpenFiles": [
-    "Diary/2025-11-01.md",
     "project/投资总结/投资.md",
+    "Diary/2025-11-01.md",
     "project/投资分析记录/沃特股份.md",
     "project/投资总结/行业.md",
     "attachment/PixPin_2025-11-02_19-56-05.jpg",
