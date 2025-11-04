@@ -438,16 +438,56 @@
       "obsidian-kanban:创建新看板": false
     }
   },
+  "floating": {
+    "id": "a9e1b29cd59ff5cc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "33a010e2f5570857",
+        "type": "window",
+        "children": [
+          {
+            "id": "f0b9e355d0152fa1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "18f0b7cbd5b9ccae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "project/投资分析记录/沃特股份.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "沃特股份"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1152,
+        "y": 0,
+        "width": 1152,
+        "height": 1248,
+        "maximize": false,
+        "zoom": -1.5
+      }
+    ]
+  },
   "active": "8740f35636ba073f",
   "lastOpenFiles": [
     "project/投资分析记录/沃特股份.md",
+    "project/投资分析记录/普利特.md",
     "project/投资总结/投资.md",
     "Diary/2025-11-01.md",
     "project/投资总结/行业.md",
     "project/投资总结/商业与经济发展结构.md",
     "attachment/PixPin_2025-11-03_15-43-36.jpg",
     "attachment/PixPin_2025-11-03_15-14-21.jpg",
-    "project/投资分析记录/普利特.md",
     "attachment/PixPin_2025-11-02_19-56-05.jpg",
     "project/投资分析记录/苏泊尔.md",
     "Excalidraw/系统.md",
