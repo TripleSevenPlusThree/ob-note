@@ -21,8 +21,21 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "0e94178a4a88db0e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2efdc52b462061bf",
@@ -437,7 +450,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e21d368aaa5f85ef",
+  "active": "dae209ba0af13374",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "project/投资总结/商业与经济发展结构.md",
