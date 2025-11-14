@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "投资 的大纲"
             }
           }
         ]
@@ -437,18 +438,19 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "fa326b2bca421dec",
+  "active": "90410cac1ff1ed73",
   "lastOpenFiles": [
-    "project/投资总结/投资.md",
-    "持续关注的事件.md",
     "project/投资总结/商业与经济发展结构.md",
     "project/投资分析记录/沃特股份.md",
+    "project/投资总结/行业.md",
+    "project/投资总结/市场温度.md",
+    "project/投资总结/投资.md",
+    "持续关注的事件.md",
     "attachment/PixPin_2025-11-05_16-47-42.jpg",
     "Diary/2025-11-01.md",
     "project/投资分析记录/普利特.md",
     "attachment/PixPin_2025-11-04_18-00-58.jpg",
     "attachment/PixPin_2025-11-04_18-00-15.jpg",
-    "project/投资总结/行业.md",
     "attachment/PixPin_2025-11-03_15-43-36.jpg",
     "attachment/PixPin_2025-11-03_15-14-21.jpg",
     "attachment/PixPin_2025-11-02_19-56-05.jpg",
@@ -463,7 +465,6 @@
     "Excalidraw/现金流+资产配置.md",
     "Excalidraw/思维链-可视化推理.md",
     "Kanban/要事第一.md",
-    "project/投资总结/市场温度.md",
     "template/模型/提问能力.md",
     "project/投资分析记录/工商银行.md",
     "project/信息整合.md",
