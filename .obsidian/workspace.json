@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资分析记录/沃特股份.md",
+                "file": "project/投资总结/商业与经济发展结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "沃特股份 的大纲"
+              "title": "商业与经济发展结构 的大纲"
             }
           }
         ]
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -438,10 +438,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8740f35636ba073f",
+  "active": "31ea62545d87a1e7",
   "lastOpenFiles": [
-    "project/投资总结/商业与经济发展结构.md",
     "project/投资分析记录/沃特股份.md",
+    "project/投资总结/商业与经济发展结构.md",
     "project/投资总结/投资.md",
     "attachment/PixPin_2025-11-18_19-02-07.jpg",
     "attachment/PixPin_2025-11-18_18-47-32.jpg",
