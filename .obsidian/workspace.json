@@ -136,12 +136,12 @@
             "id": "90410cac1ff1ed73",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "project/投资总结/投资.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... 投资"
+              "icon": "excalidraw-icon",
+              "title": "投资"
             }
           },
           {
@@ -438,13 +438,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "74425fc156e19ec8",
+  "active": "90410cac1ff1ed73",
   "lastOpenFiles": [
-    "project/投资总结/投资.md",
     "project/投资总结/商业与经济发展结构.md",
+    "project/投资分析记录/沃特股份.md",
+    "project/投资总结/投资.md",
     "project/投资总结/行业.md",
     "Kanban/要事第一.md",
-    "project/投资分析记录/沃特股份.md",
     "attachment/PixPin_2025-11-18_19-02-07.jpg",
     "attachment/PixPin_2025-11-18_18-47-32.jpg",
     "project/投资总结/市场温度.md",
