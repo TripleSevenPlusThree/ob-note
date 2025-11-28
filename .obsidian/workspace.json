@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -145,6 +144,18 @@
             }
           },
           {
+            "id": "054f8f65bc39a27a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
+          },
+          {
             "id": "92b5df659ec0fa15",
             "type": "leaf",
             "state": {
@@ -206,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -438,7 +449,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "90410cac1ff1ed73",
+  "active": "963b3cb2ff8eb672",
   "lastOpenFiles": [
     "project/投资总结/商业与经济发展结构.md",
     "project/投资总结/投资.md",
