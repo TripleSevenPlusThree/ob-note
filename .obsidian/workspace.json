@@ -124,12 +124,12 @@
             "id": "31ea62545d87a1e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "project/投资总结/商业与经济发展结构.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "商业与经济发展结构"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... 商业与经济发展结构"
             }
           },
           {
