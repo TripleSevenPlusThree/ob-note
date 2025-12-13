@@ -14,12 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "project/投资总结/商业与经济发展结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "商业与经济发展结构 的大纲"
             }
           }
         ]
@@ -437,7 +438,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "a58ba7320d88e446",
+  "active": "31ea62545d87a1e7",
   "lastOpenFiles": [
     "project/投资总结/商业与经济发展结构.md",
     "project/投资总结/行业.md",
