@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
+                "file": "Kanban/要事第一.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "要事第一 的大纲"
             }
           }
         ]
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -438,7 +438,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "5bc224e95616265a",
+  "active": "e2ed2f0ec7f0e4fa",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "project/投资总结/商业与经济发展结构.md",
