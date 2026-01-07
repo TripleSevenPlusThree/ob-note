@@ -14,13 +14,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project/投资总结/投资.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "投资 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -438,7 +437,7 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "90410cac1ff1ed73",
+  "active": "c85cc0fc76518be4",
   "lastOpenFiles": [
     "project/投资总结/投资.md",
     "Kanban/要事第一.md",
